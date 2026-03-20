@@ -1,0 +1,6422 @@
+[0001]
+
+[0002]
+
+[0003]
+
+[0004]
+
+[0005]
+
+[0006]
+
+[[I]/0007]
+Gedichte
+von
+Eduard Mörike.
+
+
+Stuttgart und Tübingen.
+Verlag der J. G. Cotta'ſchen Buchhandlung.
+1838.
+
+[[II]/0008]
+
+[[III]/0009]
+Seinem Freunde
+Wilhelm Hartlaub
+zum Zeichen
+unveränderlicher Liebe
+gewidmet.
+
+
+[[IV]/0010]
+
+[[V]/0011]
+Inhalt.
+
+
+Seite
+
+An einem Wintermorgen 1
+
+Erinnerung 3
+
+Naͤchtliche Fahrt 6
+
+Der junge Dichter 9
+
+Der Knabe und das Immlein 12
+
+Rath einer Alten 14
+
+Begegnung 16
+
+Der Jaͤger 17
+
+Jaͤgerlied 19
+
+Schoͤn-Rohtraut 20
+
+Ein Stuͤndlein wohl vor Tag 22
+
+Das verlaſſene Maͤgdlein 23
+
+Storchenbotſchaft 24
+
+Die ſchlimme Greth und der Koͤnigsſohn 26
+
+Die Geiſter am Mummelſee 34
+
+Septembermorgen 36
+
+Er iſt's 37
+
+Erſtes Liebeslied eines Maͤdchens 38
+
+Liebesvorzeichen 40
+
+Nimmerſatte Liebe 42
+
+Suschens Vogel 43
+
+In der Fruͤhe 45
+
+Im Fruͤhling 46
+
+Fußreiſe 47
+
+Beſuch in Urach 48
+
+
+[VI/0012]
+Seite
+
+An eine Aeolsharfe 52
+
+Hochzeitlied 54
+
+Jung Volker 59
+
+Jung Volkers Lied 60
+
+Maſchinka's Lied 61
+
+Mein Fluß 62
+
+Joſephine 64
+
+Auf der Reiſe 66
+
+Frage und Antwort 67
+
+Heimweh 68
+
+Nachts 69
+
+Die traurige Kroͤnung 70
+
+Chor juͤdiſcher Maͤdchen 72
+
+Der Gaͤrtner 73
+
+Lied vom Winde 74
+
+Agnes 76
+
+Elfenlied 77
+
+Mausfallen-Spruͤchlein 78
+
+Die Schweſtern 79
+
+Des Schloßkuͤpers Geiſter zu Tuͤbingen 80
+
+Romanze vom wahnſinnigen Feuerreiter 85
+
+Erzengel Michaels Feder I. II. 87
+
+Idylle 97
+
+Akme und Septimius 101
+
+Loſe Waare 103
+
+Die Herbſtfeier 104
+
+Lied eines Verliebten 109
+
+An Clara 110
+
+Johann Kepler 112
+
+Auf das Grab von Schillers Mutter 113
+
+Theokrit 114
+
+An eine Lieblingsbuche meines Gartens, in deren Stamm ich
+Hoͤlty's Namen ſchnitt 115
+
+Tibullus 116
+
+An Hermann 117
+
+
+[VII/0013]
+Seite
+
+Muſe und Dichter 119
+
+Geſpraͤch vor Tage 120
+
+An meinen Arzt, Herrn Dr. Elſaͤſſer 121
+
+Der Geneſene an die Hoffnung 122
+
+Ideale Wahrheit 123
+
+Maſchinka 123
+
+Schnelle Beute 124
+
+Nachts am Schreibepult 124
+
+Vicia faba minor 125
+
+Auf dem Grabe eines Kuͤnſtlers 125
+
+An meine Mutter 126
+
+An Dieſelbe 126
+
+An H. K. 127
+
+Brockes 127
+
+Joſeph Haydn 127
+
+Auf einen Klavierſpieler 128
+
+P. K. 129
+
+An Friedrich Viſcher 130
+
+Die Anti-Sympathetiker 131
+
+An einen Liebesdichter 132
+
+Apoſtrophe 133
+
+Antike Poeſie 134
+
+Eberhard Waͤchter 135
+
+Seltſamer Traum 136
+
+Troſt 137
+
+Zum neuen Jahr 138
+
+Der Koͤnig bei der Kroͤnung 139
+
+Auf die Vermaͤhlung des Fuͤrſten v. Schwarzburg-Sondershauſen,
+mit Mathilde, Prinzeſſin von Hohenlohe 140
+
+Nanny's Traum 141
+
+Verborgenheit 143
+
+Suspirium 144
+
+An den Schlaf 145
+
+Wo find' ich Troſt? 146
+
+Auf ein altes Bild 147
+
+
+[VIII/0014]
+Seite
+
+Zurechtweiſung 148
+
+Am Walde 150
+
+Zu viel 151
+
+Liebesgluͤck 152
+
+An die Geliebte 153
+
+Nur zu! 154
+
+Charwoche 155
+
+Tag und Nacht 156
+
+Die Elemente 158
+
+Schiffer- und Nixen-Maͤhrchen.
+I. Vom Sieben-Nixen-Chor 162
+
+II. Nixe Binſefuß 166
+
+III. Zwei Liebchen 167
+
+IV. Der Zauberleuchtthurm 169
+
+
+Das luſtige Wirthshaus 171
+
+Maͤhrchen vom ſichern Mann 175
+
+Geſang Weyla's 190
+
+Der Tambour 191
+
+Die Soldatenbraut 192
+
+Auftrag 193
+
+Unſer Friz 195
+
+Einer verehrten Frau zum Geburtstage 197
+
+Die Viſite 198
+
+An — 200
+
+An Florentine 201
+
+Der Liebhaber an die heiße Quelle in B. 202
+
+Lammwirths Klagelied 203
+
+Der Kanonier 205
+
+Charis und Penia 206
+
+An meinen Vetter 208
+
+Gute Lehre 210
+
+Reſtauration 212
+
+Zur Warnung 213
+
+Alles mit Maas 214
+
+Kalter Streich 215
+
+
+[IX/0015]
+Seite
+
+Falſche Manier 216
+
+Schul-Schmaͤcklein 216
+
+Auf die Proſa eines Beamten 217
+
+Hanswurſt an der Sandmuͤhle 218
+
+Huͤlf' in der Noth 221
+
+Selbſtgeſtaͤndniß 222
+
+Bei einer Trauung 223
+
+Meines Vetters Brautfahrt 224
+
+An einen Prediger 225
+
+Paſtor an ſeine Zuhoͤrer 226
+
+Paſtoral-Erfahrung 226
+
+Neutheologiſche Kanzelberedtſamkeit 227
+
+Luͤckenbuͤßer 227
+
+An — 228
+
+Auskunft 228
+
+Abſchied 229
+
+Tout comme chez nous 230
+
+Peregrina I.–V. 231
+
+Um Mitternacht 236
+
+
+
+[[X]/0016]
+
+[[1]/0017]
+An einem Wintermorgen.
+Vor Sonnenaufgang.
+
+O flaumenleichte Zeit der dunkeln Fruͤhe!
+Welch neue Welt bewegeſt du in mir?
+Was iſt's, daß ich auf einmal nun in dir
+Von ſanfter Wolluſt meines Daſeyns gluͤhe?
+
+Einem Kryſtall gleicht meine Seele nun,
+Den noch kein falſcher Strahl des Lichts getroffen;
+Zu fluthen ſcheint mein Geiſt, er ſcheint zu ruh'n,
+Dem Eindruck naher Wunderkraͤfte offen,
+Die aus dem klaren Guͤrtel blauer Luft
+Zuletzt ein Zauberwort vor meine Sinne ruft.
+
+Bei hellen Augen glaub' ich doch zu ſchwanken,
+Ich ſchließe ſie, daß nicht der Traum entweiche;
+Seh' ich hinab in holde Feenreiche?
+Wer hat den bunten Schwarm von Bildern und Gedanken
+Zur Pforte meines Herzens hergeladen,
+Die glaͤnzend ſich in dieſem Buſen baden,
+Goldfarb'gen Fiſchlein gleich im Gartenteiche?
+
+
+Mörike, Gedichte. 1
+
+[2/0018]
+Ich hoͤre bald der Hirtenfloͤten Klaͤnge,
+Wie um die Krippe jener Wundernacht,
+Bald weinbekraͤnzter Jugend Luſtgeſaͤnge:
+Wer hat das friedenſelige Gedraͤnge
+In meine traurigen Waͤnde hergebracht?
+
+Und welch Gefuͤhl entzuͤckter Staͤrke,
+Indem mein Sinn ſich friſch zur Ferne lenkt?
+Vom erſten Mark des heut'gen Tags getraͤnkt,
+Fuͤhl' ich mir Muth zu jedem frommen Werke!
+Die Seele fliegt, ſo weit der Himmel reicht,
+Der Genius jauchzt in mir; — doch ſage,
+Warum wird jetzt der Blick von Wehmuth feucht?
+Iſt's ein verloren Gluͤck, was mich erweicht?
+Iſt es ein werdendes, was ich im Herzen trage?
+— Hinweg, mein Geiſt! hier gilt kein Stilleſtehn;
+Es iſt ein Augenblick, und — Alles wird verwehn!
+
+Dort ſieh! am Horizont luͤpft ſich der Vorhang ſchon,
+Es traͤumt der Tag, nun ſey die Nacht entflohn,
+Die Purpurlippe, die geſchloſſen lag,
+Haucht, halbgeoͤffnet, ſuͤße Athemzuͤge,
+Auf einmal blitzt das Aug', und, wie ein Gott, der Tag
+Beginnt im Sprung die koͤniglichen Fluͤge!
+
+
+
+[3/0019]
+Erinnerung.
+An C. N.
+
+Jenes war zum lezten Male,
+Daß ich mit dir ging, o Claͤrchen!
+Ja, das war das lezte Mal,
+Daß wir uns wie Kinder freuten.
+
+Als wir durch die ſonnenhellen,
+Regneriſchen Straßen liefen,
+Unterm ſeidnen Schirme eilend,
+Beide heimlich eingeſchloſſen,
+Wie in einem Feenſtuͤbchen,
+Endlich einmal Arm in Arme!
+
+Wenig wagten wir zu reden,
+Denn das Herz ſchlug zu gewaltig,
+Beide merkten wir es ſchweigend,
+Und ein Jedes ſchob im Stillen
+Des Geſichtes gluͤh'nde Roͤthe
+Auf den Widerſchein des Schirmes.
+Ach, ein Engel warſt du da!
+Wie du auf den Boden immer
+Blickteſt, und die blonden Locken
+Um den hellen Nacken fielen.
+
+
+1 *
+
+[4/0020]
+„Jezt iſt wohl ein Regenbogen
+An dem Himmel,“ ſagt' ich einmal:
+Dann in meinem frohen Muthe
+Sprach ich weiter dieſe Worte:
+„Kaͤm' auch keiner mehr an Himmel,
+Waͤr' es gar nicht zu verwundern,
+Denn die Leute ziehn ja ſelber
+Seine bunten Bogenſtreifen
+Zu ſich nieder auf die Gaſſen.
+Sieh nur, wie ſie ſich beeilen!
+Jeder mit dem Regendache
+Fuͤhret einen andern Farben-
+Bogen uͤber ſeinem Haupte,
+Jeder ſpringt mit ſeinem Raube,
+Blaue, rothe, violete, —
+Alles nehmen ſie mit fort.“
+
+Und du laͤchelteſt und bogeſt
+Mit mir um die lezte Ecke.
+
+Und ich bat dich um ein Roͤslein,
+Das du an der Bruſt getragen,
+Und du reichteſt mir's im Gehen
+Schnelle hin, das ſuͤße Roͤslein;
+Zitternd hob ich's an die Lippen,
+Kuͤßt' es bruͤnſtig zwei- und dreimal,
+Niemand konnte deſſen ſpotten,
+Keine Seele hat's geſehen,
+Und du ſelber ſahſt es nicht.
+
+
+
+[5/0021]
+An dem fremden Haus, wohin
+Ich dich zu begleiten hatte,
+Standen wir nun, weiß'ſt, ich druͤckte
+Dir die Hand und —
+
+Dieſes war zum lezten Male,
+Daß ich mit dir ging, o Claͤrchen!
+Ja, das war das lezte Mal,
+Daß wir uns wie Kinder freuten.
+
+
+
+[6/0022]
+Nächtliche Fahrt.
+Juͤngſt im Traum ward ich getragen
+Ueber fremdes Heideland;
+Vor den halbverſchloſſ'nen Wagen
+Schien ein Trauerzug geſpannt.
+
+Dann durch mondbeglaͤnzte Waͤlder
+Ging die ſonderbare Fahrt,
+Bis der Anblick offner Felder
+Endlich mir bekannter ward.
+
+Wie im luſtigen Gewimmel
+Tanzt nun Buſch und Baum vorbei!
+Und ein Dorf nun! Guter Himmel!
+O mir ahnet, was es ſey.
+
+Sah ich doch vor Zeiten gerne
+Dieſe Haͤuſer oft und viel,
+Die am Wagen die Laterne
+Streift im ſtummen Schattenſpiel.
+
+Ja, dort unterm Giebeldache
+Schlummerſt du, vergeßlich Herz!
+Und daß dein Getreuer wache,
+Sagt dir kein geheimer Schmerz.
+
+
+
+[7/0023]
+— Ferne waren ſchon die Huͤtten;
+Sieh', da flattert's durch den Wind!
+Eine Gabe zu erbitten
+Schien ein armes, holdes Kind.
+
+Wie vom boͤſen Geiſt getrieben,
+Werf' ich raſch der Bettlerin
+Ein Geſchenk von meiner Lieben,
+Jene goldne Kette, hin.
+
+Ploͤtzlich ſcheint ein Rad gebunden,
+Und der Wagen ſteht gebannt,
+Und das holde Maͤdchen unten
+Haͤlt mich ſchelmiſch bei der Hand.
+
+„Denkt man ſo damit zu ſchalten?
+So entdeck' ich den Betrug?
+Doch, den Wagen feſtzuhalten,
+War die Kette ſtark genug.
+
+Willſt du, daß ich dir verzeihe,
+Sey erſt ſelber wieder gut!
+Oder wo iſt deine Treue,
+Falſches Herze, falſches Blut?“
+
+Und ſie ſtreichelt mir die Wange,
+Kuͤßt mir das erfrorne Kinn,
+Steht und laͤchelt, weinet lange
+Als die ſchoͤnſte Buͤßerin.
+
+
+
+[8/0024]
+Doch mir bleibt der Mund verſchloſſen,
+Und kaum weiß ich, was geſchehn;
+Ganz in ihren Arm gegoſſen,
+Schien ich ſelig zu vergehn.
+
+Und nun fliegt mit uns, ihr Pferde,
+In die graue Welt hinein!
+Unter uns vergeh' die Erde
+Und kein Morgen ſoll mehr ſeyn!
+
+
+
+[9/0025]
+Der junge Dichter.
+Wenn der Schoͤnheit ſonſt, der Anmuth
+Immer fluͤchtige Erſcheinung
+Wie ein heller Glanz der Sonne
+Einmal vor die Sinne wieder
+Mit der Neuheit Zauber trat,
+Daß ein heimlich trunknes Jauchzen
+Mir der Ausdruck lautern Dankes
+Fuͤr ſolch ſuͤßes Daſeyn war:
+O wie drang es da mich armen,
+Mich unmuͤnd'gen Sohn Apollens,
+Dieſes Alles auch in ſchoͤner,
+Abgeſchloſſener Geſtaltung
+Feſt, auf ewig feſtzuhalten,
+Es durch goldne Leierklaͤnge
+So zum Einklang mit mir ſelber
+Umzubilden, neu zu ſchaffen,
+Daß ich, heiter wie ein Gott,
+Ueber der gediegnen Schoͤne,
+Die aus mir herausgetreten,
+Die ich ganz mein eigen nenne,
+Ruhig, klaren Auges ſchwebe.
+
+Doch, wenn mir das tief Empfundne
+Nicht alsbald ſo rein und voͤllig,
+Wie es in der Seele lebte,
+In des Dichters zweite Seele,
+Den Geſang, hinuͤberſpielte,
+
+
+
+[10/0026]
+Wenn ich nur mit ſtumpfem Finger
+Ungelenk die Saiten ruͤhrte,
+Sollt' ich dann nicht muthlos werden,
+Daß ich ſtets ein Schuͤler bleibe?
+
+Aber, Liebchen, ſieh, bei dir
+Bin ich ploͤtzlich wie verwandelt,
+Im erwaͤrmten Winterſtuͤbchen
+Bei dem Schimmer dieſer Lampe,
+Wo ich deinen Worten lauſche,
+Hold beſcheidnen Liebesworten.
+Wie du dann geruhig deine
+Braunen Lockenhaare ſchlichteſt,
+Alſo legt ſich ſchoͤn geglaͤttet
+All dies wirre Bilderweſen,
+All des Herzens eitle Sorge,
+Viel-zertheiltes Thun und Denken.
+Froh begeiſtert, leicht gefiedert,
+Flieg' ich aus der Dichtung engen
+Roſenbanden, daß ich nur
+Noch in ihrem reinen Dufte,
+Als im Elemente, lebe.
+
+Oder, Maͤdchen, ſage mir,
+Biſt du gar die Muſe ſelber,
+Die, wie wahre Dichtung pflegt,
+Selbſt unwiſſend, wer ſie ſey,
+Mich in ihren Armen haͤlt,
+Daß ich ſelber, eins mit ihr,
+Nur ein zart Gedicht erſcheine?
+
+
+
+[11/0027]
+O du Liebliche, du laͤchelſt,
+Schuͤttelſt, kuͤſſend mich, das Koͤpfchen,
+Und begreifſt nicht, was ich meine.
+Moͤcht' ich ſelber es nicht wiſſen,
+Wiſſen nur, daß du mich liebeſt,
+Daß ich in dem Flug der Zeit
+Deine kleinen Haͤnde halte!
+
+
+
+[12/0028]
+Der Knabe und das Immlein.
+Im Weinberg auf der Hoͤhe
+Ein Haͤuslein ſteht ſo windebang,
+Hat weder Thuͤr noch Fenſter,
+Die Weile wird ihm lang.
+
+Und iſt der Tag ſo ſchwuͤle,
+Sind all' verſtummt die Voͤgelein;
+Summt an der Sonnenblume
+Ein Immlein ganz allein.
+
+Mein Lieb hat einen Garten,
+Da ſteht ein huͤbſches Immenhaus:
+Kommſt du daher geflogen?
+Schickt ſie dich nach mir aus?
+
+„O nein, du feiner Knabe,
+Es hieß mich Niemand Boten gehn;
+Dies Kind weiß nichts von Lieben,
+Hat dich noch kaum geſehn.
+
+Was wuͤßten auch die Maͤdchen,
+Wenn ſie kaum aus der Schule ſind!
+Dein herzallerliebſtes Schaͤtzchen
+Iſt noch ein Mutterkind.
+
+
+
+[13/0029]
+Ich bring' ihm Wachs und Honig;
+Ade! — ich hab' ein ganzes Pfund;
+Wie wird das Schaͤtzchen lachen,
+Ihm waͤſſert ſchon der Mund.“
+
+Ach, wollteſt du ihr ſagen:
+Ich wuͤßte, was viel ſuͤßer iſt:
+Nichts Lieblichers auf Erden
+Als wenn man herzt und kuͤßt!
+
+
+
+[14/0030]
+Rath einer Alten.
+Bin jung geweſen,
+Kann auch mit reden,
+Und alt geworden,
+Drum gilt mein Wort.
+
+Schoͤn reife Beeren
+Am Baͤumchen hangen:
+Nachbar, da hilft kein
+Zaun um den Garten;
+Luſtige Voͤgel
+Wiſſen den Weg.
+
+Aber, mein Dirnchen,
+Du laß dir rathen:
+Halte dein Schaͤtzchen
+Wohl in der Liebe,
+Wohl im Reſpekt!
+
+Mit den zwei Faͤdlein,
+In Eins gedrehet,
+Ziehſt du am kleinen
+Finger ihn nach.
+
+Aufrichtig Herze,
+Doch ſchweigen koͤnnen,
+Fruͤh mit der Sonne
+
+
+
+[15/0031]
+Muthig zur Arbeit,
+Geſunde Glieder,
+Saubere Linnen,
+Das machet Maͤdchen
+Und Weibchen werth.
+
+Bin jung geweſen,
+Kann auch mit reden,
+Und alt geworden,
+Drum gilt mein Wort.
+
+
+
+[16/0032]
+Begegnung.
+Was doch heut Nacht ein Sturm geweſen,
+Bis erſt der Morgen ſich geregt!
+Wie hat der ungebetne Beſen
+Kamin und Gaſſen ausgefegt!
+
+Da kommt ein Maͤdchen ſchon die Straßen,
+Das halb verſchuͤchtert um ſich ſieht;
+Wie Roſen, die der Wind zerblaſen,
+So unſtet ihr Geſichtchen gluͤht.
+
+Ein ſchoͤner Burſch tritt ihr entgegen,
+Er will ihr voll Entzuͤcken nahn:
+Wie ſehn ſich freudig und verlegen
+Die ungewohnten Schelme an!
+
+Er ſcheint zu fragen, ob das Liebchen
+Die Zoͤpfe ſchon zurecht gemacht,
+Die heute Nacht im offnen Stuͤbchen
+Ein Sturm in Unordnung gebracht.
+
+Der Burſche traͤumt noch von den Kuͤſſen,
+Die ihm das ſuͤße Kind getauſcht,
+Er ſteht, von Anmuth hingeriſſen,
+Derweil ſie um die Ecke rauſcht.
+
+
+
+[17/0033]
+Der Jäger.
+Drei Tage Regen fort und fort,
+Kein Sonnenſchein zur Stunde,
+Drei Tage lang kein gutes Wort
+Aus meiner Liebſten Munde!
+
+Sie truzt mit mir und ich mit ihr,
+So hat ſie's haben wollen;
+Mir aber nagt's am Herzen hier,
+Das Schmollen und das Grollen.
+
+Willkommen denn, des Jaͤgers Luſt,
+Gewitterſturm und Regen!
+Feſt zugeknoͤpft die heiße Bruſt,
+Und jauchzend euch entgegen!
+
+Nun ſizt ſie wohl daheim und lacht,
+Und ſcherzt mit den Geſchwiſtern;
+Ich hoͤre in des Waldes Nacht
+Die alten Blaͤtter fluͤſtern.
+
+Nun ſizt ſie wohl und weinet laut
+Im Kaͤmmerlein, in Sorgen;
+Mir iſt es wie dem Wilde traut,
+In Finſterniß geborgen.
+
+
+Moͤrike, Gedichte. 2
+
+[18/0034]
+Kein Hirſch und Rehlein uͤberall!
+Ein Schuß zum Zeitvertreibe!
+Geſunder Knall und Widerhall
+Erfriſcht das Mark im Leibe. —
+
+Doch wie der Donner nun verhallt
+In Thaͤlern in die Runde,
+Ein ploͤtzlich Weh mich uͤberwallt,
+Mir ſinkt das Herz zu Grunde.
+
+Sie truzt mit mir und ich mit ihr,
+So hat ſie's haben wollen,
+Mir aber frißt's am Herzen hier,
+Das Schmollen und das Grollen.
+
+Und auf! und nach der Liebſten Haus!
+Und ſie gefaßt um's Mieder!
+„Druͤck' mir die naſſen Locken aus,
+Und kuͤſſ' und hab' mich wieder!“
+
+
+
+[19/0035]
+Jägerlied.
+Zierlich iſt des Vogels Tritt im Schnee,
+Wenn er wandelt auf des Berges Hoͤh':
+Zierlicher ſchreibt Liebchens liebe Hand,
+Schreibt ein Brieflein mir in ferne Land'.
+
+In die Luͤfte hoch ein Reiher ſteigt,
+Dahin weder Pfeil noch Kugel fleugt:
+Tauſendmal ſo hoch und ſo geſchwind
+Die Gedanken treuer Liebe ſind.
+
+
+2 *
+
+[20/0036]
+Schön-Rohtraut.
+Wie heißt Koͤnig Ringangs Toͤchterlein?
+Rohtraut, Schoͤn-Rohtraut.
+Was thut ſie denn den ganzen Tag,
+Da ſie wohl nicht ſpinnen und naͤhen mag?
+Thut fiſchen und jagen.
+O daß ich doch ihr Jaͤger waͤr'!
+Fiſchen und jagen freute mich ſehr.
+— Schweig' ſtille, mein Herze!
+
+Und uͤber eine kleine Weil',
+Rohtraut, Schoͤn-Rohtraut,
+So dient der Knab' auf Ringangs Schloß
+In Jaͤgertracht und hat ein Roß,
+Mit Rohtraut zu jagen.
+O daß ich doch ein Koͤnigsſohn waͤr'!
+Rohtraut, Schoͤn-Rohtraut lieb' ich ſo ſehr.
+— Schweig' ſtille, mein Herze!
+
+Einsmals ſie ruhten am Eichenbaum,
+Da lacht Schoͤn-Rohtraut:
+Was ſiehſt mich an ſo wunniglich?
+Wenn du das Herz haſt, kuͤſſe mich!
+Ach! erſchrak der Knabe!
+Doch denket er: mir iſt's vergunnt,
+Und kuͤſſet Schoͤn-Rohtraut auf den Mund.
+— Schweig' ſtille, mein Herze!
+
+
+
+[21/0037]
+Darauf ſie ritten ſchweigend heim,
+Rohtraut, Schoͤn-Rohtraut;
+Es jauchzt der Knab' in ſeinem Sinn:
+Und wuͤrd'ſt du heute Kaiſerin,
+Mich ſollt's nicht kraͤnken:
+Ihr tauſend Blaͤtter im Walde wißt,
+Ich hab' Schoͤn-Rohtrauts Mund gekuͤßt!
+— Schweig' ſtille, mein Herze!
+
+
+
+[22/0038]
+Ein Stündlein wohl vor Tag.
+Derweil ich ſchlafend lag,
+Ein Stuͤndlein wohl vor Tag,
+Sang vor dem Fenſter auf dem Baum
+Ein Schwaͤlblein mir, ich hoͤrt' es kaum,
+Ein Stuͤndlein wohl vor Tag:
+
+Hoͤr' an, was ich dir ſag',
+Dein Schaͤtzlein ich verklag':
+Derweil ich dieſes ſingen thu',
+Herzt er ein Lieb in guter Ruh,
+Ein Stuͤndlein wohl vor Tag.
+
+O weh! nicht weiter ſag'!
+O ſtill! nichts hoͤren mag!
+Flieg' ab, flieg' ab von meinem Baum!
+— Ach, Lieb' und Treu iſt wie ein Traum
+Ein Stuͤndlein wohl vor Tag.
+
+
+
+[23/0039]
+Das verlaſſene Mägdlein.
+Fruͤh, wann die Haͤhne kraͤhn,
+Eh' die Sternlein verſchwinden,
+Muß ich am Herde ſtehn,
+Muß Feuer zuͤnden.
+
+Schoͤn iſt der Flammen Schein,
+Es ſpringen die Funken,
+Ich ſchaue ſo drein,
+In Leid verſunken.
+
+Ploͤtzlich, da kommt es mir,
+Treuloſer Knabe,
+Daß ich die Nacht von dir
+Getraͤumet habe.
+
+Thraͤne auf Thraͤne dann
+Stuͤrzet hernieder,
+So kommt der Tag heran, —
+O ging' er wieder!
+
+
+
+[24/0040]
+Storchenbotſchaft.
+Des Schaͤfers ſein Haus und das ſteht auf zwei Rad,
+Steht hoch auf der Heiden, ſo fruͤhe, wie ſpat.
+Und wenn nur ein Mancher ſo'n Nachtquartier haͤtt'!
+Ein Schaͤfer tauſcht nicht mit dem Koͤnig ſein Bett.
+
+Und kaͤm' ihm zu Nacht auch was Seltſames vor,
+Er betet ſein Spruͤchel und legt ſich auf's Ohr,
+Ein Geiſtlein, ein Hexlein, ſo luſtige Wicht',
+Sie klopfen ihm wohl, doch er antwortet nicht.
+
+Einmal doch, da ward es ihm wirklich zu bunt,
+Es knopert am Laden, es winſelt der Hund,
+Nun ziehet mein Schaͤfer den Riegel — ei ſchau!
+Da ſtehen zwei Stoͤrche, der Mann und die Frau.
+
+Das Paͤrchen, es machet ein ſchoͤn Kompliment,
+Es moͤchte gern reden, ach, wenn es nur koͤnnt'!
+Was will mir das Ziefer? iſt ſo was erhoͤrt?
+Doch iſt mir wohl froͤhliche Botſchaft beſcheert.
+
+Ihr ſeyd wohl dahinten zu Hauſe am Rhein?
+Ihr habt wohl mein Maͤdel gebiſſen in's Bein?
+Nun weinet das Kind und die Mutter noch mehr,
+Sie wuͤnſchet den Herzallerliebſten ſich her?
+
+
+
+[25/0041]
+Und wuͤnſchet daneben die Taufe beſtellt:
+Ein Laͤmmlein, ein Wuͤrſtlein, ein Beutelein Geld? —
+So ſagt nur, ich kaͤm' in zwei Tag oder drei,
+Und gruͤßt mir mein Buͤbel und ruͤhrt ihm den Brei!
+
+Doch halt! warum ſtellt ihr zu Zweien euch ein?
+Es werden doch, hoff' ich, nicht Zwillinge ſeyn? —
+Da klappern die Stoͤrche im luſtigſten Ton,
+Sie nicken und knixen und fliegen davon.
+
+
+
+[26/0042]
+Die ſchlimme Greth und der Königsſohn.
+„Mein Vater iſt ein Muͤller,
+Ich bin ſein einzig Kind;
+Ich habe keinen Muͤhlbach hier,
+Die Muͤhle treibt der Wind.
+
+Die ſtangenlangen Fluͤgel
+Sie haspeln leere Luft:
+Ich lebe von dem Winde leicht
+Und Regenbogenduft.“ —
+
+„Mein Vater war ein Koͤnig,
+Ich bin ſein einziger Sohn.
+Dreimal verwuͤnſchet ſey der Tag
+An dem ich ſtieg zu Thron!
+
+Es riß die rothe Fahn' vom Thurm
+Die Windsbraut und ihr Troß,
+Es that ſich auf der Erden Grund,
+Es fiel mein Koͤnigsſchloß.
+
+Da ſchrien die Prieſter Ach und Weh,
+Mein Volk in Waffen ſtand,
+Bei Nacht und Nebel mußt' ich fliehn
+Aus meiner Vaͤter Land.
+
+
+
+[27/0043]
+Und drunten an dem Berge
+Die Huͤtte dort iſt mein,
+Da liegt auch meine Krone,
+Geſchmuck und Edelſtein.
+
+Willt du meine Liebſte heißen,
+So ſage, wie und wann,
+An Tagen und in Naͤchten
+Ich zu dir kommen kann?“ —
+
+„Ich bind' eine guͤldne Pfeife
+Wohl an den Fluͤgel hin,
+Daß ſie ſich helle hoͤren laͤßt,
+Wann ich daheime bin.
+
+Doch willt du bei mir wohnen,
+Sollt mir willkommen ſeyn:
+Mein Haus iſt groß und weit mein Hof,
+Da wohn ich ganz allein.“ —
+
+Der Koͤnigsſohn ihr folget
+Mit Freuden in ihr Haus;
+Sie tiſcht ihm auf, ſie ſpielet ihm
+Die Zither fein zum Schmaus.
+
+Und ſchaffet, was ſein Herz begehrt,
+Er fragt nicht lang woher;
+Ein Kuͤßlein ſie ihm auch gewaͤhrt,
+Doch weiter nimmermehr.
+
+
+
+[28/0044]
+Einsmals da kam der Koͤnigsſohn
+Am Morgen von der Jagd,
+Er ſah gar ſcheu und bange drein,
+Er ſprach zu ſeiner Magd:
+
+„Die Leute reden ſchlimm von dir,
+Schatz, ſey auf deiner Hut!
+Sie thaͤten dich gern verderben,
+Du ſuͤßes junges Blut!“ —
+
+„Sie ſagen, daß ich ein falſches Ding,
+Daß ich eine Hexe ſey?“ —
+„Ach, Liebſte, ja ſo ſprechen ſie!
+Eine Hexe, meiner Treu!
+
+Das macht, du biſt die Schoͤnſt' im Land,
+Sie ſind voll Gift und Neid;
+O ihr beerſchwarzen Augen, ihr
+Seyd dennoch meine Freud'.
+
+Und laͤnger ruh' ich keinen Tag,
+Bis daß ich Koͤnig bin,
+Und morgen zieh' ich auf die Fahrt:
+Aufs Jahr biſt du Koͤnigin!“ —
+
+Sie ſieht ihn an ſo ſchelmiſch,
+Sie ſieht ihn an ſo ſchlau:
+„Du luͤgſt in deinen Hals hinein,
+Du willt keine Hex zur Frau!
+
+
+
+[29/0045]
+Du willt dich von mir ſcheiden;
+Das mag ja wohl geſchehn:
+Sollt aber von der ſchlimmen Greth
+Noch erſt ein Probſtuͤck ſehn.“ —
+
+„Ach, Liebchen, ach, wie wallet hoch
+Dein ſchwarzes Ringelhaar!
+Und ruͤhret ſich kein Luͤftchen doch,
+O ſage, was es war?
+
+Schon wieder, ach, und wieder!
+Du lacheſt und mir graut:
+Es ſingen deine Zoͤpfe ... Weh!
+Du biſt die Windesbraut!
+
+Du riſſeſt die Fahn' von meinem Thurm!
+Mein Schloß verheerteſt du!“ —
+„O nein! die Fahne nahm ich zwar,
+Dein Schloß ließ ich in Ruh';
+
+Tief unter deinem Felſen haͤlt
+Mein Bruder Grabesraſt,
+Er baͤumte ſich im Schlafe nur,
+Da ſtuͤrzte dein Palaſt.
+
+Und bin ich auch des Windes Braut,
+Der Schaden iſt nicht groß;
+Komm, kuͤſſe mich! ich halte dich
+Und laſſe dich nimmer los!
+
+
+
+[30/0046]
+O pfui, das iſt ein ſchief Geſicht!
+Du wirſt ja kreideweiß!
+Friſch, munter, Prinz! ich gebe dir
+Ein luſtig Stuͤcklein preis.“ —
+
+Ruͤhrloͤffel in der Kuͤch' ſie holt,
+Ruͤhrloͤffel ihrer zwei,
+War jeder eine Elle lang,
+Waren beide nagelneu.
+
+„Was guckſt du ſo erſchrocken?
+Denkſt wohl, es gaͤbe Streich?
+Ach nein, Herzliebſter, warte nur,
+Dein Wunder ſiehſt du gleich.“
+
+Auf den obern Boden fuͤhrt ſie ihn:
+„Schau, was ein weiter Platz!
+Wie ausgeblaſen, huͤbſch und rein!
+Hie tanzen wir, mein Schatz.
+
+Schau, was ein Nebel zieht am Berg!
+Gib Acht, ich thu' ihn ein!“
+Sie beugt ſich aus dem Laden weit,
+Die Geiſter zu bedraͤu'n;
+
+Sie wirbelt uͤber einander
+Ihre Loͤffel ſo wunderlich,
+Sie wickelt den Nebel und wickelt,
+Und ſchmeißt ihn hinter ſich.
+
+
+
+[31/0047]
+Sie langt hervor ein Saitenſpiel,
+Sah wie ein Hackbret aus,
+Sie ruͤhret es nur leiſe,
+Es zittert das ganze Haus.
+
+„Theil' dich, theil' dich, du Wolkendunſt!
+Ihr Geiſter, geht herfuͤr!
+Lange Maͤnner, lange Weiber, ſeyd
+Hurtig zu Dienſte mir!“
+
+Da fangt es an zu kreiſen,
+Da wallet es hervor,
+Lange Arme, lange Schleppen,
+Und wieget ſich im Chor.
+
+„Faßt mir den dummen Jungen da!
+Geſchwinde wickelt ihn ein!
+Er hat mein Herz gekraͤnket ſchwer,
+Das ſoll er mir bereun.“
+
+Den Juͤngling von dem Boden hebt's,
+Es dreht ihn um und um,
+Es traͤgt ihn als ein Wickelkind
+Dreimal im Saal herum.
+
+Margreth ein Woͤrtlein murmelt,
+Klatſcht in die Hand dazu:
+Da fegt es wie ein Wirbelwind
+Durch's Fenſter fort im Nu.
+
+
+
+[32/0048]
+Und faͤhret uͤber die Berge,
+Den Juͤngling mitten inn',
+Und fort bis wo der Pfeffer waͤchst —
+O du Knabe, wie iſt dir zu Sinn?
+
+Und als er ſich beſonnen,
+Lag er im gruͤnen Gras,
+Gar hoch auf einer Heiden,
+Die Liebſte bei ihm ſaß.
+
+Ein Teppich iſt gebreitet,
+Koͤſtlich gewirket, bunt,
+Darauf ein luſtig Eſſen
+In blankem Silber ſtund.
+
+Und als er ſich die Augen reibt
+Und ſchaut ſich um und an,
+Iſt ſie wie eine Prinzeſſin ſchoͤn,
+Wie ein Prinz er angethan.
+
+Sie ſieht ihn an ſo ſchelmiſch,
+Sie ſchenkt ihm lieblich ein,
+Er will nicht weiter trinken,
+Legt ſich zur Buhlin ſein.
+
+Da ging es an ein Kuͤſſen,
+Er kriegt nicht ſatt an ihr:
+Fuͤrwahr ihr guͤldner Guͤrtel waͤr'
+Zu Schaden kommen ſchier.
+
+
+
+[33/0049]
+„O Liebchen, ſchau, wie wallet hoch
+Dein ſchwarzes Ringelhaar!
+Warum mich ſo erſchrecken jezt?
+Nun iſt meine Freude gar.“ —
+
+„Hu! meine Zoͤpfe ſauſen
+Und ſingen wunderſam —
+Mir iſt, ich muͤſſe dich wuͤrgen,
+Herzliebſter Braͤutigam!
+
+Ruͤck her! ruͤck her! ſey nicht ſo bang!
+Nun ſollt du erſt noch ſehn,
+Wie lieblich meine Arme thun,
+Komm, es iſt gleich geſchehn!“ — —
+
+Sie druͤckt ihn an die Bruͤſte,
+Der Athem wird ihm ſchwer,
+Sie ſingt ein luſtig Todtenlied
+Und traͤgt ihn uͤber das Meer.
+
+
+Moͤrike, Gedichte. 3
+
+[34/0050]
+Die Geiſter am Mummelſee.
+Wechſelgeſang.
+
+Vom Berge, was kommt dort um Mitternacht ſpaͤt
+Mit Fackeln ſo praͤchtig herunter?
+Ob das wohl zum Tanze, zum Feſte noch geht?
+Mir klingen die Lieder ſo munter.
+O nein!
+So ſage, was mag es wohl ſeyn?
+
+Das, was du da ſieheſt, iſt Todtengeleit,
+Und was du da hoͤreſt, ſind Klagen,
+Dem Koͤnig, dem Zauberer, gilt es zu Leid,
+Und Geiſter nur ſind's, die ihn tragen.
+Ach wohl!
+Sie ſingen ſo traurig und hohl.
+
+Sie ſchweben hernieder ins Mummelſeethal,
+Sie haben den See ſchon betreten,
+Sie ruͤhren und netzen den Fuß nicht einmal,
+Sie ſchwirren in leiſen Gebeten:
+O ſchau,
+Am Sarge die glaͤnzende Frau!
+
+
+
+[35/0051]
+Jezt oͤffnet der See das gruͤnſpiegelnde Thor;
+Gib Acht, nun tauchen ſie nieder!
+Es ſchwankt eine lebende Treppe hervor,
+Und — drunten ſchon ſummen die Lieder.
+Hoͤrſt du?
+Sie ſingen ihn unten zur Ruh.
+
+Die Waſſer, wie lieblich ſie brennen und gluͤhn!
+Sie ſpielen in gruͤnendem Feuer;
+Es geiſten die Nebel am Ufer dahin,
+Zum Meere verzieht ſich der Weiher.
+Nur ſtill:
+Ob dort ſich nichts ruͤhren will?
+
+Es zuckt in der Mitten — o Himmel! ach hilf!
+Ich glaube, ſie nahen, ſie kommen!
+Es orgelt im Rohr und es klirret im Schilf;
+Nur hurtig, die Flucht nur genommen!
+Davon!
+Sie wittern, ſie haſchen mich ſchon!
+
+
+3 *
+
+[36/0052]
+Septembermorgen.
+Im Nebel ruhet noch die Welt,
+Noch traͤumen Wald und Wieſen:
+Bald ſiehſt du, wenn der Schleier faͤllt,
+Den blauen Himmel unverſtellt,
+Herbſtkraͤftig die gedaͤmpfte Welt
+In warmem Golde fließen.
+
+
+
+[37/0053]
+Er iſt's.
+Fruͤhling laͤßt ſein blaues Band
+Wieder flattern durch die Luͤfte,
+Suͤße, wohlbekannte Duͤfte
+Streifen ahnungsvoll das Land.
+Veilchen traͤumen ſchon,
+Wollen balde kommen.
+— Horch, von fern ein leiſer Harfenton!
+Fruͤhling, ja du biſt's,
+Fruͤhling, ja du biſt's!
+Dich hab' ich vernommen!
+
+
+
+[38/0054]
+Erſtes Liebeslied eines Mädchens.
+Was im Netze? Schau einmal!
+Aber ich bin bange;
+Greif' ich einen ſuͤßen Aal?
+Greif' ich eine Schlange?
+
+Lieb' iſt blinde
+Fiſcherin;
+Sagt dem Kinde,
+Wo greift's hin?
+
+Schon ſchnellt mir's in Haͤnden!
+Ach Jammer! o Luſt!
+Mit Schmiegen und Wenden
+Mir ſchluͤpft's an die Bruſt.
+
+Es beißt ſich, o Wunder!
+Mir keck durch die Haut,
+Schießt's Herze hinunter,
+O Liebe! mir graut!
+
+Was thun, was beginnen?
+Das ſchaurige Ding,
+Es ſchnalzet da drinnen,
+Es legt ſich im Ring.
+
+
+
+[39/0055]
+Gift muß ich haben!
+Hier ſchleicht es herum,
+Thut wonniglich graben
+Und bringt mich noch um!
+
+
+
+[40/0056]
+Liebesvorzeichen.
+Ich ſtand am Morgen juͤngſt im Garten
+Vor dem Granatbaum ſinnend ſtill;
+Mir war, als muͤßt' ich gleich erwarten,
+Ob er die Knoſpe ſprengen will.
+
+Sie aber ſchien es nicht zu wiſſen,
+Wie maͤchtig ihr die Fuͤlle ſchwoll,
+Und daß ſie in den Feuerkuͤſſen
+Des goldnen Tages brennen ſoll.
+
+Und dort am Raſen lag Jorinde;
+Wie ſchnell bin ich zum Gruß bereit,
+Indeß ſie ſich nur erſt geſchwinde
+Den Schlummer aus den Augen ſtreut!
+
+Dann leuchtet dieſer Augen Schwaͤrze
+Mich an in Lieb' und guter Ruh,
+Sie hoͤrt dem Muthwill meiner Scherze
+Mit kindiſchem Verwundern zu.
+
+Dazwiſchen dacht' ich wohl im Stillen:
+Du gut und unerfahren Kind!
+Die Lippen, die von Reife quillen,
+Wie bloͤde noch und fromm geſinnt!
+
+
+
+[41/0057]
+Fuͤrwahr, ſie ſchien es nicht zu wiſſen,
+Wie maͤchtig ihr die Fuͤlle ſchwoll,
+Und daß ſie in den Feuerkuͤſſen
+Des wildſten Knaben brennen ſoll.
+
+Still uͤberlegt' ich auf und nieder,
+Und ging ſo meiner Wege fort,
+Doch ſchon der naͤchſte Morgen wieder
+Fand mich an dem Granatbaum dort.
+
+Wer hat dem Baum in wenig Stunden
+Ein ſolches Wunder angethan?
+Die Flammenkrone aufgebunden?
+Und was ſagt mir dies Zeichen an?
+
+Ich eile raſch den Gang hinunter,
+Dort geht das Kind im Morgenſtrahl,
+Und bald, o Wunder uͤber Wunder!
+Wir kuͤßten uns zum erſten Mal!
+
+Nun trieb der Baum wohl Bluͤth' auf Bluͤthe
+Friſch in die blaue Luft hinaus,
+Und noch, ſeitdem er lang vergluͤhte,
+Ging uns das Kuͤſſen nimmer aus.
+
+
+
+[42/0058]
+Nimmerſatte Liebe.
+So iſt die Lieb! So iſt die Lieb!
+Mit Kuͤſſen nicht zu ſtillen;
+Wer iſt der Thor und will ein Sieb
+Mit eitel Waſſer fuͤllen?
+Und ſchoͤpf'ſt du an die tauſend Jahr,
+Und kuͤſſeſt ewig, ewig gar,
+Du thuſt ihr nie zu Willen.
+
+Die Lieb, die Lieb hat alle Stund
+Neu wunderlich Geluͤſten,
+Wir biſſen uns die Lippen wund,
+Da wir uns heute kuͤßten.
+Das Maͤdchen hielt in guter Ruh,
+Wie's Laͤmmlein unter'm Meſſer;
+Ihr Auge bat: nur immer zu,
+Je weher, deſto beſſer!
+
+So iſt die Lieb, und war auch ſo,
+Wie lang es Liebe gibt,
+Und anders war Herr Salomo,
+Der Weiſe, nicht verliebt.
+
+
+
+[43/0059]
+Suschens Vogel.
+Ich hatt' ein Voͤglein, ach wie fein!
+Kein ſchoͤners mag wohl nimmer ſeyn:
+
+Haͤtt' auf der Bruſt ein Herzlein roth,
+Und ſung und ſung ſich ſchier zu todt.
+
+Herzvogel mein, ſo wunderſchoͤn,
+Jezt ſollt du mit zu Markte gehn! —
+
+Und da ich durch das Staͤdtlein kam,
+Es ſaß auf meiner Achſel zahm;
+
+Und als ich ging am Haus vorbei
+Des Knaben, dem ich brach die Treu,
+
+Der Knab' juſt aus dem Fenſter ſah,
+Mit ſeinem Finger ſchnalzt er da:
+
+Wie horchet gleich mein Vogel auf!
+Zum Knaben fliegt er huſch! hinauf;
+
+Der koſet ihn ſo lieb und hold,
+Ich wußt nicht, was ich machen ſollt,
+
+Und ſtund, im Herzen ſo erſchreckt,
+Mit Haͤnden mein Geſichte deckt',
+
+
+
+[44/0060]
+Und ſchlich davon und weinet' ſehr,
+Mir war, als rief' es hinterher:
+
+„Du falſche Maid, behuͤt' dich Gott,
+Ich hab' doch wieder mein Herzlein roth!“
+
+
+
+[45/0061]
+In der Frühe.
+Kein Schlaf noch kuͤhlt das Auge mir,
+Dort gehet ſchon der Tag herfuͤr
+An meinem Kammerfenſter.
+Es wuͤhlet mein verſtoͤrter Sinn
+Noch zwiſchen Zweifeln her und hin
+Und ſchaffet Nachtgeſpenſter.
+Aengſte, quaͤle
+Dich nicht laͤnger, meine Seele!
+Freu' dich! ſchon ſind da und dorten
+Morgenglocken wach geworden.
+
+
+
+[46/0062]
+Im Frühling.
+Hier lieg' ich auf dem Fruͤhlingshuͤgel;
+Die Wolke wird mein Fluͤgel,
+Ein Vogel fliegt mir voraus.
+Ach, ſag mir, all-einzige Liebe,
+Wo du bleibſt, daß ich bei dir bliebe,
+Doch du und die Luͤfte, ſie haben kein Haus.
+
+Der Sonnenblume gleich ſteht mein Gemuͤthe offen,
+Sehnend,
+Sich dehnend,
+In Lieben und Hoffen.
+Fruͤhling, was biſt du gewillt?
+Wann werd' ich geſtillt?
+
+Die Wolke ſeh' ich wandeln und den Fluß,
+Es dringt der Sonne goldner Kuß
+Mir tief bis in's Gebluͤt hinein;
+Die Augen, wunderbar berauſchet,
+Thun, als ſchliefen ſie ein,
+Nur noch das Ohr dem Ton der Biene lauſchet.
+Ich denke Dies, und denke Das,
+Ich ſehne mich, und weiß nicht recht, nach was:
+Halb iſt es Luſt, halb iſt es Klage;
+Mein Herz, o ſage:
+Was webſt du fuͤr Erinnerung
+In golden gruͤner Zweige Daͤmmerung?
+— Alte unnennbare Tage!
+
+
+
+[47/0063]
+Fuſsreiſe.
+Am friſchgeſchnitt'nen Wanderſtab,
+Wenn ich in der Fruͤhe
+So durch Waͤlder ziehe,
+Huͤgel auf und ab:
+Dann wie's Voͤgelein im Laube
+Singet und ſich ruͤhrt,
+Oder wie die goldne Traube
+Wonnegeiſter ſpuͤrt
+In der erſten Morgenſonne:
+So fuͤhlt auch mein alter, lieber
+Adam Herbſt- und Fruͤhlingsfieber,
+Gottbeherzte,
+Nie verſcherzte
+Erſtlings-Paradieſeswonne.
+
+Alſo biſt du nicht ſo ſchlimm, o alter
+Adam, wie die ſtrengen Lehrer ſagen:
+Liebſt und lobſt du immer doch,
+Singſt und preiſeſt immer noch,
+Wie an ewig neuen Schoͤpfungstagen
+Deinen lieben Schoͤpfer und Erhalter.
+
+Moͤcht' es Dieſer geben,
+Und mein ganzes Leben
+Waͤr' im leichten Wanderſchweiße
+Eine ſolche Morgenreiſe!
+
+
+
+[48/0064]
+Beſuch in Urach.
+Nur faſt ſo wie im Traum iſt mir's geſchehen,
+Daß ich in dies geliebte Thal verirrt;
+Kein Wunder iſt, was meine Augen ſehen,
+Doch ſchwankt der Boden, Luft und Staude ſchwirrt,
+Aus tauſend gruͤnen Spiegeln ſcheint zu gehen
+Vergang'ne Zeit, die laͤchelnd mich verwirrt,
+Die Wahrheit ſelber wird hier zum Gedichte,
+Mein eigen Bild ein fremd und hold Geſichte!
+
+Da ſeyd ihr alle wieder aufgerichtet,
+Beſonnte Felſen, alte Wolkenſtuͤhle!
+Auf Waͤldern ſchwer, wo kaum der Mittag lichtet
+Und Schatten miſcht mit balſamreicher Schwuͤle;
+Kennt ihr mich noch, der ſonſt hieher gefluͤchtet,
+Im Mooſe bei ſuͤß-ſchlaͤferndem Gefuͤhle,
+Der Muͤcke Sumſen hier ein Ohr geliehen,
+Ach, kennt ihr mich, und wollt nicht vor mir fliehen?
+
+Hier wird ein Strauch, ein jeder Halm zur Schlinge,
+Die mich in liebliche Betrachtung faͤngt,
+Kein Maͤuerchen, kein Holz iſt ſo geringe,
+Daß nicht mein Blick voll Wehmuth an ihm haͤngt;
+Ein jedes ſpricht mir halbvergeßne Dinge,
+Ich fuͤhle, wie von Schmerz und Luſt gedraͤngt
+Die Thraͤne ſtockt, indeß ich ohne Weile,
+Unſchluͤſſig, ſatt und durſtig, weiter eile.
+
+
+
+[49/0065]
+Hinweg! und leite mich, du Schaar von Quellen,
+Die ihr durchſpielt der Matten gruͤnes Gold!
+Zeigt mir die ur-bemoosten Waſſerzellen,
+Aus denen euer ewigs Leben rollt,
+Im kuͤhnſten Walde die verwachſ'nen Schwellen,
+Wo eurer Mutter Kraft im Berge grollt,
+Bis ſie im breiten Schwung an Felſenwaͤnden
+Herabſtuͤrzt, euch im Thale zu verſenden.
+
+O hier iſt's, wo Natur den Schleier reißt!
+Sie bricht einmal ihr uͤbermenſchlich Schweigen:
+Laut mit ſich ſelber redend will ihr Geiſt,
+Sich ſelbſt vernehmend, ſich ihm ſelber zeigen.
+— Doch ach, ſie bleibt, mehr als der Menſch, verwaiſ't,
+Darf nicht aus ihrem eignen Raͤthſel ſteigen!
+Dir biet' ich denn, begier'ge Waſſerſaͤule,
+Die nackte Bruſt, ach! ob ſie dir ſich theile!
+
+Vergebens! und dein kuͤhles Element
+Tropft an mir ab, im Graſe zu verſinken.
+Was iſt's, das deine Seele von mir trennt?
+Sie flieht, und moͤcht' ich auch in dir ertrinken!
+Dich kraͤnkt's nicht, wie mein Herz um dich entbrennt,
+Kuͤſſeſt im Sturz nur dieſe ſchroffen Zinken;
+Du bleibeſt, was du warſt ſeit Tag und Jahren,
+Ohn' ein'gen Schmerz der Zeiten zu erfahren.
+
+Hinweg aus dieſem uͤpp'gen Schattengrund
+Voll großer Pracht, die druͤckend mich erſchuͤttert!
+Bald gruͤßt beruhigt mein verſtummter Mund
+Den ſchlichten Winkel, wo ſonſt halb verwittert
+
+
+Moͤrike, Gedichte. 4
+
+[50/0066]
+Die kleine Bank und wo das Huͤttchen ſtund;
+Erinn'rung reicht mit Laͤcheln die verbittert —
+Bis zur Betaͤubung ſuͤßen Zauberſchalen,
+So trink' ich gierig die entzuͤckten Qualen.
+
+Hier ſchlang ſich tauſendmal ein junger Arm
+Um meinen Hals mit inn'gem Wohlgefallen.
+O ſaͤh' ich mich, als Knaben ſonder Harm,
+Wie einſt, mit Necken durch die Haine wallen!
+Ihr Huͤgel, von der alten Sonne warm,
+Erſcheint mir denn auf keinem von euch allen
+Mein Ebenbild, in jugendlicher Friſche
+Hervorgeſprungen aus dem Waldgebuͤſche?
+
+O komm, enthuͤlle dich! dann ſollſt du mir
+Mit Freundlichkeit in's dunkle Auge ſchauen!
+Noch immer, guter Knabe, gleich' ich dir,
+Uns beiden wird nicht vor einander grauen!
+So komm' und laß mich unaufhaltſam hier
+Mich deinem reinen Buſen anvertrauen! —
+Umſonſt, daß ich die Arme nach dir ſtrecke,
+Den Boden, wo du gingſt, mit Kuͤſſen decke!
+
+Hier will ich denn laut ſchluchzend liegen bleiben,
+Fuͤhllos, und Alles habe ſeinen Lauf!
+Mein Finger, matt, in's Gras beginnt zu ſchreiben:
+Hin iſt die Luſt! hab' Alles ſeinen Lauf! —
+Da, ploͤtzlich, hoͤr' ich's durch die Luͤfte treiben,
+Und ein entfernter Donner ſchreckt mich auf;
+Elaſtiſch angeſpannt mein ganzes Weſen
+Iſt von Gewitterluft wie neu geneſen.
+
+
+
+[51/0067]
+Sieh! wie die Wolken finſtre Ballen ſchließen
+Um den ehrwuͤrd'gen Trotz der Burgruine!
+Von Weitem ſchon hoͤrt man den alten Rieſen,
+Stumm harrt das Thal mit ungewiſſer Miene,
+Der Kukuk nur ruft ſein einfoͤrmig Gruͤßen
+Verſteckt aus unerforſchter Wildniß Gruͤne, —
+Jezt kracht die Woͤlbung und verhallet lange,
+Das wundervolle Schauſpiel iſt im Gange!
+
+Ja nun, indeß mit hoher Feuerhelle
+Der Blitz die Stirn und Wange mir verklaͤrt,
+Ruf' ich den lauten Segen in die grelle
+Muſik des Donners, die mein Wort bewaͤhrt:
+O Thal! du meines Lebens andre Schwelle!
+Du meiner tiefſten Kraͤfte ſtiller Herd!
+Du meiner Liebe Wunderneſt! ich ſcheide,
+Leb wohl! — und ſey dein Engel mein Geleite!
+
+
+4 *
+
+[52/0068]
+An eine Aeolsharfe.
+Tu semper urges flebilibus modis
+Mysten ademptum: nec tibi Vespero
+Surgente decedunt amores,
+Nec rapidum fugiente Solem.
+H or .
+Angelehnt an die Epheuwand
+Dieſer alten Terraſſe,
+Du, einer luftgebornen Muſe
+Geheimnißvolles Saitenſpiel,
+Fang' an,
+Fange wieder an
+Deine melodiſche Klage!
+
+Ihr kommet, Winde, fern heruͤber,
+Ach! von des Knaben,
+Der mir ſo lieb war,
+Friſch gruͤnendem Huͤgel.
+Und Fruͤhlingsbluͤthen unterweges ſtreifend,
+Ueberſaͤttigt mit Wohlgeruͤchen,
+Wie ſuͤß bedraͤngt ihr dies Herz!
+Und ſaͤuſelt her in die Saiten,
+Angezogen von wohllautender Wehmuth,
+Wachſend im Zug meiner Sehnſucht,
+Und hinſterbend wieder.
+
+Aber auf einmal,
+Wie der Wind heftiger herſtoͤßt,
+
+
+
+[53/0069]
+Ein holder Schrei der Harfe
+Wiederholt, mir zu ſuͤßem Erſchrecken,
+Meiner Seele ploͤtzliche Regung;
+Und hier — die volle Roſe ſtreut, geſchuͤttelt,
+All' ihre Blaͤtter vor meine Fuͤße!
+
+
+
+[54/0070]
+Hochzeitlied.
+Mit einem blauen Kornblumenkranze.
+
+Nicht weit vom Dorf zwei Linden ſtehen,
+Einſam, der Felder ſtille Hut,
+Wo in der Sommernaͤchte Wehen
+Ein Hirte gern, ein Dichter, ruht.
+
+Hell ſchwamm auf Duft und Nebelhuͤlle
+Des Mondes leiſer Zaubertag,
+Kaum unterbrach die holde Stille
+Von fern beſcheidner Wachtelſchlag.
+
+Und wie ich ruhig ſo in Mitten
+All dieſer Schoͤnheit lag und ſann,
+Da kam mit leichtgehobnen Schritten
+Ein goͤttlich Frauenbild heran.
+
+Gewiß, es war der Muſen eine,
+Erſchrocken merkt' ich's, luſtbewegt;
+Sie ſezt ſich zu mir an dem Raine,
+Die Hand auf meinen Arm gelegt.
+
+Und ſchuͤttelt laͤchelnd aus dem Kleide
+Blaue Cyanen, Stern an Stern:
+„Dich ſtoͤrt's nicht, wenn an deiner Seite
+Ich heut' ein Kraͤnzlein baͤnde gern.
+
+
+
+[55/0071]
+Nicht wahr, mit Schwaͤrmen und mit Plaudern
+Verbraͤchte gern mein Freund die Nacht?
+Doch flecht' ich ſtill, und ohne Zaudern
+Sey du mir auf ein Lied bedacht!
+
+Sieh, wo das Doͤrflein mit der Spitze
+Des gelben Thurms heruͤberſchaut,
+Dort ſchlummert auf dem Elternſitze
+Noch wenig Naͤchte eine Braut.
+
+Sie ſchlaͤft. Der Wange Roſen beben,
+Wir beide ahnen wohl, wovon;
+Um die halb offne Lippe ſchweben
+Die Traͤume gluͤhnder Kuͤſſe ſchon.
+
+Nicht doch! mit lauten Herzensſchlaͤgen
+Hoͤrt ſie vielleicht der Glocken Klang,
+Hoͤrt am Altar den Vaterſegen
+Und eines Engels Brautgeſang.
+
+Sieht unter Weinen ſich umſchlungen
+Von Mutter-Lieb', von Schweſter-Treu',
+Das Herz von Luſt und Schmerz gedrungen,
+Macht ſich mit tauſend Thraͤnen frei.
+
+Und alle dieſe ſel'gen Traͤume,
+Der naͤchſte Morgen macht ſie wahr;
+Es ſtehen ſchon des Hauſes Raͤume
+Geſchmuͤckt fuͤr froher Gaͤſte Schaar.
+
+
+
+[56/0072]
+Hier aber, wo mit den Geſpielen
+Das Maͤdchen oft ſich Veilchen las,
+Vielleicht alleine mit Gefuͤhlen
+Der ſehnſuchtsvollen Ahnung ſaß,
+
+Hier, unterm Blick prophet'ſcher Sterne,
+Weih' ich mit dir dies Feſt voraus:
+Tief ſchaut die Muſe in die Ferne
+Des braͤutlichen Geſchicks hinaus.
+
+Wie golden winkt die neue Schwelle
+Des Lebens jedem jungen Paar!
+Doch weiß man, daß nicht ſtets ſo helle
+Der Mittag wie der Morgen war.
+
+Bei manchem lauten Hochzeitfeſte
+Schlich mit weiſſagendem Gemuͤth
+Ich aus dem Kreis entzuͤckter Gaͤſte,
+Und ſang ein heimlich Trauerlied.
+
+Heut aber ſeh' ich ſchoͤne Tage
+Bluͤhn in gedraͤngter Sternen-Saat,
+Entſchieden liegt ſchon auf der Wage,
+Was dieſes Paar vom Schickſal bat.
+
+Haſt, Liebchen, du der Jugend Bluͤthe,
+Anmuth und Liebenswuͤrdigkeit,
+All deines Herzens lautre Guͤte
+Kuͤhn deinem Einzigen geweiht;
+
+
+
+[57/0073]
+Laͤß'ſt du der Heimath Friedens-Auen,
+So manch ein lang gewohntes Gluͤck,
+Um dir den eignen Herd zu bauen,
+Halb wehmuthsvoll, halb froh zuruͤck:
+
+Getroſt! ſo darf ich laut es zeugen,
+Ein wuͤrdig Herz haſt du gewaͤhlt;
+Selbſt boͤſer Neid bekennt mit Schweigen,
+Daß Nichts zu deinem Gluͤcke fehlt.
+
+Denn Heiterkeit und holde Sitte,
+Wie Sommerluft, durchwehn dein Haus,
+Und, goldbeſchuht, mit leiſem Tritte
+Gehn Segensengel ein und aus.“
+
+Die Muſe ſchwieg, und ohne Saͤumen
+Flocht ſie nun mit geſchaͤft'ger Hand,
+Indeß zu anſpruchsloſen Reimen
+Ich ihre Worte ſtill verband.
+
+Auf einmal hielt ſie mir entgegen
+Den fertigen Cyanenkranz,
+Und ſprach: „Bring's Ihr mit meinem Segen!“
+Und ſchwand dahin im Nebelglanz.
+
+Ich aber blieb noch lange lauſchen
+Von Liedestrunkenheit bewegt,
+Das Aehrenfeld begann zu rauſchen,
+Von Morgenſchauern angeregt.
+
+
+
+[58/0074]
+Und lichter ward's und immer lichter
+In mir und außer mir; da ging
+Die Sonne auf, von der der Dichter
+Den erſten Strahl fuͤr Euch empfing.
+
+
+
+[59/0075]
+Jung Volker.
+Geſang der Raͤuber.
+
+Jung Volker, das iſt unſer Raͤuberhauptmann,
+Mit Fidel und mit Flinte,
+Damit er geigen und ſchießen kann,
+Nachdem juſt Wetter und Winde.
+Fidel und die Flint,
+Fidel und die Flint!
+Volker ſpielt auf.
+
+Ich ſah ihn hoch im Sonnenſchein
+Auf einem Huͤgel ſitzen:
+Da ſpielt er die Geig' und ſchluckt rothen Wein,
+Seine blauen Augen ihm blitzen.
+Fidel und die Flint,
+Fidel und die Flint!
+Volker ſpielt auf.
+
+Auf einmal, er ſchleudert die Geig' in die Luft,
+Auf einmal, er wirft ſich zu Pferde;
+Der Feind kommt! Da ſtoͤßt er in's Pfeifchen und ruft:
+Brecht los, wie der Wolf in die Herde!
+Fidel und die Flint,
+Fidel und die Flint!
+Volker ſpielt auf.
+
+
+
+[60/0076]
+Jung Volkers Lied.
+Und die mich trug in Mutterleib,
+Und die mich ſchwang im Kiſſen,
+Die war ein ſchoͤn frech braunes Weib,
+Wollte nichts vom Mannsvolk wiſſen.
+
+Sie ſcherzte nur und lachte laut,
+Und ließ die Freier ſtehen:
+Moͤcht' lieber ſeyn des Windes Braut,
+Denn in die Ehe gehen!
+
+Da kam der Wind, da nahm der Wind
+Als Buhle ſie gefangen:
+Von dem hat ſie ein luſtig Kind
+In ihren Schoos empfangen.
+
+
+
+[61/0077]
+Maſchinkas Lied.
+Herz! und weißt du ſelber denn zu ſagen,
+Was dich druͤckt und quaͤlt?
+Oder kann man ſo um Nichts verzagen?
+Herz, ich habe ſchwer an dir zu tragen,
+Schwer! Schwer!
+Daß ich mit dir im Grabe waͤr'!
+
+Die Geſchwiſter kommen mich zu fragen,
+Was mir immer fehlt?
+O ich darf nicht wagen,
+Die verweinten Augen aufzuſchlagen,
+Wenn ich denke, was du mir verhehlt!
+Herz! ich habe ſchwer an dir zu tragen,
+Schwer! Schwer!
+Daß ich im Grabe waͤr'!
+
+
+
+[62/0078]
+Mein Fluſs.
+O Fluß, mein Fluß im Morgenſtrahl!
+Empfange nun, empfange
+Den ſehnſuchtsvollen Leib einmal
+Und kuͤſſe Bruſt und Wange!
+— Er fuͤhlt mir ſchon herauf die Bruſt,
+Er kuͤhlt mit Liebesſchauerluſt
+Und jauchzendem Geſange.
+
+Es ſchluͤpft der goldne Sonnenſchein
+In Tropfen an mir nieder,
+Die Woge wieget aus und ein
+Die hingegeb'nen Glieder;
+Die Arme hab' ich ausgeſpannt,
+Sie kommt auf mich herzugerannt,
+Sie faßt und laͤßt mich wieder.
+
+Du murmelſt ſo, mein Fluß, warum?
+Du traͤgſt ſeit alten Tagen
+Ein ſeltſam Maͤhrchen mit dir um,
+Und muͤh'ſt dich, es zu ſagen;
+Du eilſt ſo ſehr und laͤufſt ſo ſehr,
+Als muͤßteſt du im Land umher,
+Man weiß nicht, wen? drum fragen.
+
+Der Himmel blau und kinderrein,
+Worin die Wellen ſingen,
+Der Himmel iſt die Seele dein:
+
+
+
+[63/0079]
+O laß mich ihn durchdringen!
+Ich tauche mich mit Geiſt und Sinn
+Durch die vertiefte Blaͤue hin,
+Und kann ſie nicht erſchwingen!
+
+Was iſt ſo tief, ſo tief wie ſie?
+Die Liebe nur alleine.
+Sie wird nicht ſatt und ſaͤttigt nie
+Mit ihrem Wechſelſcheine.
+— Schwill an, mein Fluß, und hebe dich!
+Mit Grauſen uͤbergieße mich!
+Mein Leben um das deine!
+
+Du weiſeſt ſchmeichelnd mich zuruͤck
+Zu deiner Blumenſchwelle;
+So trage denn allein dein Gluͤck,
+Und wieg' auf deiner Welle
+Der Sonne Pracht, des Mondes Ruh,
+Die lieben Sterne fuͤhre du
+Zur ew'gen Mutterquelle!
+
+
+
+[64/0080]
+Joſephine.
+Das Hochamt war. Der Morgenſonne Blick
+Glomm wunderbar im ſuͤßen Weihrauchſcheine;
+Der Prieſter ſchwieg; nun brauſte die Muſik
+Vom Chor herab zur Tiefe der Gemeine.
+So ſtuͤrzt ein ſonnetrunkner Aar
+Vom Himmel ſich mit herrlichem Gefieder,
+So laͤßt Jehovens Mantel unſichtbar
+Sich ſtuͤrmend aus den Wolken nieder.
+
+Dazwiſchen hoͤrt' ich eine Stimme wehen,
+Die ſanft den Sturm der Choͤre unterbrach,
+Sie ſchmiegte ſich mit ſchweſterlichem Flehen
+Dem ſuͤß verwandten Ton der Floͤte nach.
+
+Wer iſt's, der dieſe Himmelsklaͤnge ſchickt?
+Das Maͤdchen dort, das ſo beſcheiden blickt.
+Ich eile ſachte auf die Galerie,
+Zwar klopft mein Herz, doch tret' ich hinter ſie.
+
+Hier konnt' ich denn in unſchuldvoller Luſt
+Mit leiſer Hand ihr feſtlich Kleid beruͤhren,
+Ich konnte ſtill, ihr ſelber unbewußt,
+Die nahe Regung ihres Weſens ſpuͤren.
+
+
+
+[65/0081]
+Doch, welch ein Blick und welche Miene,
+Als ich das Wort nun endlich nahm,
+Und nun der Name Joſephine
+Mir herzlich auf die Lippen kam!
+Welch zages Spiel die braunen Augen hatten!
+Wie barg ſich unterm tiefgeſenkten Schatten
+Der Wimper gern die roſ'ge Schaam!
+
+Und wie der Mund, der eben im Geſang
+Die Gottheit noch auf ſeiner Schwelle hegte,
+Sich von der Toͤne heil'gem Ueberſchwang
+Zu mir mit ſchlichter Rede herbewegte!
+
+O dieſer Ton, — ich fuͤhlt' es nur zu bald,
+Schlich ſich in's Herz und macht es tief erkranken;
+Ich ſtehe wie ein Traͤumer in Gedanken,
+Indeß die Orgel nun verhallt,
+Die Saͤngerin voruͤberwallt,
+Die Kirche aufbricht und die Kerzen wanken.
+
+
+Moͤrike, Gedichte. 5
+
+[66/0082]
+Auf der Reiſe.
+Zwiſchen ſuͤßem Schmerz,
+Zwiſchen dumpfem Wohlbehagen
+Sitz' ich naͤchtlich in dem Reiſewagen,
+Laſſe mich ſo weit von dir, mein Herz,
+Weit und immer weiter tragen.
+
+Schweigend ſitz' ich und allein,
+Ich wiege mich in bunten Traͤumen,
+Das muntre Poſthorn klingt darein,
+Es tanzt der liebe Mondenſchein
+Nach dieſem Ton auf Quellen und auf Baͤumen,
+Sogar zu mir durch's enge Fenſterlein.
+
+Ich wuͤnſche mir nun Dies und Das.
+O koͤnnt' ich jetzo durch ein Zauberglas
+In's Goldgewebe deines Traumes blicken!
+Vielleicht dann ſah' ich wieder mit Entzuͤcken
+Dich in der Laube wohlbekannt,
+Ich ſaͤhe Genofevens Hand
+Auf deiner Schulter traulich liegen,
+Am Ende ſaͤh' ich ſelber mich,
+Halb keck und halb beſcheidentlich,
+An deine holde Wange ſchmiegen.
+Doch nein! wie duͤrft' ich auch nur hoffen,
+Daß jezt mein Schatten bei dir ſey!
+Ach, ſtuͤnden deine Traͤume fuͤr mich offen,
+Du winkteſt wohl auch wachend mich herbei!
+
+
+
+[67/0083]
+Frage und Antwort.
+Fragſt du mich, woher die bange
+Liebe mir zum Herzen kam,
+Und warum ich ihr nicht lange
+Schon den bittern Stachel nahm?
+
+Sprich, warum mit Geiſterſchnelle
+Wohl der Wind die Fluͤgel ruͤhrt,
+Und woher die ſuͤße Quelle
+Die verborgnen Waſſer fuͤhrt?
+
+Banne du auf ſeiner Faͤhrte
+Mir den Wind in vollem Lauf!
+Halte mit der Zaubergerte
+Du die ſuͤßen Quellen auf!
+
+
+5 *
+
+[68/0084]
+Heimweh.
+Anders wird die Welt mit jedem Schritt,
+Den ich weiter von der Liebſten mache;
+Mein Herz, das will nicht weiter mit!
+Hier ſcheint die Sonne kalt in's Land,
+Hier daͤucht mir Alles unbekannt,
+Sogar die Blumen am Bache!
+Hat jede Sache
+So fremd eine Miene, ſo falſch ein Geſicht.
+Das Baͤchlein murmelt wohl und ſpricht:
+Armer Knabe, komm' bei mir voruͤber,
+Siehſt auch hier Vergißmeinnicht!
+— Ja, die ſind ſchoͤn an jedem Ort,
+Aber nicht wie dort!
+Fort, nur fort!
+Die Augen gehn mir uͤber!
+
+
+
+[69/0085]
+Nachts.
+Wie ſuͤß der Nachtwind nun die Wieſe ſtreift!
+Und klingend jezt den jungen Hain durchlaͤuft!
+Da noch der freche Tag verſtummt,
+Hoͤrt man der Erdenkraͤfte fluͤſterndes Gedraͤnge,
+Das aufwaͤrts in die zaͤrtlichen Geſaͤnge
+Der reingeſtimmten Luͤfte ſummt.
+
+Wie ein Gewebe zuckt die Luft manchmal,
+Durchſicht'ger ſtets und leichter aufzuwehen,
+Dazwiſchen hoͤrt man weiche Toͤne gehen,
+Von ſel'gen Feen, die im Sternenſaa!
+Beim Sphaͤrenklang,
+Und fleißig mit Geſang
+Die goldnen Spindeln hin und wieder drehen.
+
+
+
+[70/0086]
+Die traurige Krönung.
+Es war ein Koͤnig Mileſint,
+Von dem will ich euch ſagen;
+Der meuchelte ſein Bruders-Kind,
+Wollte ſelbſt die Krone tragen.
+Die Kroͤnung ward mit Prangen
+Auf Liffey-Schloß begangen.
+O Irland! Irland! wareſt du ſo blind?
+
+Der Koͤnig ſizt um Mitternacht
+Im oͤden Marmorſaale,
+Er freut ſich ſeiner neuen Pracht
+Beim einſamen Pokale;
+Er ſpricht zu ſeinem Sohne:
+„Noch einmal bring' die Krone!
+Doch ſchau, wer hat die Pforten aufgemacht?“
+
+Da kommt ein ſeltſam Todtenſpiel,
+Ein Zug mit leiſen Tritten,
+Vermummte Gaͤſte groß und viel,
+Eine Krone ſchwankt in Mitten;
+Es draͤngt ſich durch die Pforte
+Mit Fluͤſtern ohne Worte;
+Dem Koͤnige, dem wird ſo geiſterſchwuͤl.
+
+Und aus der ſchwarzen Menge blickt
+Ein Kind mit friſcher Wunde,
+Es laͤchelt ſterbensweh und nickt,
+Es macht im Saal die Runde,
+
+
+
+[71/0087]
+Es trippelt zu dem Throne,
+Es reichet eine Krone
+Dem Koͤnige, deß Herze tief erſchrickt.
+
+Darauf der Zug von dannen ſtrich,
+Von Morgenluft berauſchet;
+Die Kerzen flackern wunderlich,
+Der Mond am Fenſter lauſchet;
+Der Sohn mit Angſt und Schweigen
+Zum Vater thaͤt ſich neigen, —
+Er neiget uͤber eine Leiche ſich.
+
+
+
+[72/0088]
+Chor jüdiſcher Mädchen.
+Aus einer unvollendeten Oper.
+
+Wir fuͤrchten uns nicht in des Koͤniges Saale:
+Er lud uns zum Mahle;
+So ſind wir nun da.
+Eia la la! Eia la la!
+Iſt doch auch des Koͤnigs ſein Toͤchterlein da!
+
+Duftende Quellen
+Springen im Saal,
+Und wie Gazellen
+Wir huͤpfen um's Mahl.
+
+Keine ſoll ſtocken im Tanz!
+Schuͤttelt nur Locken und Kranz!
+Luſtig! im Taumel muthwilliger Taͤnze
+Fliegen die Kraͤnze,
+Fliegt es mit Roſen und Baͤndern im Saal!
+Eia la la! Eia la la! u. ſ. w.
+
+
+
+[73/0089]
+Der Gärtner.
+Auf ihrem Leib-Roͤßlein,
+So weiß wie der Schnee,
+Die ſchoͤnſte Prinzeſſin
+Reit't durch die Allee.
+
+Der Weg, den das Roͤßlein
+Hintanzet ſo hold,
+Der Sand, den ich ſtreute,
+Er blinket wie Gold!
+
+Du roſenfarbs Huͤtlein,
+Wohl auf und wohl ab!
+O wirf eine Feder
+Verſtohlen herab!
+
+Und willſt du dagegen
+Eine Bluͤthe von mir,
+Nimm tauſend fuͤr Eine,
+Nimm alle dafuͤr!
+
+
+
+[74/0090]
+Lied vom Winde.
+Sauſewind! Brauſewind!
+Dort und hier,
+Deine Heimath ſage mir!
+
+„Kindlein, wir fahren
+Seit viel vielen Jahren
+Durch die weit weite Welt,
+Und moͤchten's erfragen,
+Die Antwort erjagen,
+Bei den Bergen, den Meeren,
+Bei des Himmels klingenden Heeren,
+Die wiſſen es nie.
+Biſt du kluͤger als ſie,
+Magſt du es ſagen.
+— Fort, wohlauf!
+Halt' uns nicht auf!
+Kommen Andre nach, unſre Bruͤder,
+Da frag' wieder.“
+
+Halt an! Gemach,
+Eine kleine Friſt!
+Sagt, wo der Liebe Heimath iſt,
+Ihr Anfang, ihr Ende?
+
+„Wer's nennen koͤnnte!
+Schelmiſches Kind,
+
+
+
+[75/0091]
+Lieb iſt wie Wind,
+Raſch und lebendig,
+Ruhet nie,
+Ewig iſt ſie,
+Aber dein Schatz nicht beſtaͤndig.
+— Friſch, wohlauf!
+Halt uns nicht auf!
+Fort uͤber Stoppel und Waͤlder und Wieſen!
+Wenn ich dein Schaͤtzchen ſeh',
+Will ich es gruͤßen;
+Kindlein — Ade!
+
+
+
+[76/0092]
+Agnes.
+Roſenzeit! wie ſchnell vorbei,
+Schnell vorbei,
+Biſt du doch gegangen!
+Waͤr' mein Lieb nur blieben treu,
+Blieben treu,
+Sollte mir nicht bangen.
+
+Um die Ernte wohlgemuth,
+Wohlgemuth,
+Schnitterinnen ſingen.
+Aber, ach! mir kranken Blut,
+Mir kranken Blut,
+Will nichts mehr gelingen.
+
+Schleiche ſo durch's Wieſenthal,
+So durch's Thal,
+Als im Traum verloren,
+Nach dem Berg, da tauſend Mal
+Tauſend Mal,
+Er mir Treu geſchworen.
+
+Oben auf des Huͤgels Rand,
+Abgewandt,
+Wein' ich bei der Linde,
+An dem Hut mein Roſenband,
+Von ſeiner Hand,
+Spielet in dem Winde.
+
+
+
+[77/0093]
+Elfenlied.
+Bei Nacht im Dorf der Waͤchter rief:
+Elfe!
+Ein ganz kleines Elfchen im Walde ſchlief,
+Wohl um die Elfe;
+Und meint, es rief ihm aus dem Thal
+Bei ſeinem Namen die Nachtigall,
+Oder Silpelit haͤtt' ihn gerufen.
+Reibt ſich der Elf die Augen aus,
+Begibt ſich vor ſein Schneckenhaus,
+Und iſt als wie ein trunken Mann,
+Sein Schlaͤflein war nicht voll gethan,
+Und humpelt alſo tippe tapp
+Durch's Haſelholz in's Thal hinab,
+Schlupft an der Weinbergmauer hin,
+Daran viel Feuerwuͤrmchen gluͤhn:
+„Was ſind das helle Fenſterlein?
+Da drin wird eine Hochzeit ſeyn;
+Die Kleinen ſitzen beim Mahle,
+Und treiben's in dem Saale,
+Da guck' ich wohl ein wenig 'nein!“
+— Pfui, ſtoͤßt den Kopf an harten Stein!
+Elfe, gelt, du haſt genug?
+Gukuk! Gukuk!
+
+
+
+[78/0094]
+Mausfallen-Sprüchlein.
+Das Kind geht dreimal um die Falle und ſpricht:
+
+Muse-Maͤuschen, ſtell dich ein
+Heut Nacht bei Mondenſchein!
+Mach' aber die Thuͤr fein hinter dir zu,
+Hoͤrſt du?
+Dabei huͤte dein Schwaͤnzchen!
+Nach Tiſche ſingen wir,
+Nach Tiſche ſpringen wir
+Und machen ein Taͤnzchen:
+Witt witt!
+Meine alte Katze tanzt wahrſcheinlich mit.
+
+
+
+[79/0095]
+Die Schweſtern.
+Wir Schweſtern zwei, wir ſchoͤnen,
+So gleich von Angeſicht,
+So gleicht kein Ei dem andern,
+Kein Stern dem andern nicht.
+
+Wir Schweſtern zwei, wir ſchoͤnen,
+Wir haben lichtbraune Haar,
+Und flichſt du ſie in Einen Zopf,
+Man kennt ſie nicht fuͤrwahr.
+
+Wir Schweſtern zwei, wir ſchoͤnen,
+Wir tragen gleich Gewand,
+Spazieren auf dem Wieſenplan
+Und ſingen Hand in Hand.
+
+Wir Schweſtern zwei, wir ſchoͤnen,
+Wir ſpinnen in die Wett',
+Wir ſitzen an Einer Kunkel,
+Wir ſchlafen in Einem Bett.
+
+O Schweſtern zwei, ihr ſchoͤnen!
+Wie hat ſich das Blaͤttchen gewend't!
+Ihr liebet einerlei Liebchen —
+Jezt hat das Liedel ein End'.
+
+
+
+[80/0096]
+Des Schloſsküpers Geiſter zu Tübingen.
+Ballade, beim Weine zu ſingen.
+
+In's alten Schloßwirths Garten
+Da klingt ſchon viele Jahr kein Glas,
+Kein Kegel faͤllt, keine Karten,
+Waͤchst aber ſchoͤn lang Gras.
+
+Ich mutterſeelalleine
+Sazt' mich an einen langen Tiſch;
+Der Schloßwirth regt die Beine,
+Vom Rothen bringt er friſch.
+
+Und laͤßt ſich zu mir nieder;
+Von alten Zeiten red't man viel,
+Man ſeufzet hin und wieder;
+Der Schoͤpplein wird kein Ziel.
+
+Da nun der Tag gegangen,
+Der Schloßwirth ſagt kein Woͤrtlein mehr;
+Neun Lichter thaͤt er langen,
+Neun Stuͤhle ſezt er her.
+
+Als wie zum groͤßten Feſte
+Auftiſcht er, daß die Tafel kracht:
+Was kaͤmen noch fuͤr Gaͤſte?
+Iſt doch ſchier Mitternacht!
+
+
+
+[81/0097]
+Der Narr, was kann er wollen?
+Er macht ſich an die Kugelbahn,
+Laͤßt eine Kugel rollen,
+Ein Hoͤllenlaͤrm geht an.
+
+Es fahren gar behende
+Acht Kegel hinter'm Brett herauf,
+Schrei'n: Hagel und kein Ende!
+Wer Teufel weckt uns auf?
+
+Und waren acht Studioſen,
+Wohl aus der Zopf- und Puderzeit:
+Rothe Roͤcklein, kurze Hoſen,
+Und ganz charmante Leut'.
+
+Die ſehen mit Ergetzen
+Den edelen Karfunkelwein,
+Gleich thaͤten ſie ſich letzen
+Und zechen und juchhein.
+
+Den Wirth erbaut das wenig;
+Er ſprach: Ihr Herren, wollt verzeihn:
+Wo iſt der Schoppenkoͤnig?
+Wann ſeyd Ihr denn zu Neun?
+
+Ach Kuͤper, lieber Kuͤper!
+Wie macheſt uns das Herze ſchwer!
+Wohl funfzig Jahr und druͤber
+Begraben lieget er.
+
+
+Moͤrike, Gedichte. 6
+
+[82/0098]
+Gott hab' den Herren ſelig,
+Mit ſeiner rothen Habichtsnaſ'!
+Regierete ſo froͤhlich,
+Kam Tags auf ſieben Maß.
+
+Einſt thaͤt er uns beſcheiden,
+Sprach: Maͤnniglich kennt mein Gebot:
+Den Gerſtenſaft zu meiden;
+Man buͤßet's mit dem Tod.
+
+Mit ein paar lauſigen Dichtern
+Traf man beim ſauren Bier euch an,
+Verſteht ſich, nudelnuͤchtern,
+Wohl auf der Kugelbahn.
+
+Kommt alſo her, ihr Luͤmmel!
+— Er zog ſein' Zauberſtab herfuͤr —
+Wir ſtuͤrzten wie vom Himmel —
+Acht Kegel waren wir!
+
+Jezt ging es an ein Hudeln,
+Einen hoͤlzern Koͤnig man uns gab,
+Doch ſchoß man nichts wie Pudel,
+Da ſchafften ſie uns ab. —
+
+Nun dauert es nicht lange,
+So zieht das Burſchenvolk einmal
+Auf's Schloß mit wildem Sange,
+Zum Koͤnig in den Saal:
+
+
+
+[83/0099]
+Wir woll'n dich Lands verweiſen,
+So du nicht ſchwoͤreſt ab den Wein;
+Bierkoͤnig ſollt du heißen!
+— Er aber ſaget: Nein;
+
+Da habt ihr meine Krone!
+An mir iſt Hopfen und Malz verlor'n. —
+So ſtieg er von dem Throne
+In ſeinem edlen Zorn.
+
+Fuͤr Kummer und fuͤr Graͤmen
+Der Herre wurde krank und alt,
+Zerfiele wie ein Schemen
+Und holt der Tod ihn bald.
+
+Mit Purpur ward gezieret
+Sein Leichnam als ein Koͤnig groß;
+Ein tief Gewoͤlb man fuͤhret
+Zu Tuͤwingen im Schloß.
+
+Vier ſchwarze Edelknaben
+Sein' Becher trugen vor der Bahr';
+Der iſt mit ihm begraben,
+War doch von Golde gar.
+
+Damal ward prophezeihet:
+Wenn nur erſt hundert Jahr herum,
+Da wuͤrd' der Thron erneuet
+Vom alten Koͤnigthum.
+
+
+6 *
+
+[84/0100]
+So muͤſſen wir halt warten,
+Bis daß die Zeit erfuͤllet was;
+Und in des Schloßwirths Garten
+Derweil waͤchſt langes Gras.
+
+Ach Kuͤper, lieber Kuͤper!
+Jezt geige du uns wieder heim!
+Die Nacht iſt ſchier voruͤber:
+Acht Kegel muͤſſen wir ſeyn.
+
+Der Schloßwirth nimmt die Geigen
+Und ſtreicht ein Deo gloria,
+Sie tanzen einen Reigen
+Und Keiner iſt mehr da.
+
+
+
+[85/0101]
+Romanze vom wahnſinnigen Feuerreiter. *
+Sehet ihr am Fenſterlein
+Dort die rothe Muͤtze wieder?
+Muß nicht ganz geheuer ſeyn,
+Denn er geht ſchon auf und nieder;
+Und was fuͤr ein toll Gewuͤhle
+Ploͤtzlich auf den Gaſſen ſchwillt!
+Horch! das Jammergloͤcklein grillt:
+Hinter'm Berg, hinter'm Berg
+Brennt's in einer Muͤhle!
+
+Schaut! da ſprengt er wuͤthend ſchier
+Durch das Thor, der Feuerreiter,
+Auf dem rippenduͤrren Thier,
+Als auf einer Feuerleiter!
+
+
+* Iſt aus dem Roman: „Maler Nolten.“ In einer alten Stadt,
+ſo wird erzaͤhlt, habe im Giebeldache eines kleinen Hauſes ein
+junger fremder Mann gewohnt, von deſſen Lebensweiſe Niemand
+naͤher wußte, der ſich Jahr aus, Jahr ein auch niemals habe
+blicken laſſen, außer — nach dem Volksglauben — regelmaͤßig
+vor dem Ausbruch einer Feuersbrunſt. Dann ſah man ihn in
+einer ſcharlachrothen, netzartigen Muͤtze unruhig am kleinen
+Fenſter auf und nieder gehen, zum ſichern Vorzeichen des nahe
+drohenden Ungluͤcks. Mit dem erſten Feuerlaͤrmen kam er auf
+einem magern Klepper unten aus dem Stalle hervorgeſprengt
+und nahm pfeilſchnell, unfehlbar ſeinen Lauf nach dem Orte des
+Brandes.
+
+
+
+[86/0102]
+Durch den Qualm und durch die Schwuͤle
+Rennt er ſchon wie Windesbraut!
+Aus der Stadt, da ruft es laut:
+Hinter'm Berg, hinter'm Berg
+Brennt's in einer Muͤhle!
+
+Keine Stunde hielt es an,
+Bis die Muͤhle borſt in Truͤmmer,
+Doch den wilden Reitersmann
+Sah man von der Stunde nimmer;
+Darauf ſtiller das Gewuͤhle
+Kehret wiederum nach Haus;
+Auch das Gloͤcklein klinget aus:
+Hinter'm Berg, hinter'm Berg
+Brennt's! —
+
+Nach der Zeit ein Muͤller fand
+Ein Gerippe ſammt der Muͤtzen
+Ruhig an der Kellerwand
+Auf der beinern' Maͤhre ſitzen:
+„Feuerreiter, wie ſo kuͤhle
+Reiteſt du in deinem Grab!“
+Huſch! da faͤllt's in Aſche ab!
+Ruhe wohl! Ruhe wohl
+Drunten in der Muͤhle!
+
+
+
+[87/0103]
+Erzengel Michaels Feder.
+Frau Marie Niethhammer, geb. Kerner, gewidmet.
+
+I.
+Weil ſchon vor ſo viel hundert Jahren,
+Da unſre Vaͤter noch Heiden waren,
+Unſer geliebtes Schwabenland
+So luſtig wie ein Garten ſtand,
+So ſah der Teufel auch einmal
+Vom Michelsberg in's Maienthal
+Und auf das weit bebaute Feld.
+Er ſprach: das iſt ja wohlbeſtellt;
+Hier bluͤht, wie einſt im Paradies,
+Der Apfelbaum und ſchmeckt ſo ſuͤß!
+Wir wollen dieſes Gartens pflegen,
+Und ſoll ſich erſt kein Pfaff drein legen!
+— Solch Frevelwort des Satans hoͤrt
+Der Herr im Himmel ungeſtoͤrt,
+War aber gar nicht ſehr ergezt,
+Daß ſich der Bock zum Gaͤrtner ſezt.
+Er ſandte Bonifazium
+Damals im deutſchen Reich herum,
+Daß er, des heiligen Geiſtes voll,
+Den himmliſchen Weinſtock pflanzen ſoll;
+So ruͤckt er nun auch zum Michelsberg.
+Das kam dem Satan uͤberzwerch,
+Thaͤt ihm ſogleich den Weg verrennen,
+Ließ den Boden wie Schwefel brennen,
+
+
+
+[88/0104]
+Huͤllet mit Dampf und Wetterſchein
+Das ganze Revier hoͤchſt grauſam ein,
+Geht ſelber auf den Heiligen los,
+Der ſtand aller irdiſchen Waffen bloß,
+Die Haͤnde ſein zum Himmel kehrt,
+Rief: Starker Gott! leih mir ein Schwert!
+Da zuͤckt herab, wie ein Donnerſtreich,
+Erzengel Michael ſogleich.
+Sein Fluͤgel und ſein Fußtritt daͤmpft
+Das Feuer ſchnell, er ficht und kaͤmpft
+Und wuͤrgt den Schwarzen blau und gruͤn,
+Der haͤtte ſchier nach Gott geſchrien;
+Schmeißt ihn der Engel auch alsbald
+Kopfunter in den Hoͤllenſpalt,
+Schließt ſich der Boden eilend zu,
+Da war's auf Erden wieder Ruh,
+Die Luͤfte floſſen leicht und rein,
+Der Engel ſah wie Sonnenſchein.
+Unſer heiliger bedankt ſich ſehr,
+Moͤcht' aber noch ein Woͤrtlein mehr
+Mit dem Patronen gern verkehren,
+Deß wollte Jener ſich erwehren,
+Sprach: Jetzo hab' ich keine Zeit.
+Da ging Herr Bonifaz ſo weit,
+Daß er ihn faßt an ſeiner Schwingen,
+Der Engel ließ ſich doch nicht zwingen,
+War wie ein Morgenrauch entſchluͤpft.
+Der Mann Gottes ſtund ſehr verbluͤfft.
+Ihm war, wie er mit dem Erzengel rang,
+Eine Feder, guͤlden, ſchoͤn und lang
+
+
+
+[89/0105]
+Aus dem Fittig in der Hand geblieben.
+Jezt thaͤt er ſie ſchnell in Mantel ſchieben,
+Ging eine Strecke fort und ſann:
+Was fang ich mit der Feder an?
+
+Nun aber auf des Berges Rand
+Ein kleiner Heidentempel ſtand,
+Noch in der lezten Roͤmerzeit
+Luna, der Mondsgoͤttin, geweiht
+Von Trephon, dem Feldhauptmann.
+Da nahm Bonifaz ein Aergerniß dran,
+Ließ alſo das Bethaus gleich fegen und lichten,
+Zur chriſtlichen Kapell herrichten
+Und weihte ſie auch auf der Stell'
+Dem theuren Erzengel Michael.
+Sein Bild, uͤber'n Altar geſtellt,
+Mit der rechten Hand die Feder haͤlt,
+Die denn bei mancher Pilgerfahrt,
+Noch bis heute, hochverehret ward.
+
+Zu guter Lezt ich melden will:
+Da bei dem Berg liegt auch Tripstrill,
+Wo, wie ihr ohne Zweifel wißt,
+Die beruͤhmte Pelzmuͤhl' iſt.
+
+
+
+[90/0106]
+ll.
+Es war ein Kaufherr zu Heilbronn,
+Fuͤrwahr ein halber Salomon;
+Mit ſeinen Thalern haͤtt' man moͤgen
+Den Markt wohl zwiefach pflaͤſtern und legen;
+Zwar ſeines Glaubens nur ein Juͤd,
+Jedoch ein aͤcht und fromm Gemuͤth,
+Machte manchen Chriſtenbettler ſatt.
+Er hatte drei Haͤuſer in der Stadt,
+Indeß er ſelbſt das ganze Jahr,
+Oft uͤber Meer, verreiſet war.
+Weil aber in guter Chriſten Mitte,
+Sein Volk damals viel Tort erlitte,
+Ließ Herr Aaron ſeiner Frauen
+Auf dem Land ein Schloͤßlein bauen,
+Ringsum mit Wieſen, See und Wald,
+Zur Sommerszeit ein Aufenthalt.
+Zu all dem ſah ſein jung Gemahl
+Nur wie das Klagweib im Hochzeitſaal:
+Ging weder fiſchen, weder jagen,
+Ließ ſich auch nicht vom Maulthier tragen
+Durch Berg und Wald, das Dorf entlang,
+Wollte kein Saitenſpiel, noch Geſang:
+Denn ihr einzig Kind, ein Maͤgdlein zart,
+Wie ein Fuͤrſtenblut ſo ſchoͤn von Art,
+War leider taub und ſtumm geboren,
+Auch Kunſt und Hoffnung ganz verloreu.
+
+Als nun das Maͤgdlein, endlich groß
+Gleich einer Lilien aufſchoß,
+
+
+
+[91/0107]
+Ging es und ritte manches Mal
+Ohne Diener durch's Wieſenthal.
+Dann ſprachen die Leute insgemein:
+„Seht da, des Sultans Toͤchterlein!“
+War weiß von Haut und ſchwarz von Haar,
+Mit Ringeln deckt's den Nacken gar.
+Ihr Auge gab ſo edlen Glanz,
+Sah munter drein beim Schaͤfertanz;
+Ihr rother Mund zwar red'te nicht,
+Konnt' aber lachen inniglich.
+
+Einsmals ſchoͤn Rahel ſaß allein
+Beim Birkenwald am gruͤnen Rain,
+Dacht' einem Traumgeſichte nach,
+Darin ihr Gott der Herr verſprach,
+Treu und wahrhaft, durch Engelsmund:
+Sie ſollte werden ganz geſund,
+Wenn ſie ihm thaͤte Dies und Das —
+Sie wußte leider nicht mehr Was?
+Haͤtt' ſie's gewußt, ſie koͤnnt's nicht ſagen,
+Muͤßt' es ewig bei ihr ſelbſten tragen.
+Das fiel ihr nun auf's Herz ſo ſchwer,
+Daß ſie ſeufzet laut und weinet ſehr.
+
+Nun kam den Pfad ein Buͤblein her,
+Dem war die Rahel wohlgeſinnt,
+Es war des Juden Paͤchters Kind,
+Kam von der Synagoge warm,
+Hatt' Buch und Taͤflein unter'm Arm.
+
+
+
+[92/0108]
+Sie macht ihm Platz an ihrer Rechten,
+Lehrt ihm ein luſtig Kraͤnzlein flechten,
+Am Bach da hatt's der Blumen viel;
+Der Tag war aber gar zu ſchwuͤl:
+Der Knabe nickt, dann ſchlaͤft er ein,
+Schoͤn Rahel ſizt fuͤr ſich allein.
+
+Sie kriegt des Knaben Buch zur Hand,
+Davon ſie leider nichts verſtand,
+Sie nimmt das Taͤflein auf den Schoos,
+Da wurden ihr die Thraͤnen los.
+Mit Haͤnden deckt ſie ihr Geſicht,
+Sie bet't im Stillen und weiß es nicht.
+
+Und wie ſie wieder aufgeblickt,
+Ein friſches Aug ins Blaue ſchickt, —
+Vom Michelsberg was blinkt ſo hell,
+Als wie das Kreuz auf der Kapell?
+Streicht es nicht durch die Luft daher?
+Kommt es nicht nah und immer mehr?
+Ein Vogel, ei! ein Schwaͤlblein hold!
+Im Schnabel hat's ein klares Gold.
+Der Jungfrau legt's, o Wunder, ſieh!
+Ein' guͤldene Feder auf ihr Knie,
+Fliegt auf den naͤchſten Erlenbaum:
+Der Jungfrau iſt es als ein Traum.
+Wie wird es ihr im Geiſt ſo licht!
+Sie weiß ihr ganzes Traumgeſicht!
+Ihr klinget, was der Engel ſprach,
+Hell, wie Geſang, im Herzen nach.
+
+
+
+[93/0109]
+Im Taumelſinn, in ſeliger Haſt,
+Hat ſie den guͤldnen Kiel gefaßt:
+Er lebt und ſchreibt, kaum haͤlt ſie ihn,
+So raſch geht's uͤber's Taͤflein hin,
+Mit goldiger Hebraͤer-Schrift
+(Wohl feiner, denn mit Schiefer-Stift!):
+„Schoͤn Rahel! Friede ſey mit dir!
+Der ewig' Vater gruͤßt dich hier,
+Will loͤſen deiner Zunge Band,
+Aufthun dein Ohr mit ſeiner Hand,
+So du mit Vater und Mutter dein
+Dem Heiland willt zu eigen ſeyn.“
+
+Die Feder ruht; das Schwaͤlblein keck
+Fliegt ab dem Baum und nimmt ſie weg,
+Und auf und fort in einem Nu,
+Dem Michelsberg da wieder zu.
+
+Indeſſen war der Knab erwacht,
+Nahm auch das Wunder wohl in Acht.
+Die Jungfrau winket ihm aufzuſtehn,
+Alle Beide ſtumm nach Hauſe gehn.
+Wie ſie noch wenig Schritt vom Hofe,
+Entgegen rennet ſchon die Zofe,
+Bedeutend, daß der Vater kommen.
+Von tauſend Freuden uͤbernommen
+Es eilet das gluͤckſelig Kind
+Ins Haus noch zehnmal ſo geſchwind.
+Herr Aaron ſtund juſt in der Thuͤr,
+Faßt ſie in Arm, ſie zittert ſchier,
+
+
+
+[94/0110]
+Und Thraͤnen, ſo ſonſt nicht ſein' Art,
+Ihm maͤchtig tropfen in den Bart.
+Sie dringet ihm das Taͤflein auf,
+Dann eilet ſie in Einem Lauf,
+Holt ihre Mutter in den Saal,
+Herzet und kuͤßt ſie tauſendmal,
+Winket des Paͤchters Kind herbei,
+Das ſaget, was geſchehen, frei.
+Der Alte lieſt und ſtaunt und ſchweigt,
+Seiner Frauen dar das Wunder reicht,
+Und murmelt fuͤr ſich unbewußt;
+Schlaͤgt dann laut an ſeine Bruſt,
+Und ruft: „Dein Knecht, Herr, iſt nicht werth,
+Daß ihm ſo Großes widerfaͤhrt!
+Ich ſeufzet' oft in Naͤchten tief
+Nach deines Sohnes Heil und rief;
+Doch Zweifels Angſt und Spott der Welt
+Hat mir ſo theures Licht verſtellt:
+Ich war verſtocket, taub und blind:
+Muß mich noch retten mein armes Kind!
+Dafuͤr ſey Preis und Ehre dein!
+Laß mich jezt auch der Erſte ſeyn,
+So bruͤnſtig dir, Herr Jeſu Chriſt,
+Weh! die durchgrabnen Fuͤße kuͤßt!
+Und wie, zu deinem Stern gewandt,
+Drei Koͤnige aus Morgenland
+Dir brachten Myrrhen, Weihrauch, Gold:
+Vergoͤnne, daß dein Knecht dir zollt,
+Was Alles du ſeit ſo viel Jahren
+Durch ihn der Kirche wollen ſparen!
+
+
+
+[95/0111]
+— O du an deines Sohnes Seite
+Vertritt uns Mutter, benedeyte!“
+
+So ſprach Herr Aaron jenen Tag;
+Hoͤrt an, was weiter werden mag.
+Zu Pfingſten, fruͤh vor Tage ſchon,
+Zieht, groß und lang, eine Prozeſſion
+Mit hellen Kerzen ohne Zahl
+Langſam dahin durch's gruͤne Thal,
+Soͤhne und Toͤchter Iſrael,
+Zum Berg des Engels Michael.
+
+Zuvorderſt thaͤt Herr Aaron gehn
+Mit ſeiner Frauen und Rahel ſchoͤn;
+Kam hierauf ſeine Dienerſchaft,
+Lobpreiſend Gottes Wunderkraft,
+Aber zulezt, in langen Reihn,
+An die zweihundert von ſeiner Gemein:
+Die kamen nicht, zu ſehn und zu gaffen,
+Sondern geſchlagen von Gottes Waffen,
+Wollten ſich alle taufen laſſen.
+Das Kirchlein nicht ein Drittel faßt
+Der Meng', ſo an den Pforten paßt.
+
+Jetzo die Orgel hell erklingt,
+Man freudig Hallelujah ſingt.
+Dann, voller Demuth, holder Sitte,
+Schoͤn Rahel vor den Taufſtein ſchritte.
+Ihr Haupt gebeuget und ihr Knie,
+Empfaͤnget Bad und Segen ſie.
+
+
+
+[96/0112]
+Und als der Prieſter feierlich
+Sprach: Gotteskind, ich taufe dich,
+So jetzo Dorothea heißt,
+Auf Vater, Sohn und heiligen Geiſt: —
+Glaubſt du an des Dreieinigen Namen?
+Schoͤn Dorothe' ſprach: Ja und Amen.
+
+
+
+[97/0113]
+Idylle.
+An J. M.
+
+Unter die Eiche geſtreckt, im jung belaubten Gehoͤlze
+Lag ich, ein Buͤchlein vor mir, das mir das lieblichſte
+bleibt;
+Jene Maͤhrchen erzaͤhlt's von der Gaͤnſemagd und von
+dem Fiſcher,
+Von dem Machandelboom; wahrlich, man wird ſie
+nicht ſatt.
+Gruͤnlicher Maienſchein warf mir geringelte Lichter
+Auf's beſchattete Buch, neckiſche Bilder zum Text.
+Ferne hoͤr' ich die Holzart fallen, ich hoͤre den Gukuk
+Und es lispelt ein Bach wenige Schritte vor mir.
+Maͤhrchenhaft fuͤhl' ich mich ſelbſt, mit aufgeſchloſſenen
+Sinnen
+Seh' ich, wie helle! den Wald, ruft mir der Gukuk,
+wie fremd!
+Ploͤtzlich rauſcht es im Laub, — wird doch Sneewittchen
+nicht kommen,
+Oder, bezaubert, ein Reh? Nicht doch, kein Wunder
+geſchieht;
+Siehe, mein Nachbarskind aus dem Dorf, mein artiges
+Schaͤtzchen!
+Muͤßig lief es in Wald, weil es den Vater dort weiß,
+Ehrbar ſetzet es ſich an meine Seite, vertraulich
+Plaudern wir Dieſes und Das, und ich erzaͤhle ſofort
+
+
+Moͤrike, Gedichte. 7
+
+[98/0114]
+Gar ausfuͤhrlich die Leiden des unvergleichlichen Maͤdchens,
+Dem von der Mutter Hand dreimal der Tod ſchon gedroht.
+Denn die Eitle, die Koͤnigin, haßte ſie, weil ſie ſo ſchoͤn war,
+Grimmig, da mußte ſie fliehn, wohnte bei Zwergen
+ſich ein.
+Aber die Koͤnigin findet ſie bald; ſie klopfet am Hauſe,
+Bietet, als Kraͤmerin, ſchlau, lockende Waare zu Kauf.
+Arglos oͤffnet das Kind, den Rath der Zwerge vergeſſend,
+Und das Liebchen empfaͤngt, ach! den vergifteten Kamm.
+Welch ein Jammer, da nun die Kleinen zu Hauſe ge¬
+kommen!
+Welcher Kuͤnſte bedarf's, bis die Erſtarrte erwacht!
+Doch zum zweiten Mal kommt, zum dritten Male, ver¬
+kleidet,
+Die Verderberin, leicht hat ſie das Maͤdchen beſchwazt,
+Schnuͤrt in das zierliche Leibchen ſie ein, den Athem er¬
+ſtickend
+In dem Buſen; zuletzt bringt ſie die toͤdtliche Frucht.
+Nun iſt alle Huͤlfe umſonſt; wie weinen die Zwerge!
+Ein kryſtallener Sarg ſchließet die Aermſte nun ein,
+Frei geſtellt auf den Berg, ein Anblick allen Geſtirnen,
+Unverwelklich ruht innen die ſuͤße Geſtalt.
+— So weit war ich gekommen, da drang aus dem naͤch¬
+ſten Gebuͤſche,
+Hinter mir Nachtigallſchlag herrlich auf Einmal hervor,
+Troff wie Honig durch das Gezweig und ſpruͤhte wie Feuer
+Zackige Toͤne, mir traf freudig ein Schauer das Herz,
+Wie wenn der Goͤttinnen Eine, voruͤberfliehend, dem
+Dichter
+Durch ambroſiſchen Duft ihre Begegnung verraͤth.
+
+
+
+[99/0115]
+Leider verſtummte die Saͤngerin bald, ich horchte noch lange,
+Doch vergebens, und ſo bracht' ich mein Maͤhrchen
+zum Schluß. —
+Jetzo deutet das Kind und ruft: „Margrete! da kommt ſie!
+In dem Korbe, ſiehſt du, bringt ſie dem Vater die
+Milch!“
+Durch die Luͤcke ſogleich erkannt' ich die aͤltere Schweſter;
+Von der Wieſe herauf beugt nach dem Walde ſie ein,
+Ruͤſtig, die braͤunliche Dirne; ihr brennt auf der Wange
+der Mittag,
+Gern erſchreckten wir ſie, aber ſie gruͤßet bereits.
+„Haltet's mit, wenn Ihr moͤgt! es iſt heiß, da mißt
+man die Suppe
+Und den Braten zur Noth, fett iſt und kuͤhle mein
+Mahl.“
+Und ich ſtraͤubte mich nicht, wir folgten dem Schlage der
+Holzart;
+Statt des Kindes wie gern haͤtt' ich die Schweſter
+gefuͤhrt!
+
+— Freund! du ehreſt die Muſe, die jene Maͤhrchen vor Alters
+Wohl zu Tauſenden ſang; aber nun ſchweiget ſie laͤngſt,
+Die am Winterkamin, bei der Schuſterbank, oder am
+Webſtuhl
+Dichtendem Volkswitz oft koͤſtliche Nahrung gereicht.
+Das Unmoͤgliche war ihr Feld; leichtfertig verknuͤpft ſie
+Das Entfernteſte, reicht luſtig dem Bloͤden den Preis.
+Sind drei Wuͤnſche erlaubt: ihr Held wird das Albernſte
+waͤhlen;
+Ihr zu Ehren ſey dir nun das Geſtaͤndniß gethan,
+
+
+7 *
+
+[100/0116]
+Wie an der Seite der Dirne, der vielgeſpraͤchigen, ſachte
+Im bewegten Gemuͤth bruͤnſtig der Wunſch mich be¬
+ſchlich:
+Waͤr' ich ein Jaͤger, ein Hirt, waͤr' ich ein Bauer geboren,
+Truͤg' ich Knuͤttel und Beil, waͤrſt, Margarete, mein
+Weib!
+Nie beklagt' ich die Hitze des Tags, ich wollte mich herzlich
+Auch der rauheren Koſt, wenn du ſie braͤchteſt, erfreun.
+O wie herrlich wuͤrde mir jeder Morgen begegnen,
+Und das Abendroth uͤber dem reifenden Feld!
+Balſam wuͤrde mein Blut im friſchen Kuſſe des Weibes,
+Kraftvoll bluͤhte mein Haus, doppelt, in Kindern
+empor.
+Aber im Winter, zu Nacht, am Ofen und auf der Schnitz¬
+bank
+Rief' ich, o Muſe, dich auch, maͤhrchenerfindende, an!
+
+
+
+[101/0117]
+Akme und Septimius.
+Nach Catull.
+
+Akme, ſeine Geliebte, auf dem Schooſe
+Haltend, ſagte Septimius: „Meine Akme!
+Uebermaͤßig hab' ich dich lieb und will auch
+Jahr fuͤr Jahr dich beſtaͤndig alſo lieben,
+So arg wie nur ein Menſch jemals im Stand iſt;
+Sieh, ſonſt mag mir's geſchehn, daß ich, ganz einſam,
+Sey's in Libyen, ſey's im heißen Inder-
+Land, dem toͤdtlichen Blick des Leu'n begegne!“
+Wie er dieſes geſagt, nieſ't Amor, herzlich
+Es bekraͤftigend (ſonſt war er ihm abhold).
+Akme, ruͤckwaͤrts ihr Koͤpfchen leicht gebogen,
+Und die trunkenen Augen ihres ſuͤßen
+Knaben kuͤſſend mit jenem Purpurmunde,
+Sprach: „Mein Leben! o du mein Septiminchen!
+kuͤnftig dienen wir dieſem Herrn alleine,
+Ich, wie du, — ſo gewiß als mir noch weit ein
+Heißer Feuer im zarten Marke gluͤhet!“
+Wie ſie dieſes geſagt, nieſ't Amor, herzlich
+Es bekraͤftigend (ſonſt war er ihr abhold).
+Auf ſo guͤnſtige Zeichen nunmehr bauend
+Tauſchen Beide von Herzen Lieb' um Liebe.
+Nur in Akme allein lebt noch Septimius,
+
+
+[102/0118]
+Die ihm theurer als Syrien und Britannien,
+Nur Septimius widmet Akme treulich
+All' ihr Suͤßes und alle Liebeswonnen.
+Kein gluͤckſeliger Paar hat man geſehen,
+Keine Liebe, ſo ſchoͤn vom Gott beſiegelt!
+
+
+
+[103/0119]
+Loſe Waare.
+„Tinte! Tinte kauft ab! Schoͤn ſchwarze Tinte verkauf' ich:“
+Rief ein Buͤblein gar hell Straßen hinauf und hinab.
+Lachend traf ſein feuriger Blick mich oben im Fenſter,
+Eh' ich mich's irgend verſah, huſcht er ins Zimmer herein.
+Knabe, dich rief Niemand! — „Herr! meine Waare ver¬
+ſucht nur!“
+Und ſein Faͤßchen behend ſchwang er vom Ruͤcken
+herum.
+Da verſchob ſich das halbzerriſſene Jaͤckchen ein wenig
+An der Schulter und hell ſchimmert ein Fluͤgel hervor.
+Ei, laß ſehen, mein Sohn! du fuͤhrſt auch Federn im
+Handel?
+Amor, verkleideter Schelm! ſoll ich dich rupfen ſogleich?
+Und er laͤchelt, entlarvt und legt auf die Lippen den
+Finger:
+„Stille! ſie ſind nicht verzollt — ſtoͤrt die Geſchaͤfte
+mir nicht!
+Gebt das Gefaͤß, ich fuͤll' es umſonſt, und bleiben wir
+Freunde!“
+Dies geſagt und gethan, ſchluͤpft er zur Thuͤre hinaus. —
+Angefuͤhrt hat er mich doch: denn will ich was Nuͤtzliches
+ſchreiben,
+Gleich wird ein Liebesbrief, gleich ein Erotikon draus.
+
+
+
+[104/0120]
+Die Herbſtfeier.
+Auf! im traubenſchwerſten Thale
+Stellt ein Feſt des Bacchus an!
+Becher her und Opferſchale!
+Und des Gottes Bild voran!
+Floͤte mit Geſang verkuͤnde
+Gleich des Tages letzten Reſt,
+Mit dem Abendſtern entzuͤnde
+Sich auch unſer Freudenfeſt!
+
+Braune Maͤnner, ſchoͤne Frauen
+Soll man hier verſammelt ſeh'n,
+Greiſe auch, die ehrengrauen,
+Duͤrfen nicht von ferne ſteh'n;
+Knaben, ſo die Kruͤge fuͤllen,
+Und, daß er vollkommen ſey,
+Treten zoͤgernd auch die ſtillen
+Maͤdchen unſerm Kranze bei.
+
+Noch iſt vor der nahen Feier
+Suͤß beklommen manche Bruſt,
+Aber weiter bald und freier
+Uebergibt ſie ſich der Luſt.
+Thaut euch nicht wie Fruͤhlingsregen
+Lieblicher Gedankenſchwarm?
+Erdenleben, laß dich hegen,
+Uns iſt wohl in deinem Arm!
+
+
+
+[105/0121]
+Wahrlich und ſchon mit Entzuͤcken
+Iſt der Gott in vollem Lauf,
+Schließt vor den erwaͤrmten Blicken
+Seine goldnen Himmel auf.
+Amor auch hat nichts dawider,
+Wenn ſich Wang' an Wange neigt,
+Und der Mund, im Takt der Lieder,
+Sich dem Mund entgegen beugt.
+
+Maͤdchen! ſchlingt die wildſten Taͤnze!
+Reißt nur euren Kranz entzwei!
+Ohne Furcht, denn ſolche Kraͤnze
+Flicht man immer wieder neu;
+Doch den andern, den ich meine,
+Nehmt, ihr Zaͤrtlichen, in Acht!
+Und zumal im Mondenſcheine,
+Und zumal in ſolcher Nacht.
+
+Laßt mir doch den Alten machen,
+Der ſich dort zum Korbe buͤckt
+Und den Krug mit hellem Lachen
+Kindiſch an die Wange druͤckt!
+Wie ſein kleiner Sohn geſchaͤftig
+Sorge um den Zecher traͤgt
+Und ihm mit der Fackel kraͤftig
+Den gekruͤmmten Ruͤcken ſchlaͤgt!
+
+Aber ſchaut nach dem Gebuͤſche,
+Wo gedrungner Epheu webt,
+Wie ſich dort das traͤumeriſche
+Marmorbild des Gottes hebt!
+Laſſet uns ihm naͤher treten,
+Schließt mit Fackeln einen Kreis!
+Flehet zu ihm in Gebeten,
+Doch geheimnißvoll und leiſ'.
+
+
+
+[106/0122]
+Wie er laͤchelnd abwaͤrts blicket!
+Er beſinnet ſich nur kaum.
+Herrlicher! dein Auge nicket,
+Doch dies Alles iſt kein Traum;
+Luna ſucht mit frommer Leuchte
+Dich, o ſchoͤner Juͤngling, hier,
+Schoͤpfet zaͤrtlich ihre feuchte
+Klarheit auf die Stirne dir.
+
+Wie der Menſchen, ſo der Goͤtter
+Liebſter Liebling heißeſt du:
+Selber Zeus rief ſeinem Retter
+Herzliches Willkommen zu;
+Dumpf iſt des Olympus Droͤhnen,
+Aber wie melodiſch Gold
+Muß ſein ſtarres Erz ertoͤnen,
+Wenn dein Thyrſus auf ihm rollt.
+
+Und eh Mars im Kriegerſchwarme
+Sich zur Ebne niederlaͤßt,
+Schließet er in ſeine Arme
+Dich, wie die Geliebte, feſt,
+Fuͤhlet nun an Goͤttermarke
+Sich gedoppelt einen Gott,
+Dann erſt bruͤllt der Himmliſch-Arge
+Todesluſt und Siegerſpott.
+
+
+
+[107/0123]
+Wie dir Alle dienen muͤſſen,
+Schmiegt auch Eros' hohe Macht
+Leiſe todt ſich dir zu Fuͤßen,
+Oder ſchauert auf und wacht.
+Und Apollo mit der Leyer
+Rufet Welt und Sternenbahn
+Gern aus dem verklaͤrten Feuer
+Deines holden Wahnes an.
+
+Herr! wie muͤſſen wir dich loben?
+Soll mit wild geſchlagner Bruſt
+Die Maͤnade um dich toben?
+Fluchſt du unſrer keuſchen Luſt?
+Gib, o Fuͤrſt, gib uns ein Zeichen,
+Daß wir deine Kinder ſey'n!
+Wunderthaͤter ohne Gleichen,
+Laß ein Wunder uns erfreun!
+
+Tritt in unſre bunte Mitte,
+Oder winke mit der Hand,
+Wandle drei gemeſſ'ne Schritte
+Laͤngs der hohen Rebenwand!
+— Ach, er laͤßt ſich nicht bewegen ..
+Aber, horcht, es bebt das Thal!
+Ja, das iſt von Donnerſchlaͤgen:
+Horch, und ſchon zum dritten Mal!
+
+Selber Zeus hat nun geſchworen,
+Daß ſein Sohn uns guͤnſtig ſey
+So iſt kein Gebet verloren,
+So iſt der Olymp getreu.
+
+
+
+[108/0124]
+— Doch nach ſolcher Goͤtterfuͤlle
+Ungeſtuͤmem Ueberſchwang
+Werden alle Herzen ſtille,
+Alle Gaͤſte zauberbang.
+
+Stimmet an die letzten Lieder!
+Und ſo, Paar an Paar gereiht,
+Steiget nun zum Fluß hernieder,
+Wo ein feſtlich Schiff bereit.
+Auf dem vordern Rand erhebe
+Sich der Gott und fuͤhr' uns an,
+Und der Kiel, mit Fluͤſtern, ſchwebe
+Durch die mondbeglaͤnzte Bahn!
+
+
+
+[109/0125]
+Lied eines Verliebten.
+In aller Fruͤh', ach, lang vor Tag
+Weckt mich mein Herz, an dich zu denken
+Da doch geſunde Jugend ſchlafen mag.
+
+Hell iſt mein Aug' um Mitternacht,
+Heller als fruͤhe Morgenglocken:
+Wann haͤtt'ſt du je am Tage mein gedacht?
+
+Waͤr' ich ein Fiſcher, ſtuͤnd' ich auf,
+Truͤge mein Netz hinab zum Fluſſe,
+Truͤg' herzlich froh die Fiſche zum Verkauf.
+
+In der Muͤhle, bei Licht, der Muͤllerknecht
+Tummelt ſich, alle Gaͤnge klappern;
+So ruͤſtig Treiben waͤr' mir eben recht!
+
+Weh, aber ich! o armer Tropf!
+Muß auf dem Lager mich muͤßig graͤmen,
+Ein ungebaͤrdig Mutterkind im Kopf!
+
+
+
+[110/0126]
+An Clara.
+Hoͤre das lieblichſte Wunder, das ich fuͤrwahr nicht er¬
+dichte,
+Auch erdichtet waͤr' es wohl ſchoͤn, doch ſah ich's mit
+Augen.
+Unter dem bluͤhenden Apfelbaum ſaß ich auf dem be¬
+mooſten
+Maͤuerchen, ſtill in Gedanken vertieft; es ruhte das neue
+Teſtament mir halbgeoͤffnet zwiſchen den Fingern,
+Klein und zierlich gebunden: (es kam vom treueſten
+Herzen —
+Ach, du ruheſt nun auch, mir unvergeſſen, im Grabe!)
+Lange ſaß ich und blickte nicht auf; mit Einem ſo laͤßt ſich
+Mir ein Schmetterling nieder auf's Buch, er hebet und
+ſenket
+Dunkle Fluͤgel mit ſchillerndem Blau, er dreht ſich und
+wandelt
+Hin und her auf dem Rande. Was ſuchſt du, reizender
+Sylphe?
+Lockte die blaue Decke dich an, der glaͤnzende Goldſchnitt?
+Sahſt du, getaͤuſcht, im Buͤchlein die herrlichſte Wunder¬
+blume?
+Oder zogen geheim dich himmliſche Kraͤfte hernieder
+Des lebendigen Worts? Ich muß es glauben, denn
+immer
+Weileſt du noch, wie gebannt und ſcheinſt wie trunken,
+ich ſtaune!
+
+
+[111/0127]
+Aber von nun an biſt du auf alle Tage geſegnet!
+Unverletzlich dein Leib, dir altern nimmer die Schwingen!
+Und wohin du kuͤnftig die zarten Fuͤße wirſt ſetzen,
+Thauet Segen von dir. Jezt eile hinunter zum Garten,
+Den das beſte Maͤdchen beſucht am fruͤheſten Morgen,
+Eile zur Lilie du, gleich wird die Knospe ſich oͤffnen
+Unter dir, dann kuͤſſe ſie tief in den Buſen: von Stund an
+Goͤttlich befruchtet, athmet ſie Geiſt und himmliſches Leben.
+Wenn die Gute nun kommt, vor den hohen Stengel ge¬
+treten,
+Steht ſie befangen, entzuͤckt von paradieſiſcher Naͤhe,
+Ahnungsvoll wie im Traum die holde Seele verſunken.
+
+
+
+[112/0128]
+Johann Kepler.
+Geſtern, als ich vom naͤchtlichen Lager den Stern mir
+in Oſten
+Lang' betrachtete, den dort mit dem roͤthlichen Licht,
+Und des Mannes gedachte, der ſeine Bahnen zu meſſen,
+Von dem Gotte gereizt, himmliſcher Pflicht ſich ergab,
+Durch beharrlichen Fleiß der Armuth grimmigen Stachel
+Zu verſoͤhnen, umſonſt, und zu verachten bemuͤht:
+Mir entbrannte mein Herz von inniger Wehmuth; ach!
+dacht' ich,
+Wußten die Himmliſchen dir, Meiſter, kein beſſeres
+Loos?
+Wie ein Dichter den Helden ſich waͤhlt, wie Homer von
+Achilles
+Goͤttlichem Adel geruͤhrt, ſchoͤn im Geſang ihn erhob.
+Alſo wandteſt du ganz die Kraͤfte nach jenem Geſtirne,
+Sein gewaltiger Gang war dir ein ewiges Lied.
+Doch ſo bewegt ſich kein Gott von ſeinem goldenen Sitze,
+Holdem Geſange geneigt, den zu erretten, herab,
+Dem die hoͤhere Macht die dunkeln Tage beſtimmt hat,
+Und euch Sterne beruͤhrt nimmer ein Menſchengeſchick;
+Ihr geht uͤber dem Haupte des Weiſen oder des Thoren
+Euern ſeligen Weg ewig gelaſſen dahin!
+
+
+
+[113/0129]
+Auf das Grab von Schillers Mutter.
+Cleverſulzbach, im Mai.
+
+Nach der Seite des Dorf's, wo jener alternde Zaun dort
+Laͤndliche Graͤber umſchließ't, wall' ich in Einſamkeit
+oft.
+Sieh' den geſunkenen Huͤgel! es kennen wenige Greiſe
+Kaum ihn noch und es ahnt Niemand ein Heiligthum
+hier.
+Jegliche Zierde fehlt und jedes deutende Zeichen;
+Duͤrftig breitet ein Baum ſchuͤtzende Arme umher.
+Wilde Roſe! dich find ich allein ſtatt anderer Blumen;
+Ja, beſchaͤme ſie nur, brich als ein Wunder hervor!
+Tauſendblaͤttrig eroͤffne dein Herz! entzuͤnde dich herrlich
+Am begeiſternden Duft, den aus der Tiefe du ziehſt!
+— Eines Unſterblichen Mutter liegt hier beſtattet; es
+richten
+Deutſchlands Maͤnner und Frau'n eben den Marmor
+ihm auf.
+
+
+Moͤrike. Gedichte. 8
+
+[114/0130]
+Theokrit.
+Sey, Theokritos, mir, du Anmuthsvollſter, geprieſen!
+Lieblich biſt du zuerſt, aber auch herrlich fuͤrwahr.
+Wenn du die Grazien ſchickſt in die Palaͤſte der Reichen,
+Unbeſchenkt kehren ſie dir, nackenden Fußes, zuruͤck.
+Muͤßig ſitzen ſie dort im aͤrmlichen Hauſe des Dichters,
+Auf die frierenden Knie' traurig die Stirne geſenkt.
+Oder fuͤhre das Maͤdchen mir vor, das, raſend in Liebe,
+Da ihm der Juͤngling entfloh, Hekate's Kuͤnſte ver¬
+ſucht.
+Oder ſinge den jungen Herakles, welchem zur Wiege
+Dient der eherne Schild, wo er die Schlangen erwuͤrgt:
+Klangvoll faͤhrſt du dahin! dich kraͤnzte Kalliope ſelber:
+Aber beſcheiden, ein Hirt, haſt du die Syrinx er¬
+waͤhlt.
+
+
+
+[115/0131]
+An eine Lieblingsbuche meines Gartens,
+in deren Stamm ich Hoͤlty's Namen ſchnitt.
+Holde Dryas, halte mir ſtill! es ſchmerzet nur wenig;
+Mit wolluͤſtigem Reiz ſchließt ſich die Wunde geſchwind.
+Eines Dichters Namen zu tragen biſt du gewuͤrdigt,
+Keinen Lieberen hat Wieſe noch Wald mir genannt.
+Kuͤnftig ſey du die Erſte von allen deinen Geſchwiſtern,
+Welche der kommende Lenz wecket und reichlich belaubt.
+Und ein liebendes Maͤdchen, von deinem Dunkel umduftet,
+Sieht den Namen, der, halb nur verborgen, ihr winkt;
+Leiſe druͤckt ſie, gedankenvoll, die Lippen auf dieſe
+Lettern, es dringet ihr Kuß dir an das innerſte Mark.
+Wehe der Hand, die dich zu ſchaͤdigen waget! Ihr gluͤcke
+Nimmer, in Feld und Haus, nimmer ein friedliches
+Werk!
+
+
+8 *
+
+[116/0132]
+Tibullus.
+Wie der wechſelnde Wind nach allen Seiten die hohen
+Saaten im weichen Schwung niedergebogen durchwuͤhlt:
+Liebekranker Tibull! ſo unſtet fluthen, ſo reizend
+Deine Geſaͤnge dahin, waͤhrend der Gott dich beſtuͤrmt.
+
+
+
+[117/0133]
+An Hermann.
+Unter Thraͤnen riſſeſt du dich von meinem Halſe;
+In die Finſterniß lang' ſah ich verworren dir nach;
+Wie? auf Ewig? ſagteſt du ſo? Dann laͤſſet auf Ewig
+Meine Jugend von mir, laͤſſet mein Genius mich!
+Und warum? bei Allem, was heilig, weißt du es
+ſelber?
+Wenn es der Uebermuth ſchwaͤrmender Jugend nicht iſt?
+O verwegenes Spiel! Komm! nimm das Wort, ruf es
+zuruͤcke!
+— Aber du hoͤrteſt nicht, ließeſt mich ſtaunend allein.
+Monde vergingen und Jahre; die heimliche Sehnſucht im
+Herzen,
+Standen wir fremd, es fand Keiner ein muthiges
+Wort,
+Um den falſchen Bann, den luftgewebten, zu brechen,
+Und der gemeine Tag loͤſchte bald jeglichen Wunſch.
+Aber heutige Nacht erſchien mir wieder im Traume
+Deine Knabengeſtalt — Wehe! wo rett' ich mich hin
+Vor dem lieblichen Bild! Ich ſah dich unter den hohen
+Maulbeerbaͤumen im Hof, wo wir zuſammen geſpielt.
+Und du wandteſt dich ab, wie beſchaͤmt, ich ſtrich dir die
+Locken
+Aus der Stirne: O du, rief ich, was kannſt du dafuͤr!
+Weinend erwacht' ich zulezt, truͤb ſchien der Mond auf
+mein Lager,
+Aufgerichtet im Bett ſaß ich und dachte dir nach;
+
+
+
+[118/0134]
+O wie tobte mein Herz! Du fuͤllteſt wieder den
+Buſen
+Mir, wie kein Bruder vermag, wie die Geliebte nicht
+kann!
+
+
+
+[119/0135]
+Muſe und Dichter.
+„Graben kann ich nicht: nun vollends krank! und zu
+betteln
+Schaͤme ich mich. Du ſchweigſt, Muſe? O rathe mir!
+hilf!
+Gib die Leyer!“ — Nicht doch! Dir iſt die Ruhe
+geboten.
+Schlafe, traͤume nur! ſtill ruf' ich dir Huͤlfe herab.
+Deinem Haupte noch bluͤhet ein Kranz; und ſey es zum
+Leben,
+Sey's zum Tode; getroſt! meine Hand windet ihn dir.
+„Keinen Lorbeer will ich, die kalte Stirne zu ſchmuͤcken:
+Laß mich leben! und gib froͤhliche Blumen zum Strauß.“
+
+
+
+[120/0136]
+Geſpräch vor Tage.
+„Sage, wird es denn heute nicht Tag? es daͤmmert ſo
+lange!
+Und zu Hunderten, horch! ſingen die Lerchen im Feld.“
+Wohl; ihr lichtbegieriges Auge ſauget die erſten
+Strahlen des Tages hinweg und ſo waͤchſt langſam
+er nur.
+
+
+
+[121/0137]
+An meinen Arzt,
+Herrn Dr. Elſaͤſſer.
+
+Siehe! da ſtuͤnd' ich wieder auf meinen Fuͤßen! und blicke
+Froh erſtaunt in die Welt, die mir im Ruͤcken ſchoͤn
+lag;
+Aber ich ſpreche von Danke dir nicht: du lieſeſt ihn beſſer
+Mir im Auge, du fuͤhlſt hier ihn im Drucke der Hand.
+— Ich gluͤckſeliger Thor, daß ich meine, du ſollteſt ver¬
+wundert
+Ueber dich ſelber ſeyn, oder geruͤhrt, ſo wie ich!
+Doch daran erkennen wir dich! — Den ſchwindelnden
+Nachen
+Herrlich meiſternd faͤhrt ruhig der Schiffer an's Land,
+Wirft in den Kahn das Ruder, das, ach! ſo Viele ge¬
+rettet,
+Laut aufjauchzen ſie ihm, aber er achtet es kaum,
+Kettet das Schiff an den Pflock; und Abends ſizt er beim
+Kruge
+Wie ein anderer Mann, fuͤllet ſein Pfeifchen und ruht.
+
+
+
+[122/0138]
+Der Geneſene an die Hoffnung.
+Toͤdtlich graute mir der Morgen:
+Doch ſchon lag mein Haupt, wie ſuͤß!
+Hoffnung, dir im Schoos verborgen,
+Bis der Sieg gewonnen hieß.
+Opfer bracht' ich allen Goͤttern,
+Doch vergeſſen wareſt du;
+Seitwaͤrts von den ew'gen Rettern
+Saheſt du dem Feſte zu.
+
+O vergib, du Vielgetreue!
+Tritt aus deinem Daͤmmerlicht,
+Daß ich dir in's ewig neue,
+Mondenhelle Angeſicht
+Einmal ſchaue recht von Herzen,
+Wie ein Kind und ſonder Harm;
+Ach, nur Einmal ohne Schmerzen
+Schließe mich in deinen Arm!
+
+
+
+[123/0139]
+Ideale Wahrheit.
+Geſtern entſchlief ich im Wald: da ſah ich im Traume
+das kleine
+Maͤdchen, mit dem ich als Kind immer am liebſten
+verkehrt.
+Und ſie zeigte mir hoch in der Eiche Gipfel den Gukuk,
+Wie die Kindheit ihn denkt, praͤchtig gefiedert und
+groß.
+Drum! — ſo rief ich — dieß iſt der aͤchte Gukuk! Wer
+ſagte
+Mir doch neulich, er ſey klein nur, unſcheinbar und
+grau!
+
+
+Maſchinka.
+Dieſer ſchwellende Mund, den Reiz der Heimath noch
+athmend,
+Kennt die Sprache nicht mehr, die ihn ſo lieblich ge¬
+formt;
+Halb verdrießlich greifet die Schoͤne nach der Grammatik,
+Stammelt ruſſiſchen Laut, weil es der Vater befiehlt.
+Euer Stammeln iſt ſuͤß, doch pflegt ihr, trutzige Lippen,
+Heimlich ein ander Geſchaͤft, das euch vor allem ver¬
+ſchoͤnt!
+
+
+[124/0140]
+Schnelle Beute.
+Hat der Dichter im Geiſt ein koͤſtliches Liedchen empfangen,
+Ruht und raſtet er nicht, bis es vollendet ihn gruͤßt:
+Schoͤnſte! ſo ſah ich dich neulich zum erſten Mal fluͤchtig
+am Fenſter,
+Und ich brannte; nun liegſt heute du mir ſchon im
+Arm!
+
+
+Nachts am Schreibepult.
+Primeln, Sterne, Syringen, von ſtiller Kerze beleuchtet,
+Hier im Glaſe: wie fremd blickt ihr, wie feenhaft, her!
+Sonne ſchien, als die Liebſte euch trug; da wart ihr ſo
+freudig:
+Mitternacht ſummt nun um euch, ach! und kein Lieb¬
+chen iſt hier.
+
+
+
+[125/0141]
+Vicia faba minor.
+Fort mit dieſem Geruch, dem zauberhaften! Er mahnt
+mich
+An die Haare, die mir einſt alle Sinne beſtrickt.
+Weg mit dieſer Bluͤthe, der ſchwarz und weißen! Sie
+ſagt mir,
+Daß die Verfuͤhrerin, ach! ſchwer mit dem Tode ge¬
+buͤßt.
+
+
+Auf dem Grabe eines Künſtlers.
+Tauſende liegen hier, ſie kannten keinen Homerus:
+Selig ſind ſie gleichwohl, aber nicht eben wie du.
+
+
+
+[126/0142]
+An meine Mutter.
+Siehe, von alle den Liedern nicht Eines gilt dir, o Mutter!
+Dich zu preiſen, o glaub's, bin ich zu arm und zu
+reich.
+Ein noch ungeſungenes Lied ruhſt du mir im Buſen,
+Keinem vernehmbar ſonſt, mich nur zu troͤſten beſtimmt,
+Wenn ſich das Herz unmuthig der Welt abwendet und
+einſam
+Seines himmliſchen Theils bleibenden Frieden bedenkt.
+
+
+An Dieſelbe.
+Ach wie liebreich warſt du der Welt und dieneteſt Allen!
+Und wie klein doch, wie plump hat ſie dich endlich
+verkannt!
+Da entſagteſt du ihr; doch laͤchelnd wehren die Deinen
+Heute wie geſtern der Hand, die ſich in Liebe vergißt.
+
+
+
+[127/0143]
+An H. K.
+Sey mir beſtens willkommen! denn wahrlich Dir hat die
+Muſe
+Heiter Lippen und Stirn und beide glaͤnzende Augen
+Mit unſproͤdem Kuſſe beruͤhrt, ſo kuͤſſe mich wieder!
+
+
+Brockes.
+Alter, fuͤhre mich nur in deinen geſchnoͤrkelten Fruͤhlings-
+Garten! noch duftet und thaut friſch und gewuͤrzig
+ſein Flor.
+
+
+Joſeph Haydn.
+Manchmal iſt ſein Humor altfraͤnkiſch, ein zierliches
+Zoͤpflein,
+Das, wie der Zauberer ſpielt, ſchalkhaft im Ruͤcken
+ihm tanzt.
+
+
+
+[128/0144]
+Auf einen Klavierſpieler.
+Hoͤrt ihn und ſeht ſein duͤrftig Inſtrument!
+Die alte, klepperduͤrre Maͤhre,
+An der ihr jede Rippe zaͤhlen koͤnnt,
+Verwandelt ſich im Griffe dieſes Knaben
+Zu einem Pferd von wilder, edler Art,
+Das in Arabiens Gluth geboren ward!
+Es will nicht Zeug, noch Zuͤgel haben,
+Es baͤumt den Leib, zeigt wiehernd ſeine Zaͤhne,
+Dann ſchuͤttelt ſich die weiße Maͤhne,
+Wie Schaum des Meers zum Himmel ſprizt,
+Bis ihm, beſiegt von dem gelaſſ'nen Reiter,
+Im Aug' die bittre Thraͤne blizt —
+O horch! nun tanzt es ſanft auf goldner Toͤne Leiter!
+
+
+
+[129/0145]
+P. K.
+Wer ergoͤzte ſich nicht am derben Witze des Mannes!
+Heute verwuͤnſchet man ihn, morgen heißt's: waͤr er
+nur da!
+Trocken ſitzt er im Kreis der Gaͤſte; bald wagt es ein
+Schlaukopf,
+Reizt ihn leiſe von fern, ſcheinbar bemerkt er es nicht.
+Jetzo faßt er den Mann ſich in's Auge, ſchweigt noch und
+wieget
+Sachte, ſachte das Haupt, und — nun, ihr kennt ja
+das Spiel
+Mit dem Vogel von Holz? Erſt zielt der eiſerne Schnabel,
+Trifft ins Schwarze: — herauf rauſchet mit Lachen
+Hanswurſt.
+
+
+Moͤrike, Gedichte. 9
+
+[130/0146]
+An Friedr. Viſcher
+Prof. der Aeſthet. etc.
+
+Mit meinen Gedichten.
+
+Oft hat mich der Freund vertheidigt,
+Oft ſogar gelobt, doch nun?
+Der Profeſſor iſt beeidigt
+Und da hilft kein Traulich-thun.
+
+Alſo geht, ihr braven Lieder,
+Daß man euch die Koͤpfe waſcht!
+Seht auch, daß ihr hin und wieder
+Einen guten Blick erhaſcht.
+
+Er iſt Vater: um ſo minder
+Denk' ich ihn euch abgeneigt;
+Sind doch ſeine eignen Kinder
+Auf der Schulbank nicht gezeugt!
+
+
+
+[131/0147]
+Die Anti-Sympathetiker.
+An Juſtin Kerner.
+
+Von lauter Geiſte die Natur durchdrungen,
+Wie wuͤrde ſie nicht durch den Geiſt bezwungen?
+Wenn ſich getrennte Kraͤfte wiederkennen,
+Auf ein Erinn'rungswort entbrennen,
+Die Krankheit weicht, das Blut ſich ploͤtzlich ſtillt,
+Das iſt das Wunder, wie's die Dummheit ſchilt!
+— Laß die Schwachmatiker nur immer raͤſonniren,
+Und rechn' es ihnen allzu hoch nicht an!
+Denn, wenn ſie Gott und die Natur borniren,
+Es ſtreckt ſich Keiner laͤnger als er kann.
+
+
+9 *
+
+[132/0148]
+An einen Liebesdichter.
+Von Liebe ſingt ſo mancher Mann,
+Damit er auch von Liebe ſinge,
+Und hebt ein maͤchtig Klagen an,
+Der Ruhm iſt groß, die Pein geringe.
+
+Nun biſt du nicht im ſelben Fall,
+Und laͤſſeſt auch Geſang erſchallen,
+Obwohl noch keine Nachtigall,
+Doch mehr als jene Nachtigallen.
+
+Was iſt denn wohl der Unterſchied,
+Freund, zwiſchen dir und zwiſchen jenen?
+— Sie ſingen froh ein traurig Lied,
+Und du ein froͤhlichs unter Thraͤnen.
+
+
+
+[133/0149]
+Apoſtrophe.
+Als der Verfaſſer unter ein paar alten Eichen verſchiedene Gedichte
+las, worin Ruͤckerts geniale Formen auf eine geißloſe
+Weiſe nachgeahmt und uͤberboten waren.
+
+Ihr mehr als tauſendjaͤhrigen,
+Eichbaͤum', ihr rauh-moos-haͤrigen!
+Ihr, froͤhlichen, ſpitzoͤhrigen
+Waldteufeln angehoͤrigen!
+Ihr lang von wuthbefliſſenen
+Nordſtuͤrmen wild zerriſſenen!
+Nun angeweht von weichlichen
+Mailuͤftchen, unvergleichlichen;
+Und euer Fuß, der tuͤchtige,
+Den grimmig der bergſchluͤchtige,
+Von Felſen uͤberpurzelte
+Waldſtrom ſo gern entwurzelte,
+Beglaͤnzt von Baͤchleins Schimmer nun,
+Deſſen Geſpraͤchlein nimmer ruhn:
+Von Grund des Herzens preiſ' ich euch,
+Und uͤbergluͤcklich heiß' ich euch,
+Daß ihr ſo hoch euch beide ſtreckt
+Und in ſo dicken Haͤuten ſteckt,
+Daß, was ich euch in kuͤnſtlichen,
+So aͤußerſt ſprachverdienſtlichen
+Reimweiſen eben vorgeſungen,
+Euch gar nicht an das Ohr gedrungen.
+
+
+[134/0150]
+Antike Poeſie.
+Ich ſah den Helicon in Wolkendunſt,
+Nur kaum beruͤhrt vom erſten Sonnenſtrahle;
+Schau! jetzo ſtehen hoch mit einem Male
+Die Gipfel dort in Morgenroͤthe-Brunſt.
+
+Doch unten ſpricht von holder Muſen Gunſt
+Der heil'ge Quell im dunkelgruͤnen Thale:
+Wer aber ſchoͤpft mit reiner Opferſchale,
+Wie einſt, den aͤchten Thau der alten Kunſt?
+
+Wie? ſoll ich endlich keinen Meiſter ſehn?
+Will keiner mehr den alten Lorbeer pfluͤcken?
+— Da ſah ich Iphigeniens Dichter ſtehn:
+
+Er iſt's, an deſſen Blick ſich dieſe Hoͤhn
+So zauberhaft, ſo ſonnewarm erquicken.
+Er geht, und froſtig rauhe Luͤfte weh'n.
+
+
+
+[135/0151]
+Eberhard Wächter.
+In ſeine hohen Waͤnde eingeſchloſſen,
+Mit traurig ſchoͤnen Geiſtern im Verkehr,
+Geſtaͤrkt am reinen Athem des Homer,
+Von Goldgewoͤlken Attikas umfloſſen:
+
+So ſtets vor ſeinen Tuͤchern unverdroſſen,
+Fern von dem Markt der Kuͤnſte, ſizet er;
+Kein Neid verlezt, kein Lob berauſcht ihn mehr,
+Ihm bluͤht ein Kranz bei herrlichern Genoſſen.
+
+O kommt und ſchaut ein ſelig Kuͤnſtlerleben!
+Beſuchet ihn am abendlichen Herd,
+Wenn dieſe Stirne ſich der Wunderſchwingen
+
+Des Genius erwehrend, nun ſoeben
+Sich munter zu dem Alltagskreiſe kehrt,
+Den Weib und Kinder ſcherzend um ihn ſchlingen.
+
+
+
+[136/0152]
+Seltſamer Traum.
+Als Nachbild eines gluͤcklichen Theaterabends bei und nach Auffuͤhrung
+von Mozarts Figaro,
+dem liebenswuͤrdigen Schweſterpaar
+Marie und Pauline,
+Rudolph und Friedrich,
+gewidmet von dem Luſtigſten aus der Geſellſchaft.
+
+Stuttgart 1828.
+
+Ich ſahe naͤchtlich hinter Traumgardinen
+Viel Fruͤhlingsgaͤrten bluͤhn und immer aͤndern;
+Es tanzten, klein, auf zierlichen Gelaͤndern
+An hundert Figaros mit Cherubinen.
+
+Wie alle Dinge hundertfach erſchienen,
+So ſah ich zwiſchen „Masken, Blumen, Baͤndern,“
+Und zwiſchen all den „ſeidenen Gewaͤndern“
+Einfach die Einzigen, Marien, Paulinen.
+
+Und aus dem ſammtnen Fruͤhlingsboden ſtiegen,
+Gehoben von melodiſchen Gewalten,
+Die Leidenſchaften auf als ernſte Schatten;
+
+Da ſah ich, ſtill, mit tief gefurchten Zuͤgen,
+Einfach zwei edle baͤrtige Geſtalten,
+Und ich ſang, als Hanswurſt, auf Blumenmatten.
+
+
+
+[137/0153]
+Troſt.
+Ja, mein Gluͤck, das lang gewohnte,
+Endlich hat es mich verlaſſen!
+— Ja, die liebſten Freunde ſeh ich
+Achſelzuckend von mir weichen,
+Und die gnadenreichen Goͤtter,
+Die am beſten Huͤlfe wuͤßten,
+Kehren hoͤhniſch mir den Ruͤcken.
+Was beginnen? werd' ich etwa,
+Meinen Lebenstag verwuͤnſchend,
+Raſch nach Gift und Meſſer greifen?
+Das ſey ferne! vielmehr muß man
+Stille ſich im Herzen faſſen.
+
+Und ich ſprach zu meinem Herzen:
+Laß uns feſt zuſammenhalten!
+Denn wir kennen uns einander,
+Wie ihr Neſt die Schwalbe kennet,
+Wie die Cither kennt den Saͤnger,
+Wie ſich Schwert und Schild erkennen,
+Schild und Schwert einander lieben.
+Solch ein Paar, wer mag es ſcheiden?
+
+Als ich dieſes Wort geſprochen,
+Huͤpfte mir das Herz im Buſen,
+Das noch erſt geweinet hatte.
+
+
+
+[138/0154]
+Zum neuen Jahr.
+Kirchengeſang.
+(Melodie aus Axur: Wie dort auf den Auen.)
+
+Wie heimlicher Weiſe
+Ein Engelein leiſe
+Mit roſigen Fuͤßen
+Die Erde betritt:
+So nahte der Morgen.
+Jauchzt ihm, ihr Frommen,
+Ein heilig Willkommen,
+Ein heilig Willkommen!
+Herz, jauchze du mit!
+
+In Ihm ſey's begonnen,
+Der Monde und Sonnen
+An blauen Gezelten
+Des Himmels bewegt.
+Du, Vater, du rathe!
+Lenke du und wende!
+Herr, dir in die Haͤnde
+Sey Anfang und Ende,
+Sey Alles gelegt!
+
+
+
+[139/0155]
+Der König bei der Krönung.
+Dir angetrauet am Altare,
+O Vaterland! wie bin ich dein!
+Laß fuͤr das Rechte mich und Wahre
+Nun Prieſter oder Opfer ſeyn!
+
+Geuß auf mein Haupt, Herr! deine Schale,
+Ein koͤſtlich Oel des Friedens, aus,
+Daß ich wie eine Sonne ſtrahle
+Dem Vaterland und meinem Haus!
+
+
+
+[140/0156]
+Auf die Vermaͤhlung des
+Fürſten von Schwarzburg-Sondershauſen
+mit
+Mathilde, Prinzeſſin von Hohenlohe.
+Zum Empfang in der Kirche.
+
+Hebt euch, ſanftbeſchwingte Lieder,
+Und empfangt ein edel Paar!
+Ew'ge Liebe blick' hernieder!
+Denn dir ſchmuͤckt ſich der Altar;
+
+Wo der Fuͤrſt, der Hochbegluͤckte,
+Staunend deiner Wege denkt,
+Tief in Wehmuth die entzuͤckte
+Braut die reine Stirne ſenkt.
+
+Leis' auf goldner Wage waͤget,
+Engel, guͤtig Ihr Geſchick,
+Und zu ew'gen Kraͤnzen leget
+Jedes holde Erdengluͤck!
+
+
+
+[141/0157]
+Nannys Traum.
+Der Mutter zum Geburtstage.
+Mit einer rothen Roſe.
+
+Ich ging auf gruͤnen Wieſengruͤnden,
+Ich wollte gar zu gern fuͤr Dich
+Ein herzig Bluͤmelein wo finden,
+Und lief und ſuchte emſiglich.
+
+Ach, nirgend ſah ich eines ſtehen,
+Da fing ich laut zu weinen an:
+„Den Fruͤhling hab' ich kaum geſehen,
+Und kommt der Winter ſchon heran!“
+
+So lief ich fort und fort mit Trauern,
+Erſt bei dem letzten Abendſchein
+Hielt ich vor heil'gen Kirchenmauern,
+Das Thor ſtand auf, ich trat hinein
+
+Und kam in einen ſtillen Garten
+Und vor ein friſch bereites Grab,
+Dran ſah ich einen Engel warten,
+Gelehnt auf einen Hirtenſtab.
+
+Der ſchaut mich traurig an und bange
+Und nickt und winket mich herbei;
+Mir war, als kennt' ich ihn ſchon lange
+An ſeinen Augen fromm und treu.
+
+
+
+[142/0158]
+Er winkt, und aus des Grabes Schooſe
+Steigt bluͤhend, wie der Schnee ſo rein,
+Hervor die weiße Todtenroſe
+Und neiget ſich im Mondenſchein.
+
+Begierig ſchnell will ich ſie pfluͤcken,
+Doch mir verſagt die kleine Hand,
+Indeß mit freudehellen Blicken
+Ein zweiter Engel vor mir ſtand.
+
+Er zog mich ſachte weg zur Pforte
+Und ſprach: „Du gutes, krankes Kind,
+O laß die Roſen hier am Orte,
+Die bleich wie deine Wangen ſind!
+
+Auf's Neue ſollſt du froͤhlich ſpringen,
+Ihr Waͤnglein bluͤhet friſch und roth!
+Dies Pfand magſt du der Mutter bringen,
+Das dir dein guter Engel bot.“
+
+
+
+[143/0159]
+Verborgenheit.
+Laß, o Welt, o laß mich ſeyn!
+Locket nicht mit Liebesgaben!
+Laßt dies Herz alleine haben
+Seine Wonne, ſeine Pein!
+
+Was ich traure weiß ich nicht,
+Es iſt unbekanntes Wehe;
+Immerdar durch Thraͤnen ſehe
+Ich der Sonne liebes Licht.
+
+Oft bin ich mir kaum bewußt,
+Und die helle Freude zuͤcket
+Durch die Schwere, ſo mich druͤcket
+Wonniglich in meiner Bruſt.
+
+Laß, o Welt, o laß mich ſeyn!
+Locket nicht mit Liebesgaben!
+Laßt dies Herz alleine haben
+Seine Wonne, ſeine Pein!
+
+
+
+[144/0160]
+Suspirium.
+Jesu benigne!
+A cujus igne
+Opto flagrare
+Et Te amare:
+Cur non flagravi?
+Cur non amavi
+Te, Jesu Christe?
+— O frigus triste!
+
+(Altes Lied.)
+
+
+Seufzer .
+Dein Liebesfeuer,
+Ach Herr! wie theuer
+Wollt' ich es hegen,
+Wollt' ich es pflegen!
+Hab's nicht geheget
+Und nicht gepfleget,
+War Eis im Herzen —
+O Hoͤllenſchmerzen!
+
+
+
+[145/0161]
+An den Schlaf.
+Somne levis! quanquam certissima mortis imago;
+Consortem cupio te tarnen esse tori.
+Alma quies, optata, veni! nam sic sine vita
+Vivere, quam suave est, sic sine morte mori!
+
+Meibom.
+
+Schlaf! ſanfter Schlaf! obwohl dem Tod wie du Nichts
+gleicht:
+Komm! theilen wir dies Lager bruͤderlich!
+So ohne Leben, ach wie lieblich lebt es ſich!
+So ohne Tod, wie ſtirbt es ſich ſo leicht!
+
+
+Moͤrike, Gedichte. 10
+
+[146/0162]
+Wo find' ich Troſt?
+Eine Liebe kenn' ich, die iſt treu,
+War getreu, ſo lang ich ſie gefunden,
+Hat mit tiefem Seufzen immer neu,
+Stets verſoͤhnlich, ſich mit mir verbunden.
+
+Welcher einſt mit himmliſchem Gedulden
+Bitter bittern Todestropfen trank,
+Hing am Kreuz und buͤßte mein Verſchulden,
+Bis es in ein Meer von Gnade ſank.
+
+Und was iſt's nun, daß ich traurig bin,
+Daß ich angſtvoll mich am Boden winde?
+Frage: Huͤter, iſt die Nacht bald hin?
+Und: was rettet mich von Tod und Suͤnde?
+
+Arges Herze! ja geſteh es nur,
+Du haſt wieder boͤſe Luſt empfangen;
+Frommer Liebe, frommer Treue Spur,
+Ach, das iſt auf lange nun vergangen.
+
+Ja, das iſt's auch, daß ich traurig bin,
+Daß ich angſtvoll mich am Boden winde!
+Huͤter, Huͤter, iſt die Nacht bald hin?
+Und was rettet mich von Tod und Suͤnde?
+
+
+
+[147/0163]
+Auf ein altes Bild.
+In gruͤner Landſchaft Sommerflor,
+Bei kuͤhlem Waſſer, Schilf und Rohr,
+Schau, wie das Knaͤblein Suͤndelos
+Frei ſpielet auf der Jungfrau Schos!
+Und dort im Walde wonneſam,
+Ach, gruͤnet ſchon des Kreuzes Stamm!
+
+
+10 *
+
+[148/0164]
+Zurechtweiſung.
+In dieſer Winterfruͤhe
+Wie iſt mir doch zu Muth!
+O Morgenroth, ich gluͤhe
+Von deinem Jugendblut.
+
+Es gluͤht der alte Felſen,
+Die Waͤlder Funken ſpruͤhn,
+Berauſchte Nebel waͤlzen
+Sich in der Tiefe hin.
+
+Wie von der Hoͤhe nieder
+Der reinſte Himmel flimmt,
+Der um die Roſenglieder
+Entzuͤckter Engel ſchwimmt!
+
+Mit thatenfroher Eile
+Erhebt ſich Geiſt und Sinn,
+Und fluͤgelt goldne Pfeile
+Durch alle Ferne hin.
+
+Auf Burgen moͤcht' ich ſpringen,
+In alter Fuͤrſten Schloß,
+Moͤcht' hohe Lieder ſingen,
+Mich ſchwingen auf das Roß.
+
+
+
+[149/0165]
+Und ſtolzen Siegeswagen
+Stuͤrzt' ich mich brauſend nach,
+Die Harfe wird zerſchlagen,
+Die nur von Liebe ſprach.
+
+Wie? ſingſt du ſo vermeſſen,
+Herz, haſt du nicht bedacht,
+Haſt, Naͤrrchen, ganz vergeſſen,
+Was dich ſo trunken macht?
+
+Ach, wohl! was aus mir ſinget,
+Iſt nur der Liebe Gluͤck,
+Die wirren Toͤne ſchlinget
+Sie ſanft in ſich zuruͤck.
+
+Was hilft, was hilft mein Sehnen?
+Geliebte, waͤrſt du hier!
+In tauſend Freudethraͤnen
+Verging' die Erde mir.
+
+
+
+[150/0166]
+Am Walde.
+Am Waldſaum kann ich lange Nachmittage,
+Dem Gukuk horchend, in dem Graſe liegen,
+Er ſcheint das Thal gemaͤchlich einzuwiegen
+Im friedevollen Gleichklang ſeiner Klage.
+
+Da iſt mir wohl, und meine ſchlimmſte Plage,
+Den Fratzen der Geſellſchaft mich zu fuͤgen,
+Hier wird ſie mich doch endlich nicht bekriegen,
+Wo ich auf eigne Weiſe mich behage.
+
+Und wenn die feinen Leute nur erſt daͤchten,
+Wie ſchoͤn Poeten ihre Zeit verſchwenden,
+Sie wuͤrden mich zuletzt noch gar beneiden.
+
+Denn des Sonetts gedraͤngte Kraͤnze flechten
+Sich wie von ſelber unter meinen Haͤnden,
+Indeß die Augen in der Ferne weiden.
+
+
+
+[151/0167]
+Zuviel.
+Der Himmel glaͤnzt vom reinſten Fruͤhlingslichte,
+Ihm ſchwillt der Huͤgel ſehnſuchtsvoll entgegen,
+Die ſtarre Welt zerfließt in Liebesſegen,
+Und ſchmiegt ſich rund zum zaͤrtlichſten Gedichte.
+
+Am Dorfeshang, dort bei der luft'gen Fichte,
+Iſt meiner Liebſten kleines Haus gelegen —
+O Herz, was hilft dein Wiegen und dein Waͤgen,
+Daß all' der Wonne-Streit in dir ſich ſchlichte!
+
+Du, Liebe, hilf den ſuͤßen Zauber loͤſen,
+Womit Natur in meinem Innern wuͤhlet!
+Und du, o Fruͤhling, hilf die Liebe beugen!
+
+Liſch aus, o Tag! Laß mich in Nacht geneſen!
+Indeß ihr ſanften Sterne goͤttlich kuͤhlet,
+Will ich zum Abgrund der Betrachtung ſteigen.
+
+
+
+[152/0168]
+Liebesglück.
+Wenn Dichter oft in warmen Phantaſieen,
+Von Liebesgluͤck und ſchmerzlichem Vergnuͤgen
+Sich oder uns, nach ihrer Art, beluͤgen,
+So ſey dies Spielwerk ihnen gern verziehen.
+
+Mir aber hat ein guͤt'ger Gott verliehen,
+Den Himmel, den ſie traͤumen, zu durchfliegen,
+Ich ſah die Anmuth mir im Arm ſich ſchmiegen,
+Der Unſchuld Blick von raſchem Feuer gluͤhen.
+
+Auch ich trug einſt der Liebe Muͤh' und Laſten,
+Verſchmaͤhte nicht, den herben Kelch zu trinken,
+Damit ich ſeine Luſt nun ganz empfinde.
+
+Und dennoch gleich' ich jenen Erz-Phantaſten:
+Mir will mein Gluͤck ſo unermeßlich duͤnken,
+Daß ich mir oft im wachen Traum verſchwinde.
+
+
+
+[153/0169]
+An die Geliebte.
+Wenn ich, von deinem Anſchaun tief geſtillt,
+Mich ſtumm an deinem heil'gen Werth vergnuͤge,
+Dann hoͤr' ich recht die leiſen Athemzuͤge
+Des Engels, welcher ſich in dir verhuͤllt.
+
+Und ein erſtaunt, ein fragend Laͤcheln quillt
+Auf meinem Mund, ob mich kein Traum betruͤge,
+Daß nun in dir, zu ewiger Genuͤge,
+Mein kuͤhnſter Wunſch, mein einz'ger ſich erfuͤllt?
+
+Von Tiefe dann zu Tiefen ſtuͤrzt mein Sinn,
+Ich hoͤre aus der Gottheit naͤcht'ger Ferne
+Die Quellen des Geſchicks melodiſch rauſchen.
+
+Betaͤubt kehr' ich den Blick nach Oben hin,
+Zum Himmel auf — da laͤcheln alle Sterne;
+Ich kniee, ihrem Lichtgeſang zu lauſchen.
+
+
+
+[154/0170]
+Nur zu!
+Schoͤn prangt im Silberthau die junge Roſe,
+Den ihr der Morgen in den Buſen rollte,
+Sie bluͤht, als ob ſie nie verbluͤhen wollte,
+Sie ahnet nichts vom lezten Blumen-Looſe.
+
+Der Adler ſtrebt hinan in's Grenzenloſe,
+Sein Auge trinkt ſich voll von ſpruͤhndem Golde,
+Er iſt der Thor nicht, daß er fragen ſollte,
+Ob er das Haupt nicht an die Woͤlbung ſtoße.
+
+Mag denn der Jugend Blume uns verbleichen,
+Noch glaͤnzet ſie und reizt unwiderſtehlich,
+Wer will ſo holdem Trug zu bald entſagen?
+
+Und Liebe, darf ſie nicht dem Adler gleichen?
+Doch fuͤrchtet ſie; auch fuͤrchten iſt ihr ſelig,
+Denn all' ihr Gluͤck, was iſt's? ein endlos Wagen!
+
+
+
+[155/0171]
+Charwoche.
+O Woche, Zeugin heiliger Beſchwerde!
+Du ſtimmſt ſo ernſt zu dieſer Fruͤhlingswonne,
+Du breiteſt im verjuͤngten Strahl der Sonne
+Des Kreuzes Schatten auf die lichte Erde,
+
+Und ſenkeſt ſchweigend deine Floͤre nieder:
+Der Fruͤhling darf indeſſen immer keimen,
+Das Veilchen duftet unter Bluͤthenbaͤumen
+Und alle Voͤglein ſingen Jubellieder.
+
+O ſchweigt, ihr Voͤglein auf den gruͤnen Auen!
+Es ſchallen rings die dumpfen Glockenklaͤnge,
+Die Engel ſingen leiſe Grabgeſaͤnge:
+O ſtill, ihr Voͤglein hoch im Himmelblauen!
+
+Ihr Veilchen, kraͤnzt heut keine Lockenhaare!
+Euch pfluͤckt mein frommes Kind zum dunkeln Strauße,
+Ihr wandert mit zum Muttergotteshauſe,
+Da ſollt ihr welken auf des Herrn Altare.
+
+Ach dort, von Trauermelodieen trunken
+Und ſuͤß betaͤubt von ſchweren Weihrauchduͤften,
+Sucht ſie den Braͤutigam in Todesgruͤften:
+Und Lieb' und Fruͤhling, Alles iſt verſunken!
+
+
+
+[156/0172]
+Tag und Nacht.
+(Orientaliſch.)
+
+Schlank und ſchoͤn ein Mohrenknabe
+Bringt in himmelblauer Schuͤrze
+Manche wunderſame Gabe,
+Kuͤhlen Duft und ſuͤße Wuͤrze.
+Wenn die Abendluͤfte wehen,
+Naht er ſachte, kaum geſehen,
+Hat ein Harfenſpiel zur Hand.
+
+Auch der Saiten ſanftes Toͤnen
+Kann man naͤchtlich lauſchend hoͤren;
+Doch ſcheint Alles ſeiner Schoͤnen,
+Ungetreuen zu gehoͤren.
+Und er wandelt, bis am Haine,
+Bis am See und Wieſenraine
+Er die Spur der Liebſten fand.
+
+Wohl ein Laͤcheln mag ſich leiſe
+Dann ins ernſte Antlitz neigen,
+Weiße Zaͤhne, ſchneeig-weiße,
+Sich wie Sternenlichter zeigen.
+Doch ihn faßt ein reizend Bangen,
+Kommt von Ferne Sie gegangen,
+Und er ſucht ſein dunkel Haus.
+
+
+
+[157/0173]
+Liebchen tritt von Bergeshoͤhen
+In das Thal: da wird es Freude!
+Wald und Flur wie neu erſtehen
+Vor dem Kind im Roſenkleide;
+Alles draͤngt ſich nach der Suͤßen,
+Alt und Jung will ſie begruͤßen,
+Nur der Knabe bleibet aus.
+
+Und doch iſt ein tiefes Ahnen
+Von dem Fremdling ihr geblieben;
+Wie ein Traum will ſie's gemahnen
+An ein fruͤh gehegtes Lieben.
+Glaͤnzen dann auf allen Wegen
+Schmuck und Perlen ihr entgegen,
+Denkt ſie wohl, wer es gebracht.
+
+Schnell den Schleier vorgezogen,
+Steht das Toͤchterchen in Thraͤnen,
+Und der Mutter Friedensbogen
+Neigt ſich thauend ihrem Sehnen;
+Erd' und Himmel haben Frieden,
+Aber ach, ſie ſind geſchieden,
+Sind getrennt, wie Tag und Nacht.
+
+
+
+[158/0174]
+Die Elemente.
+Ἡ γὰϱ ἀποϰαϱαδοϰία τῆς ϰτίσεως
+τὴν ἀποϰάλυψιν τῶν υἱῶν τοῦ ϑεοῦ
+ἀπεϰδέχεται.
+Paulus a. d. Roͤm. 8, 19.
+Am ſchwarzen Berg da ſteht der Rieſe,
+Steht hoch der Mond daruͤber her;
+Die weißen Nebel auf der Wieſe
+Sind Waſſergeiſter aus dem Meer:
+Ihrem Gebieter nachgezogen,
+Vergiften ſie die reine Nacht,
+Aus deren hochgeſchwungnem Bogen
+Das volle Heer der Sterne lacht.
+
+Still ſchaut der Herr auf ſeine Geiſter,
+Die Fauſt am Herzen feſt geballt;
+Er heißt der Elemente Meiſter,
+Heißt Herr der toͤdtlichen Gewalt;
+Ein Gott hat ſie ihm uͤbergeben,
+Ach, ihm die ſchmerzenreichſte Luſt!
+Und namenloſe Seufzer heben
+Die ehrne, goͤttergleiche Bruſt.
+
+Die Keule ſchwingt er jezt, die alte,
+Vom Schlage droͤhnt der Erde Rund,
+Dann ſpringt durch die gewalt'ge Spalte
+Der Rieſenkoͤrper in den Grund.
+
+
+
+[159/0175]
+Die feſt verſchloſſnen Feuer tauchen
+Hoch aus uraltem Schlund herauf,
+Da fangen Waͤlder an zu rauchen
+Und praſſeln wild im Sturme auf.
+
+Er aber darf nicht ſtill ſich fuͤhlen,
+Beſchaulich im verborgnen Schacht,
+Wo Gold und Edelſteine kuͤhlen
+Und hellen Augs der Elfe wacht:
+Nach einem unverruͤckten Willen,
+Der bluͤht in der Geſtirne Flur,
+Muß er die ew'gen Kraͤfte ſtillen
+Mit Luſt und Schrecken der Natur.
+
+Soll er den Flug von hundert Wettern
+Laut donnernd durcheinander ziehn,
+Des Menſchen Huͤtte niederſchmettern,
+Verderben auf das Meerſchiff ſpruͤhn,
+Da will das edle Herz zerreißen,
+Da ſieht er ſchrecklich ſich allein:
+Und doch kann er nicht wuͤrdig heißen,
+Mit Goͤttern ganz ein Gott zu ſeyn.
+
+Noch aber blieb ihm eine Freude,
+Nachdem er Land und Meer bewegt,
+Wenn er bei Nacht auf oͤder Haide
+Die Sehnſucht ſeiner Seele pflegt.
+Da haͤngen ungeheure Ketten
+Aus tiefſtem Wolkenraum herab,
+Dran er, als muͤßten ſie ihn retten,
+Sich ſchwingt zum Himmel auf und ab.
+
+
+
+[160/0176]
+Dort weilen roſige Geſtalten
+In heitern Hoͤhen, himmliſch klar,
+Und feſt an goldnen Seilen halten
+Sie ſchweſterlich das Kettenpaar;
+Sie liegen aͤngſtlich auf den Knieen
+Und ſehen ſanft zum wilden Spiel,
+Und wie ſie im Gebete gluͤhen,
+Loͤst, wie ein Traum, ſich ſein Gefuͤhl.
+
+Denn ihr Geſang toͤnt mild und leiſe,
+Er ruͤhrt beruhigend ſein Ohr:
+O folge harmlos deiner Weiſe,
+Dazu Allvater dich erkor!
+Dem Wort der Sterne kannſt du trauen,
+Laß dein Gemuͤth in ihnen ruhn!
+Das Tiefſte wirſt du endlich ſchauen,
+Begreifen lernen all dein Thun.
+
+Und wirſt nicht laͤnger menſchlich hadern,
+Wirſt ſchaun der Dinge heil'ge Zahl,
+Wie in der Erde warmen Adern,
+Wie in dem Fruͤhlingsſonnenſtrahl,
+Wie in des Sturmes dunkeln Falten
+Des Vaters goͤttlich Weſen ſchwebt,
+Den Faden freundlicher Gewalten,
+Den Geiſt der holden Eintracht webt.
+
+Einſt wird es kommen, daß auf Erden
+Sich hoͤhere Geſchlechter freun,
+Und heitre Angeſichter werden
+Des Ewig-Schoͤnen Spiegel ſeyn,
+
+
+
+[161/0177]
+Wo aller Engelsweisheit Fuͤlle
+Der Menſchengeiſt in ſich gewahrt,
+In neuer Sprachen Kinderhuͤlle
+Sich alles Weſen offenbart.
+
+Und auch die Elemente moͤgen
+Die freie, gottbewußte Kraft
+In Frieden auf und niederregen,
+Die nimmermehr Entſetzen ſchafft;
+Dann, wie aus Nacht und Duft gewoben,
+Vergeht dein Leben unter dir,
+Mit lichtem Blick ſteigſt du nach Oben,
+Denn in der Klarheit wandeln wir.
+
+
+Moͤrike, Gedichte. 11
+
+[162/0178]
+Schiffer- und Nixen-Mährchen.
+I.
+Vom Sieben-Nixen-Chor.
+Manche Nacht im Mondenſcheine
+Sizt ein Mann von ernſter Schoͤne,
+Sizt der Magier Drakone
+Auf dem Gartenhausbalkone
+Mit Prinzeſſin Liligi;
+Lehrt ſie allda ſeine Lehre
+Von der Erde, von dem Himmel,
+Von dem Traum der Elemente,
+Vom Geſchick im Sternenkreiſe.
+
+Laß es aber nun genug ſeyn,
+Mitternacht iſt lang voruͤber, —
+Spricht Prinzeſſin Liligi, —
+Und nach ſolchen Wunderdingen,
+Maͤchtigen und ungewohnten,
+Luͤſtet mich nach Kindermaͤhrchen,
+Lieber Mann, ich weiß nicht wie!
+
+„Hoͤrſt du gern das Lied vom Winde,
+Das nicht End' noch Anfang hat,
+Oder gern vom Koͤnigskinde,
+Gerne von der Muſchelſtadt?“
+
+
+
+[163/0179]
+Singe du ſo heut wie geſtern
+Von des Meeres Luſtrevier,
+Von dem Haus der ſieben Schweſtern,
+Und vom Koͤnigsſohne mir.
+
+„Zwiſchen gruͤnen Waſſerwaͤnden
+Sizt der Sieben-Nixen-Chor;
+Waſſerroſen in den Haͤnden,
+Lauſchen ſie zum Licht empor.
+
+Und wenn oftmals auf der Hoͤhe
+Schiffe fahren, ſchattengleich,
+Steigt ein ſiebenfaches Wehe
+Aus dem ſtillen Waſſerreich.
+
+Dann, beim Spiel von Zauberglocken,
+Drehn die Schweſtern ſich im Tanz,
+Schuͤtteln wild die gruͤnen Locken
+Und verlieren Gurt und Kranz.
+
+Und das Meer beginnt zu ſchwanken,
+Well' auf Welle ſteigt und ſpringt,
+Alle Elemente zanken
+Um das Schiff, bis es verſinkt.“
+
+Alſo ſang in Zaubertoͤnen
+Suͤß der Magier Drakone
+Zu der lieblichen Prinzeſſin;
+Und zuweilen, im Geſange,
+Neiget er der Lippen Milde
+
+
+11 *
+
+[164/0180]
+Zu dem feuchten Roſenmunde,
+Zu den hyazintheblauen,
+Schon in Schlaf geſenkten Augen
+Der bethoͤrten Jungfrau hin.
+Dieſe meint im leichten Schlummer,
+Stets noch hoͤre ſie die Lehre
+Von der Erde, von dem Himmel,
+Vom Geſchick im Sternenkreiſe,
+Doch zulezt erwachet ſie:
+
+Laß es aber nun genug ſeyn!
+Mitternacht iſt lang voruͤber,
+Und nach ſolchen Wunderdingen,
+Maͤchtigen und ungewohnten,
+Luͤſtet mich nach Kindermaͤhrchen,
+Lieber Mann, ich weiß nicht wie!
+
+„Wohl! — Schon auf des Meeres Grunde
+Sizt das Schiff mit Mann und Maus,
+Und die Sieben in die Runde
+Rufen: Schoͤnſter, tritt heraus!
+
+Rufen zierlich mit Verneigen:
+Komm! es ſoll dich nicht gereu'n;
+Woll'n dir unſre Kammer zeigen,
+Wollen deine Maͤgde ſeyn.
+
+— Sieh, da tritt vom goldnen Borde
+Der bethoͤrte Koͤnigsſohn,
+Und zu der korallnen Pforte
+Rennen ſie mit ihm davon.
+
+
+
+[165/0181]
+Doch man ſah nach wenig Stunden,
+Wie der Nixenbraͤutigam
+Todt, mit ſieben rothen Wunden,
+Hoch am Strand des Meeres ſchwamm.“
+
+Alſo ſang in Zaubertoͤnen
+Suͤß der Magier Drakone;
+Und zuweilen, im Geſange,
+Neiget er der Lippen Milde
+Zu dem feuchten Roſenmunde,
+Zu den hyazintheblauen,
+Schon in Schlaf geſenkten Augen
+Der bethoͤrten Jungfrau hin.
+
+Sie erwacht zum andern Male,
+Sie verlanget immer wieder:
+Lieber Mann, ein Kindermaͤhrchen
+Singe mir zu guter Lezt'!
+
+Und er ſingt das lezte Maͤhrchen,
+Und er kuͤßt die lezten Kuͤſſe;
+Lied und Kuß hat ausgeklungen,
+Aber ſie erwacht nicht mehr.
+Denn ſchon war die dritte Woche,
+Seit der Magier Drakone
+Bei dem edeln Koͤnigskinde
+Seinen falſchen Dienſt genommen;
+Wohlberechnet, wohlbereitet,
+Kam der lezte Tag heran.
+
+
+
+[166/0182]
+Jetzo faſſet er die Leiche
+Schwingt ſich hoch im Zaubermantel
+Durch die Luͤfte zu dem Meere,
+Rauſchet nieder in die Wogen,
+Klopft an dem korall'nen Thor,
+Fuͤhret ſo die junge Fuͤrſtin,
+Daß auch ſie zur Nixe werde,
+Als willkommene Genoſſin
+In den Sieben-Nixen-Chor.
+
+
+II.
+Nixe Binſefuß.
+Des Waſſermanns ſein Toͤchterlein
+Tanzt auf dem Eis im Vollmondſchein,
+Sie ſingt und lachet ſonder Scheu
+Wohl an des Fiſchers Haus vorbei.
+
+„Ich bin die Jungfer Binſefuß,
+Und meine Fiſch' wohl huͤten muß,
+Meine Fiſch' die ſind im Kaſten,
+Sie haben kalte Faſten;
+Von Boͤhmer-Glas mein Kaſten iſt,
+Da zaͤhl' ich ſie zu jeder Friſt.
+
+Gelt, Fiſcher-Matz? gelt, alter Tropf,
+Dir will der Winter nicht in Kopf?
+Komm' mir mit deinen Netzen!
+Die will ich ſchoͤn zerfetzen!
+
+
+
+[167/0183]
+Dein Maͤgdlein zwar iſt fromm und gut,
+Ihr Schatz ein braves Jaͤgerblut.
+
+Drum haͤng' ich ihr, zum Hochzeitſtrauß,
+Ein ſchilfen Kraͤnzlein vor das Haus,
+Und einen Hecht, von Silber ſchwer,
+Er ſtammt von Koͤnig Artus her,
+Ein Zwergen-Goldſchmieds-Meiſterſtuͤck,
+Wer's hat, dem bringt es eitel Gluͤck:
+Er laͤßt ſich ſchuppen Jahr fuͤr Jahr,
+Da ſind's fuͤnf hundert Groͤſchlein baar.
+
+Ade, mein Kind! Ade fuͤr heut!
+Der Morgenhahn im Dorfe ſchreit.“
+
+
+III.
+Zwei Liebchen.
+Ein Schifflein auf der Donau ſchwamm,
+Drin ſaßen Braut und Braͤutigam,
+Er huͤben und ſie druͤben.
+
+Sie ſprach: Herzliebſter, ſage mir,
+Zum Angebind' was geb' ich dir?
+
+Sie ſtreift zuruͤck ihr Aermelein,
+Sie greift in's Waſſer friſch hinein.
+
+Der Knabe, der thaͤt gleich alſo,
+Und ſcherzt mit ihr und lacht ſo froh.
+
+
+
+[168/0184]
+Ach, ſchoͤne Frau Done, geb' ſie mir
+Fuͤr meinen Schatz eine huͤbſche Zier!
+
+Sie zog heraus ein ſchoͤnes Schwert,
+Der Knab' haͤtt' lang ſo eins begehrt.
+
+Der Knab', was haͤlt er in der Hand?
+Milchweiß ein koͤſtlich Perlenband.
+
+Er legt's ihr um ihr ſchwarzes Haar,
+Sie ſah wie eine Fuͤrſtin gar.
+
+Ach, ſchoͤne Frau Done, geb' ſie mir
+Fuͤr meinen Schatz eine huͤbſche Zier!
+
+Sie langt hinein zum andern Mal,
+Faßt einen Helm von lichtem Stahl.
+
+Der Knab' vor Freud' entſezt ſich ſchier,
+Fiſcht ihr einen goldnen Kamm dafuͤr.
+
+Zum Dritten ſie in's Waſſer griff:
+Ach weh! da faͤllt ſie aus dem Schiff.
+
+Er ſpringt ihr nach, er faßt ſie keck,
+Frau Done reißt ſie Beide weg;
+
+Frau Done hat ihr Schmuck gereut,
+Das buͤßt der Juͤngling und die Maid.
+
+Das Schifflein leer hinunter wallt;
+Die Sonne ſinkt hinter die Berge bald.
+
+
+
+[169/0185]
+Und als der Mond am Himmel ſtand,
+Die Liebchen ſchwimmen todt an's Land,
+Er huͤben und ſie druͤben.
+
+
+IV.
+Der Zauberleuchtthurm.
+Des Zauberers ſein Maͤgdlein ſaß
+In ihrem Saale, rund von Glas.
+Sie ſpann beim hellen Kerzenſchein,
+Und ſang ſo glockenhell darein;
+Der Saal, als eine Kugel klar,
+In Luͤften aufgehangen war
+An einem Thurm auf Felſenhoͤh',
+Bei Nacht hoch ob der wilden See,
+Und hing in Sturm und Wettergraus
+An einem langen Arm hinaus.
+Wenn nun ein Schiff in Naͤchten ſchwer
+Sah weder Rath noch Rettung mehr,
+Der Lootſe zog die Achſel ſchief,
+Der Hauptmann alle Teufel rief,
+Auch der Matroſe wollt' verzagen:
+O weh mir armen Schwartenmagen!
+Auf einmal ſcheint ein Licht von fern
+Als wie ein heller Morgenſtern;
+Die Mannſchaft jauchzet uͤberlaut:
+Heida! jezt gilt es trockne Haut!
+Aus allen Kraͤften ſteuert man
+Jezt nach dem theuren Licht hinan,
+
+
+[170/0186]
+Das waͤchſt und waͤchſt und leuchtet faſt
+Wie einer Zauberſonne Glaſt,
+Darin ein Maͤgdlein ſizt und ſpinnt,
+Sich beuget ihr Geſang im Wind;
+Die Maͤnner ſtehen wie verzuͤckt,
+Ein Jeder nach dem Wunder blickt
+Und horcht und ſtaunet unverwandt,
+Dem Steuermann entſinkt die Hand,
+Hat Keiner auf das Schiff mehr Acht,
+Bis es am Felſenriffe kracht.
+Die Luft zerreißt ein Jammerſchrei:
+Herr Gott im Himmel, ſteh' uns bei!
+Da loͤſcht die Zauberin ihr Licht;
+Noch einmal aus der Tiefe bricht
+Verhallend Weh aus Einem Munde:
+Da zuckt das Schiff und ſinkt zu Grunde.
+
+
+
+[171/0187]
+Das luſtige Wirthshaus.
+Ballade, beim Weine zu ſingen.
+
+Nichts fuͤr ungut, lieber Leſer!
+Jugendblut hat Uebermuth.
+
+Die Burſchen.
+
+Man lebet doch wie im Schlaraffenland hier,
+Da ſchmauſet man fruͤhe wie ſpat;
+Schon dreht ſich der Boden vor Wonne mit mir,
+Kaum daß ich die Schwelle betrat!
+
+Der Becher, ihr Herrn, wird nur gratis gefuͤllt:
+Der Wirth iſt kein knauſiger Tropf,
+Er fuͤhrt den Hanswurſt nicht vergeblich im Schild,
+Man wirft euch das Geld an den Kopf.
+
+Der Alte, man ſagt's, ſoll ein Zauberer ſeyn,
+Er laͤchelt auch immer ſo ſchlau;
+— Und ſeht nur, was treten fuͤr Kerl da herein!
+Die Eule, der Storch und der Pfau!
+
+Seht nur, wie manierlich die Racker ſich drehn!
+Die Kratzfuͤß'! Ei Wetter, ſo ſchlag!
+Sie nehmen ſich Stuͤhle — das muß ich geſtehn,
+So was ſieht man nicht alle Tag.
+
+Mein Alter am Faͤßchen, er zapfet den Wein
+Und haͤlt ſich vor Lachen den Bauch;
+Rebekke ſchenkt ihnen vom feurigſten ein
+Und zierlich kredenzt ſie ihn auch.
+
+
+
+[172/0188]
+Nun ſitzen ſie ſteif wie Profeſſorsleut' da,
+Und laſſen das Glas unberuͤhrt,
+Wir Herren vom Humpen ſind ihnen zu nah':
+Man hat ſich leicht compromittirt.
+
+Nur ruhig, und kehrt euch noch gar nicht an ſie!
+Die fuͤhren ihr Muͤthlein im Sack;
+Es iſt nur erlogene Pedanterie,
+Sie ſind das verſoffenſte Pack.
+
+Inzwiſchen, mein ſchoͤnes, ſchwarzaugiges Kind,
+Komm, ſing' uns was Luſtiges vor!
+
+
+Das Maͤdchen.
+
+Das kann ja geſchehen; die Herren dann ſind
+So guͤtig und machen den Chor.
+
+(Dieſelbe faͤhrt fort mit der Zither:)
+
+— Mein Vater, der hatte drei Krebſe zum Schild,
+Da ſprachen die Leute nicht ein:
+Nun fuͤhrt er den ſcheckigen Narren im Bild,
+Er ſelber trinkt aber den Wein.
+
+Chor.
+
+Heida! ſa ſa!
+Er ſelber trinkt aber den Wein.
+
+Maͤdchen.
+
+Auch ſeht ihr ja wohl, wie ſo herrlich das lauft,
+Man denkt, es waͤr Kirmeß im Haus;
+Und wenn man uns Betten und Stuͤhle verkauft,
+Wir lachen die Leute noch aus.
+
+
+[173/0189]
+Chor.
+
+Heida! ſa ſa!
+Ihr lachet die Leute noch aus.
+
+Maͤdchen.
+
+Mein Vater, heißt's, hab' ein klein Maͤnnlein im Sold,
+Ein Maͤnnlein, ſo fein und ſo klug,
+Und wenn er nur moͤchte und wenn er nur wollt',
+Wir haͤtten Dukaten genug.
+
+Chor.
+
+Heida! ſa ſa!
+Ihr haͤttet Dukaten genug.
+
+Maͤdchen.
+
+Das laſſ' ich nun gerne dahin geſtellt ſeyn;
+Was kuͤmmert mich Silber und Gold!
+Und zoͤg' ich auf Bettel Land aus und Land ein,
+Mein Schaͤtzchen das bliebe mir hold.
+
+Chor.
+
+Heida! ſa ſa!
+Dein Schaͤtzchen das bliebe dir hold.
+
+Maͤdchen.
+
+Denn ich und des Schaͤfers ſein luſtiger Franz,
+Wir ziehn wie die Voͤgel ſo frei,
+Ich ſpiele die Zither, das Hackbrett zum Tanz,
+Mein Liebſter, der ſpielt die Schalmei.
+
+Chor.
+
+Heida! ſa ſa!
+Dein Liebſter, der ſpielt die Schalmei.
+
+
+[174/0190]
+Maͤdchen.
+
+Und wenn meine Mutter Frau Kaiſerin waͤr',
+Haͤtt' ich Kleider und ſeidene Schuh',
+Ich gaͤb' doch den herzigen Jungen nicht her,
+Gaͤb' ihm Kron' und Zepter dazu.
+
+Chor.
+
+Heida! ſa ſa!
+Gaͤbſt ihm Kron' und Zepter dazu.
+
+Maͤdchen.
+
+Doch ſeht mir nur dort das Profeſſorsvolk an!
+Das jauchzet und tanzet und hopft!
+Der Storch und der Pfau und die Eule voran!
+Mein Seel, ſie ſind Alle bezopft!
+
+Chor.
+
+Heida! ſa ſa!
+Mein Seel, ſie ſind Alle bezopft!
+
+
+
+[175/0191]
+Mährchen vom ſichern Mann.
+An Louis B.
+
+Soll ich vom ſicheren Mann ein Maͤhrchen erzaͤhlen, ſo
+hoͤre!
+— Etliche ſagen, ihn habe die ſteinerne Kroͤte geboren:
+Alſo heißt ein maͤchtiger Fels in den Bergen des Schwarz¬
+walds,
+Bauchig und oben platt, der haͤßlichen Kroͤte vergleichbar.
+Darin lag er und ſchlief bis nach den Tagen der Suͤnd¬
+fluth.
+Naͤmlich es war ſein Vater ein Waldmenſch, tuͤckiſch und
+grauſam,
+Allen Goͤttern ein Graͤul und allen Nymphen gefuͤrchtet.
+Ihm nicht voͤllig gleich iſt der Sohn, doch immer ein Un¬
+hold;
+Rieſenhaft an Geſtalt, von breitem Ruͤcken und Schultern.
+Ehmals ging er faſt nackt, unehrbarlich, aber ſeit Menſchen-
+Denken im grauen wollenen Rock, mit ſchrecklichen Stiefeln.
+Graue Borſten traͤget ſein Haupt, es ſtarret der Bart ihm.
+(Heimlich, ſo heißt's, beſucht ihn der Igelslocher Balbierer
+In der Hoͤhle, wo er ihm dient wie der ſorgſame Gaͤrtner,
+Wenn er die Hecken ſtuzt mit der unermeßlichen Scheere.)
+Lauter Nichts iſt ſein Thun und voller thoͤrichter Grillen:
+Wenn er niederſteigt vom Gebirg bei naͤchtlicher Weile,
+Laut mit ſich ſelber redend, und oft ingrimmigen Herzens
+Weg- und Meilenzeiger knickt mit Einem Fußtritt
+
+
+
+[176/0192]
+(Dieſe haſſet er auf den Tod, gewißlich ohn' Urſach'),
+Oder wenn er zur Winterzeit in's beſchneiete Blachfeld
+Sich der Laͤnge nach ſtreckt und, aufgeſtanden, an ſeinem
+Conterfei ſich ergoͤzt mit bergerſchuͤtterndem Lachen.
+
+Aber nun lag er einmal Mittags in ſeiner Behauſung,
+Seinen Ruͤbenfraß zu verdauen, welcher ihm ſuͤß daͤucht.
+Ploͤtzlich erfuͤllet wonniger Glanz die Waͤnde der Hoͤhle,
+Lolegrin tritt herein, der liebliche Goͤtterjuͤngling,
+Welcher ein Luſtigmacher heißt der ſeligen Goͤtter,
+(Sonſt nur auf Orplid * geſehn, die andern Lande ver¬
+meidend)
+Weyla's ſchalkiſcher Sohn, mit dem Narrenkranz um die
+Schlaͤfe,
+Zierlich aus blauen Glocken und Kuͤchenſchelle geflochten.
+Er nun redet den Ruhenden an mit truͤglichem Ernſte:
+„Suckelborſt, ſicherer Mann, ſey gegruͤßt! und hoͤre ge¬
+traulich,
+Was die Himmliſchen dir durch meine Sendung entbieten.
+— Saͤmmtlich ehren ſie deinen Verſtand und gute Ge¬
+muͤthsart,
+So wie deine Geburt: es war dein Vater ein Halbgott,
+Und deßgleichen hielten ſie dich ſtets; aber in Einem
+Biſt du ihnen nicht recht: das ſollſt du jetzo vernehmen.
+Lieber, bleibe nur liegen getroſt! ich ſetze mich unten
+Auf den Abſatzrand hier deines wuͤrdigen Stiefels,
+Der wie ein Felsblock ragt, und unſchwer bin ich zu tragen.
+
+
+* Orplid, eine fabelhafte Inſel, deren Beſchuͤtzerin die Goͤttin
+Weyla iſt. Man vergleiche uͤberhaupt zu dieſem Stuͤck: Maler
+Nolten, 1r Thl. S. 142 und 171.
+
+
+[177/0193]
+— Siehe, Serachadan zeugete dich mit der Rieſenkroͤte,
+Seine Goͤtterkraft in ihrem Leibe verſchließend,
+Da ſie noch lebend war; denn gleich nach ihrer Empfaͤngniß
+Ward ſie verwandelt zu Stein, auch dein Vater hauchte
+den Geiſt aus;
+Ader du ſchliefeſt im Mutterleibe neun Monden und druͤber,
+Denn im zehnten kamen die großen Waſſer auf Erden.
+Vierzig Tage lang ſtroͤmte der Regen und vierzig Naͤchte
+Auf die ſuͤndige Welt, ſo Thiere wie Menſchen erſaͤufend;
+Eine einzige See war uͤber die Lande ergoſſen,
+Ueber Berg und Thal und deckte die wolkigen Gipfel.
+Aber du lageſt zufrieden in deinem Felſen verborgen,
+So wie die Auſter ruht in feſt verſchloſſenen Schalen,
+Oder des Meeres Preis, die unbezahlbare Perle.
+Goͤtter ſegneten deinen Schlaf mit hohen Geſichten,
+Zeigten der Schoͤpfung Heimliches dir, wie Alles geworden;
+Erſt, wie der Erdenball, mit wirkenden Kraͤften geſchwaͤn¬
+gert,
+Einſt dem dunkelen Nichts entſchwebte, zuſammt den Ge¬
+ſtirnen,
+Wie mit Gras und Kraut ſich zuerſt der Boden begruͤnte,
+Wie aus der Erde Milch, ſo ſie hegt im inneren Herzen,
+Alles Fleiſch ward geformt, das zarte, darinnen der Geiſt
+wohnt,
+Thier- und Menſchengeſchlecht; denn erdgeboren ſind Beide.
+Ferner ſang dir dein Traum der Voͤlker ſpaͤteſte Zukunft,
+Auch der Throne Wechſelgeſchick, der Koͤnige Thaten,
+Ja, du ſahſt den verborgenen Rath der ewigen Goͤtter.
+Solches goͤnnten ſie dir, daß du, ein herrlicher Lehrer
+Oder Seher, das Unerhoͤrte wiederum kuͤndeſt,
+
+
+Moͤrike, Gedichte. 12
+
+[178/0194]
+Nicht den Menſchen ſowohl, die da leben und wandeln
+auf Erden, —
+Ihnen dient nur wenig zu wiſſen —, ſondern den Geiſtern
+In der Schattenwelt, den alten Weiſen und Helden,
+Welche traurig ſitzen und forſchen das hohe Verhaͤngniß,
+Schweigſam immerdar, des erquicklichen Wortes entbehrend.
+Aber vergebens harren ſie dein, dieweil du ja gaͤnzlich
+Deines erhabnen Berufs vergiſſeſt. Laß mich nur offen
+Dir geſtehen, ſo wie du es bisher getrieben, erſcheinſt du
+Weder ein Halbgott, noch ein Begeiſteter, ſondern ein
+Schweinpelz,
+Graͤulichem Ruͤbenfraß ergeben, ſinnſt du nur Unheil;
+Steigeſt des Nachts in den Fluß, bis uͤber die Kniee ge¬
+ſtiefelt,
+Trennſt die Baͤnder los an den Floͤßen und ſchleuderſt die
+Balken
+Weit hinein in das Land, den ehrlichen Floͤßern zum
+Torten.
+Tagelang trollſt du muͤßig umher im wilden Gebirge,
+Ahmeſt das Grunzen des Keulers nach und lockeſt ſein
+Weibchen,
+Greifeſt, wenn ſie nun rennt durch den Buſch, die Sau
+bei den Ohren,
+Zwickſt die Wuͤthende, grauſam dich weidend an ihrem
+Geſchreie.
+Siehe, dies wiſſen wir wohl, denn Alles ſehen die Goͤtter.
+Aber reize ſie laͤnger nicht mehr, es moͤchte dich reuen!
+Schmeidige doch ein Weniges deine borſtige Seele!
+Suche zuſammen dein Wiſſen und lichte die rußigen
+Kammern
+
+
+
+[179/0195]
+Deines Gehirns, beſinne dich wohl auf Alles und Jedes,
+Was dir offenbart iſt, dann nimm den Griffel und
+zeichn' es
+Fein mit Fleiß in ein Buch, damit es daure und bleibe;
+Leg' es den Todten aus in der Unterwelt! ſicherlich weißt du
+Wohl die Pfade dahin und den Eingang, welcher dich nicht
+ſchreckt,
+Denn du biſt ja der ſichere Mann mit den wackeren
+Stiefeln.
+Jetzo ſey es genug. Bewahre mein Wort im Gedaͤchtniß,
+Lieber! und alſo ſcheid' ich. Ade! wir ſehen uns wieder.“
+
+Sprach's, der ſchelmiſche Gott, und ließ den Alten
+alleine.
+Dieſer war wie verſtuͤrzt, und ſtand ihm faſt der Verſtand
+ſtill.
+Endlich hebt er halblaut zu brummen an und zu fluchen,
+Schandbare Worte zumal, gottloſe, nicht zu beſchreiben.
+Aber nachdem die Galle verraucht war und die Empoͤrung,
+Hielt er inne und ſchwieg, denn es gemahnte der Geiſt
+ihn,
+Nicht zu trotzen den Himmliſchen, deren doch immer die
+Macht iſt,
+Sondern zu folgen vielmehr. Und alsbald wuͤhlt ſein
+Gedanke
+Ruͤckwaͤrts durch der Jahrtauſende Wuſt, bis tief wo er
+ſelber,
+Noch ein Ungeborener, traͤumte die Wehen der Schoͤ¬
+pfung,
+(Denn ſo ſagte der Gott, und Goͤtter werden nicht luͤgen).
+
+
+12 *
+
+[180/0196]
+Aber da daͤucht' es ihm Nacht, dickfinſtere; wo er umher¬
+tappt,
+Nirgend iſt noch ein Halt und noch kein Nagel geſchlagen,
+Anzuhaͤngen die Wucht der zentnerſchweren Gedanken,
+Welche der Gott ihm erregt' in ſeiner erhabenen Seele.
+Und ſo kam er zu Nichts und ſchwitzete wie ein Ma¬
+giſter.
+Endlich ward ihm geſchenkt, daß er ſich dahin bedachte:
+Erſt ein Buch ſich zu ſchaffen, ein unbeſchriebenes, großes,
+Seinen Faͤuſten gerecht und werth des kuͤnftigen Inhalts.
+Wie er Solches erreicht, o Muſe, dies hilf mir verkuͤnden!
+
+Laͤngſt war die Sonne hinab und Nacht beherrſchte den
+Erdkreis
+Seit vier Stunden, da hebt der ſichere Mann ſich vom
+Lager,
+Setzet den runden Hut auf das Haupt, den Wanderſtab
+faßt er
+Und verlaͤſſet die Hoͤhle. Gemaͤchlich ſteigt er bergaufwaͤrts,
+Redt mit ſich ſelber dabei und brummt nach ſeiner Ge¬
+wohnheit.
+Aber jetzo hub ſich der Mond in leuchtender Schoͤne
+Rein am Forchenwalde herauf und erhellte die Gegend,
+Sammt der Hoͤhe von Igelsloch, wo nun Suckelborſt an¬
+langt.
+Eben hatte der Waͤchter die zwoͤlfte Stunde gerufen,
+Alles iſt ruhig im Dorf und nirgend Licht mehr zu ſehen,
+Nicht in den Kunkelſtuben geſellig ſpinnender Maͤgdlein,
+Nicht am einſamen Stuhle des Webers oder im Wirthshaus,
+
+
+
+[181/0197]
+Mann und Weib liegt im Bette, die Laſt des Tages
+verſchlafend.
+Sachte tritt Suckelborſt nun vor die naͤchſtgelegene Scheuer,
+Mißt mit wohlgefaͤlligem Aug' ſo Hoͤhe wie Breite
+Beider Fluͤgelthore (ſie waren nicht von den kleinſten,
+Aber er ſelbſt war groͤßer denn ſie, dieweil er ein Rieſe),
+Dann betrachtet er Schloß und Riegel, kneipt mit dem
+Finger
+Ab den Globen und oͤffnet das Thor und hebet die Fluͤgel
+Aus den Angeln und lehnt an die Wand ſie uͤbereinander.
+Alsbald ſchaut er ſich um nach des Nachbars Scheuer und
+ſchreitet
+Zu demſelben Geſchaͤft und raubt die maͤchtigen Thore,
+Stellt zu den vorigen ſie an die Wand, und alſofort
+macht er
+Weiter im Gaͤßchen hinauf, bis er dem fuͤnften und
+ſechsten
+Bauern auf gleiche Weiſe die Tenne geluͤftet. Am Ende
+Ueberzaͤhlt er die Stuͤcke: es waren eben ein Dutzend
+Blaͤtter, und fehlte nur noch, daß er mit ſauberen
+Stricken
+Hinten die Angel-Oehre verband, da war es ein Schreib¬
+buch,
+Gar ein ſtattliches; doch dies war ein Geſchaͤft fuͤr da¬
+heime.
+Alſo nimmt er es unter den Arm, das Werk, und trollt ſich.
+
+Unterdeß war der ſchnarchenden Bauern Einer vom
+Schlafe
+Aufgeſchauert und hoͤrte des ſchwer-Entwandelnden Fußtritt.
+
+
+
+[182/0198]
+Haſtig entrauſcht er dem Lager und ſtoͤßt am niedrigen
+Fenſter
+Raſch den Schieber zuruͤck und horcht und ſieht mit Ent¬
+ſetzen
+Rings im mondlichen Dorf der Scheuern finſtere Nachen
+Offen ſtehn; da faͤhrt er voll Angſt in die lederne Hoſe
+(Beide Fuͤße verkehrt den linken macht er zum rechten),
+Ruͤttelt ſein Weib und redet zu ihr die eifrigen Worte:
+„Kaͤthe, ſteh' auf! der ſichere Mann — ich hab' ihn ver¬
+nommen —
+Hat im Flecken uͤbel handthiert und die Scheuern ge¬
+pluͤndert!
+Sieh mir im Hauſe nach und im Stall! Ich laufe zum
+Schulzen.“
+Alſo ſtuͤrmt er hinaus. Doch im Hofe thut er erſt ſelber
+Einen Blick in die Staͤlle, ob auch das Vieh noch vor¬
+handen.
+Aber da fehlte kein Stuͤck, und die Schecke muht ihm
+entgegen,
+Meint, es waͤr' Fuͤtternszeit; er aber eilt in die Gaſſe,
+Klopft unterwegs dem Buͤttel am Laden und ruft ihm
+das Wort zu:
+„Michel, ſteh' auf! mach' Laͤrm! der Suckelborſt hat den
+Flecken
+Heimgeſucht und die Scheuern erbrochen und uͤbel gewirth¬
+ſchaft't!“
+Solches noch redend war er ſchon weiter und weckte den
+Schultheiß,
+Weckte den Burgermeiſter und alle ſeine Gefreundte.
+
+
+
+[183/0199]
+Alsbald werden die Straßen lebendig, es ſtaunen die
+Maͤnner,
+Stoßen Verwuͤnſchungen aus, es lamentiren die Weiber.
+Jeder durchſuchet ſeinen Beſitz und, halb nur getroͤſtet,
+Keinen groͤßeren Schaden zu finden, fallen mit Unrecht
+Etliche uͤber den Nachtwaͤchter her und ſchreien: „Du
+Schlafratz!
+Du keinnuͤtziger Tropf!“ und ballen die baͤuriſchen Faͤuſte,
+Ihn zu blaͤuen, und nehmen auch nur mit Muͤhe Ver¬
+nunft an.
+Endlich zerſtreuen ſie ſich zur Ruhe; doch ordnet der
+Schultheiß
+Wachen an auf den Fall, daß der Unhold noch einmal
+kaͤme.
+
+Suckelborſt hatte nunmehr die Hoͤhle wieder gewonnen,
+Welche von vorne gar weit und hoch in den Felſen ſich
+woͤlbte,
+Duftende Kiefern umſchatteten rieſenmaͤßig den Eingang.
+Hier dann leget er nieder die ungeheueren Thore,
+Und ſich ſelber zugleich, des goldenen Schlafes genießend.
+
+Aber ſobald die Sonne nur zwiſchen den Baͤumen
+hereinſchien,
+Gleich an die Arbeit machet er ſich, die Thore zu heften,
+Saubere Stricke lagen bereit, geſtohlene freilich;
+Und er ordnet die Blaͤtter mit ſinnigen Blicken und fuͤget
+Vorn und hinten die ſchoͤnſten zur Decke (ſie waren des
+Schulzen,
+Kuͤnſtlich uͤber das Kreuz mit rothen Leiſten beſchlagen).
+
+
+
+[184/0200]
+Aber auf einmal nun in des ſtattlichen Werkes Be¬
+trachtung
+Waͤchst ihm der Geiſt, und er nimmt die maͤchtige Kohle
+vom Boden,
+Legt vor das offene Buch ſich nieder und ſchreibet aus
+Kraͤften,
+Grad' und krumme Strich', in unnachſagbaren Sprachen,
+Krazt und ſchreibt und brummelt dabei nach ſeiner Ge¬
+wohnheit.
+Anderthalb Tag handthieret er ſo, kaum goͤnnet er Zeit
+ſich,
+Speiſe zu nehmen und Trank, bis die lezte Seite ge¬
+fuͤllt iſt.
+Endlich folget am Schluſſe das Punktum, groß wie ein
+Kindskopf.
+Tief aufathmend erhebet er ſich, das Buch zuſchmetternd.
+
+Jetzo, nachdem er das Herz ſich geſtaͤrkt mit reichlicher
+Mahlzeit,
+Nimmt er den Hut und den Stock und reiſet. Auf ein¬
+ſamen Pfaden
+Immer gen Mitternacht laͤuft er: dies iſt der Weg zu
+den Todten.
+Schon mit dem fuͤnften Morgen erreicht er die finſtere
+Pforte.
+Purpurn ſtreifte ſo eben die Morgenroͤthe den Himmel,
+Welche den lebenden Menſchen das Licht des Tages ver¬
+kuͤndet,
+Als er hinunterſtieg, furchtlos, die felſigen Hallen.
+Aber er hatte der Stunden noch zweimal zwoͤlfe zu wandeln
+
+
+
+[185/0201]
+Durch der Erde gewundenes Ohr, wo ihn Lolegrin heimlich
+Fuͤhrete, bis er die Schatten erſah, die, luftig und
+ſchwebend,
+Daͤmmernde Raͤume bewohnen, die Boͤſen ſo wie die Guten.
+
+Vorn am Eingang ſammelte ſich unliebſamer Kehricht
+Niederen Volks, betruͤgliche Kraͤmer, Kuppler und Metzen,
+Lauſige Dichter auch und unzaͤhlbares Geſindel.
+Dieſe, zu ſchwatzen gewohnt, zu ſcherzen oder zu fluchen,
+Muͤhten vergebens ſich ab, zu erheben die lispelnde
+Stimme —
+Denn hellklingendes Wort iſt nicht den Todten verliehen —
+Und ſo winkten ſie nur mit heftig bewegter Geberde,
+Stießen und zerrten einander wie im Gewuͤhle des Jahr¬
+markts.
+Aber weiter hinein ſah man die edleren Geiſter,
+Prieſter, Koͤnige, Helden; geſchmuͤckt mit ewigem Lorbeer,
+Ruhig ergingen ſie ſich und ſaßen, Manche zuſammen,
+Manche fuͤr ſich, und es ſchied die weit zerſtreueten Gruppen
+Huͤgel und Fels und Gebuͤſch und die finſtere Wand der
+Cypreſſen.
+
+Kaum nun war der ſichere Mann in der Pforte er¬
+ſchienen,
+Aufrecht die hohe Geſtalt, mit dem Welt-Buch unter dem
+Arme:
+Sieh, da betraf die Schatten am Eingang toͤdtliches Schrecken.
+Auseinander ſtoben ſie all', wie Kinder vom Spielplatz,
+Wenn es im Dorfe nun heißt: „Der Hummel iſt los!“
+und „da kommt er!“
+
+
+
+[186/0202]
+Doch der ſichere Mann, vorſchreitend, winkete gnaͤdig
+Rings herum, da kamen ſie naͤher, ſtanden und gafften.
+
+Suckelborſt lehnet nunmehr ſein maͤchtiges Manu¬
+ſcriptum
+Gegen den kleinen Huͤgel, den rundlichen, welchem gen¬
+uͤber
+Er ſelbſt Platz zu nehmen gedenkt auf mooſigem Felsſtuͤck.
+Doch erſt leget er Hut und Stock bedaͤchtig zur Seite,
+Streicht mit der breiten Hand den beißenden Schweiß von
+der Stirne,
+Raͤuſpert ſich, daß die Hallen ein praſſelndes Echo ver¬
+ſenden,
+Sitzet nieder ſodann und beginnt den erhabenen Vortrag;
+Wie der Erdenball, mit wirkenden Kraͤften geſchwaͤngert,
+Einſt dem dunkelen Nichts entſchwebte zuſammt den Ge¬
+ſtirnen,
+Wie mit Gras und Kraut ſich zuerſt der Boden be¬
+gruͤnte,
+Wie aus der Erde Milch, ſo ſie hegt im inneren Herzen,
+Alles Fleiſch ward geformt, das zarte, darinnen der Geiſt
+wohnt,
+Thier- und Menſchengeſchlecht; denn erdgeboren ſind
+Beide.
+
+Solches lehrte der Alte, und ſtill aufhorchten die
+Schatten.
+Aber es hatte der Teufel, das ſchwarze, gehoͤrnete Scheuſal,
+Sich aus fremdem Gebiet des unterirdiſchen Reiches
+Unberufen hier eingedraͤngt, neugierig und boshaft —
+
+
+
+[187/0203]
+So wie er manchmal pflegt, wenn er Kundſchaft ſuchet
+und Kurzweil —
+Und er ſtellte ſich hinter den Alten, ihn zu verhoͤhnen,
+Schnitt Geſichter, reckte die Zung' und machete Purzel-
+Baͤum', als ein Aff', und reizte die Seelen beſtaͤndig, zu
+lachen.
+Wohl bemerkt' es der ſichere Mann, doch that er nicht
+alſo,
+Sondern redete fort, in wuͤrdiger Ruhe beharrend.
+Indeß trieb es der Andere nur um deſto verwegner:
+Schob am Ende den Schwanz, den wuchtigen, langen, dem
+Alten
+In die Hintertaſche des Rocks, als wenn es ihn froͤre:
+Ploͤtzlich greifet der ſichere Mann nach hinten und packet
+Mit der Rechten den Schweif gewaltig und reißet ihn
+ſchnellend
+Bei der Wurzel heraus, daß es kracht' — ein graͤßlicher
+Anblick!
+Lautauf bruͤllet der Boͤſe, die Tatzen gedeckt auf die
+Wunde,
+Dreht im raſenden Schmerz wie ein Kreiſel ſich, ſchreiend
+und winſelnd,
+Und es ſchoß ihm das Blut wie heißes Pech aus der
+Wunde.
+Jezt, wie ein Pfeil, zur Seite gewendet, ſchmaͤhlich ent¬
+rinnt er
+Durch die ſchnell eroͤffnete Gaſſe der ſtaunenden Seelen,
+Nach der eigenen Hoͤlle verlangend, wo er zu Haus war.
+Und man hoͤrte noch weit aus der Ferne des Fluͤchtigen
+Wehlaut.
+
+
+
+[188/0204]
+Aber es ſtanden die Schaaren umher von Grauſen ge¬
+feſſelt,
+Ehrfurchtsvoll die Augen zum ſicheren Manne erhoben.
+Dieſer hielt noch und wog den wuchtigen Schweif in den
+Haͤnden,
+Den bisweilen zuckender Schmerz noch leiſe bewegte;
+Sinnend ſchaut' er ihn an und ſprach die prophetiſchen
+Worte:
+
+„Wie viel Mal thut der ſichere Mann dem Teufel ein
+Leides?
+Erſtlich heute, wie eben geſchehn, ihr ſaht es mit Augen.
+Dann ein zweites, ein drittes Mal in der Zeiten Voll¬
+endung:
+Dreimal rauft der ſichere Mann dem Teufel den Schweif
+aus.
+Solcher ſproſſet ihm zwar von Neuem, aber nicht ganz mehr,
+Sondern kuͤrzer, je um ein Drittel, bis daß er welket.
+Gleichermaßen vergeht dem Boͤſen der Muth und die
+Staͤrke,
+Kindiſch wird er und alt und ein Bettler, Allen verachtet.
+Dann wird ein Jubel ſeyn in der Unterwelt und auf
+der Erde,
+Aber der ſichere Mann wird ein lieber Genoſſe den Goͤttern.“
+
+Dies geſprochen, legt er den Schweif in das Buch als
+ein Zeichen,
+Sorgſam, daß oben noch juſt der haarige Buͤſchel herausſah:
+„So! da machen wir denn ein ander Mal weiter!“ und
+— Baſta
+
+
+
+[189/0205]
+Schlaͤgt er den Deckel zu des ungeheueren Werkes,
+Faßt es unter den Arm, nimmt Hut und Stock und em¬
+pfiehlt ſich.
+
+Unermeßliches Beifallklatſchen des ſaͤmmtlichen Poͤbels
+Folgte dem Trefflichen nach, bis er ganz in der Pforte
+verſchwunden,
+Und es rauſchte noch lang und toſete ſchwaͤrmende Freude.
+
+Aber Lolegrin hatte, der Gott, das ganze Spektakel
+Heimlich mit angeſehn und gehoͤrt, in Geſtalt der Cicade
+Auf dem hangenden Zweig der ſchwarzen Weide ſich wiegend.
+Jetzo verließ er den Ort und ſchwang ſich empor zu den
+Goͤttern,
+Ihnen treulich zu melden die Thaten des ſicheren Mannes
+Und das himmliſche Mahl mit ſuͤßem Gelaͤchter zu wuͤrzen.
+
+
+
+[190/0206]
+Geſang Weyla's.
+Du biſt Orplid, mein Land!
+Das ferne leuchtet;
+Vom Meere dampfet dein erwaͤrmter Strand
+Den Nebel, ſo der Goͤtter Wange feuchtet.
+
+Uralte Waſſer ſteigen
+Verjuͤngt um deine Huͤften, Kind!
+Vor deiner Gottheit beugen
+Sich Koͤnige, die deine Waͤrter ſind.
+
+
+
+[191/0207]
+Der Tambour.
+Wenn meine Mutter hexen koͤnnt',
+Da muͤßt' ſie mit dem Regiment
+Nach Frankreich, uͤberall mit hin,
+Und waͤr' die Markedenterin.
+Im Lager, wohl um Mitternacht,
+Wenn Niemand auf iſt als die Wacht,
+Und Alles ſchnarchet, Roß und Mann,
+Vor meiner Trommel ſaͤß' ich dann:
+Die Trommel muͤßt' eine Schuͤſſel ſeyn,
+Ein warmes Sauerkraut darein,
+Die Schlegel Meſſer und Gabel,
+Eine lange Wurſt mein Sabel,
+Mein Tſchako waͤr' ein Humpen gut,
+Gefuͤllet mit Burgunderblut,
+Und weil es mir an Lichte fehlt,
+Da ſcheint der Mond in mein Gezelt,
+Scheint er auch auf Franzoͤ'ſch herein,
+Mir faͤllt doch meine Liebſte ein:
+Ach weh! jezt hat der Spaß ein End'!
+— Wenn nur meine Mutter hexen koͤnnt'!
+
+
+
+[192/0208]
+Die Soldatenbraut.
+Ach, wenn's nur der Koͤnig auch wuͤßt',
+Wie wacker mein Schatzelein iſt!
+Fuͤr den Koͤnig, da ließ er ſein Blut,
+Fuͤr mich aber eben ſo gut.
+
+Mein Schatz hat kein Band und kein' Stern,
+Kein Kreuz wie die vornehmen Herrn,
+Mein Schatz wird auch kein General:
+Haͤtt' er nur ſeinen Abſchied einmal!
+
+Es ſcheinen drei Sterne ſo hell
+Dort uͤber Marien-Kapell;
+Da knuͤpft uns ein roſenroth Band,
+Und ein Hauskreuz iſt auch bei der Hand.
+
+
+
+[193/0209]
+Auftrag.
+An S.
+
+In poetiſcher Epiſtel
+Ruft ein deſperater Wicht
+Aus dem Ton der hoͤchſten Fiſtel:
+Schurke, warum ſchreibt Er nicht?!
+
+Weiß Er doch, es laſſen Herzen,
+Die die Liebe angeweht,
+Ganz und gar nicht mit ſich ſcherzen,
+Und nun vollends ein Poet!
+
+Denn ich bin von dem Gelichter,
+Dem der Kopf beſtaͤndig voll:
+Bin ich auch nur halb ein Dichter,
+Bin ich doch zur Haͤlfte toll.
+
+Amor hat Ihn mir verpflichtet,
+Und fuͤrwahr, der durft' es ſchon,
+Denn der Mund, der Ihm berichtet,
+Reicht zugleich den Botenlohn.
+
+Paſſ' Er denn zur guten Stunde,
+Wenn Sein Schatz durch's Laͤdchen ſchaut
+Lock' ihr jedes Wort vom Munde,
+Das mein Schaͤtzchen ihr vertraut.
+
+
+Moͤrike, Gedichte 13
+
+[194/0210]
+Schreib' Er mir dann von dem Maͤdchen
+Ein halb Dutzend Bogen voll,
+Und daneben ein Traktaͤtchen,
+Wie ich mich verhalten ſoll.
+
+
+
+[195/0211]
+Unſer Friz.
+(d. 3. Maͤrz 1827.)
+
+Unſer Friz richt't ſeinen Schlag,
+Wollt' ein Meislein fangen,
+Doch weil ihm denſelben Tag
+Keines drein gegangen,
+Wird dem Friz zu lang die Zeit,
+Denkt: ich hab' umſonſt geſtreut,
+Will ja keine kommen.
+
+Nach acht Tagen faͤllt ihm ein,
+Im Garten zu ſpazieren:
+Es iſt ſchoͤner Sonnenſchein,
+Man kann nicht erfrieren;
+Und am alten Apfelbaum
+Kommt's ihm ploͤtzlich wie im Traum:
+Ob der Schlag gefallen?
+
+„Ja! es ſizt ein Vogel drinn!
+Aber, weh! o wehe!
+Das iſt trauriger Gewinn:
+Todt, ſo viel ich ſehe!
+— Aber was kann ich dafuͤr?
+Sicher hat das dumme Thier
+Sich zu todt gefreſſen!“
+
+
+13 *
+
+[196/0212]
+So troͤſt't ſich dein Moͤrder wohl,
+Der dich hungern laſſen,
+Aber ich vor Leid und Groll
+Weiß mich nicht zu faſſen!
+Haſt alle Broͤslein aufgepickt,
+Haſt dann vergebens umgeblickt,
+Wo noch ein Koͤrnlein waͤre!
+
+Ihr andern Voͤglein alleſammt,
+Wohl unterm blauen Himmel!
+Ihr habt mit Wehgeſang verdammt
+Den Vogelſteller-Luͤmmel.
+Ach, Eines ſtarb ſo balde, bald!
+Eben da in Feld und Wald
+Der Fruͤhling wollte kommen.
+
+
+
+[197/0213]
+Einer verehrten Frau
+zum Geburtstage, mit einem Blumenſtock.
+Man ſagt, an ſolchen Tagen ſey es Pflicht,
+Sich ſelber einen Spiegel vorzuhalten;
+Ich bring' ihn Dir; verſchmaͤh' dies Bluͤmchen nicht,
+Es ſoll Dir Deinen eignen Werth entfalten.
+
+Sieh' der beſcheidenen Reſeda Bluͤthe,
+Ein Bild der Menſchenfreundlichkeit,
+Die ohne Prunk, voll innerer Herzensguͤte,
+Den Wohlgeruch der thaͤt'gen Liebe ſtreut.
+
+
+
+[198/0214]
+Die Viſite.
+Philiſter kommen angezogen:
+Man ſucht im Garten mich und Haus;
+Doch war der Vogel ausgeflogen
+Zum vielgeliebten Wald hinaus.
+Sie kommen, mich auch da zu ſtoͤren;
+Schon heißt es: Horcht! die Nachtigall!
+— Gleich laſſ' ich mich als Gukuk hoͤren,
+Bin nirgends und bin uͤberall.
+
+So fuͤhrt' ich ſie, nur wie im Traume,
+Als Puck im ganzen Wald herum;
+Ich pfiff und ſang von jedem Baume,
+Sie ſahn ſich faſt die Haͤlſe krumm.
+Nun ſchalten ſie: Verfluchte Poſſen!
+Der Sonderling, der Grobian!
+Da komm' ich grunzend angeſchoſſen,
+Ein Eber, mit gefletſchtem Zahn.
+
+Mit Schrei'n, als wenn der Boden brennte,
+Zerſtob ein Theil im wilden Lauf,
+Die Andern kletterten behende
+Den naͤchſten beſten Baum hinauf;
+Sie krochen weislich bis zum Wipfel,
+Und ſahen nicht einmal zuruͤck,
+Doch ich als Eichhorn ſaß im Gipfel:
+Ich gruͤße ſie und wuͤnſche Gluͤck.
+
+
+
+[199/0215]
+„Ei, welch ein allerliebſtes Spaͤßchen!
+Gott gruͤß' euch, ſchoͤne Fraun und Herrn!
+Sie kommen, hoff' ich, auf ein Taͤßchen
+Eichel-Kaffee? Von Herzen gern!“
+— Allein ſie fanden's nicht gemuͤthlich
+In dieſer ungewohnten Hoͤh'.
+So ſchieden wir fuͤr heute guͤtlich;
+Doch wehe meiner Renommée!
+
+
+
+[200/0216]
+An —
+Ei, wer haͤtt' es je gemeint,
+Fraͤulein Ludovike!
+Hat man denn, ſo lieb man ſcheint,
+Auch geheime Tuͤcke?
+
+Maͤdchen! wer ergruͤndet euch?
+Raͤthſel ohne Ende!
+Arg und falſch und engelgleich,
+Wer das reimen koͤnnte!
+
+O, nicht ſuͤßen Honig nur
+Fuͤhren eure Lippen;
+Und ſo ſeyd ihr von Natur
+Liebliche X — — —.
+
+
+
+[201/0217]
+An Florentine.
+Wildes Maͤdchen! ſchau mir doch
+Einmal recht in's Auge!
+Ob ſo gar nichts dir darin
+Nur ein wenig tauge?
+
+Zwar dein liebes Bild haſt du
+Oefters drin geſehen,
+Freuteſt auch des Spiegels dich,
+Laͤß'ſt ihn wieder ſtehen.
+
+Doch ſo mußt du mehr und mehr
+Dir darin gefallen,
+Und am Ende bleibt er dir
+Lieb und werth vor allen.
+
+
+
+[202/0218]
+Der Liebhaber
+an die heiße Quelle in B.
+Du heileſt Den und troͤſteſt Jenen,
+O Quell, ſo hoͤr' auch meinen Schmerz!
+Ich klage dir mit bittern Thraͤnen
+Ein hartes, kaltes Maͤdchenherz.
+
+Es zu erweichen, zu durchgluͤhen,
+Dir iſt es eine leichte Pflicht;
+Man kann ja Huͤhner in dir bruͤhen,
+Warum ein junges Gaͤnschen nicht?
+
+
+
+[203/0219]
+Lammwirths Klagelied.
+Da droben auf dem Markte
+Spazier' ich auf und ab,
+Den ganzen lieben langen Tag,
+Und ſchaue die Straße hinab.
+
+Es ſteht ein Regenbogen
+Wohl uͤber jenem Haus,
+Mein Schild iſt eingezogen,
+Ein andrer hangt heraus!
+
+Heraus hangt uͤber der Thuͤre
+Ein Hahn mit rothem Kamm;
+Als ich die Wirthſchaft fuͤhrte,
+War es ein guͤldenes Lamm.
+
+Mein Schaͤflein wohl zu ſcheeren,
+Ich ſparte keine Muͤh',
+Ich bin herunter gekommen,
+Und weiß doch ſelber nicht, wie.
+
+Nun laͤuft es mit Koͤchen und Kellnern
+Im ganzen Hauſe ſo voll,
+Ich weiß nicht, wem ich von Allen
+Zuerſt den Hals brechen ſoll.
+
+
+
+[204/0220]
+Da kommen die Chaiſen gefahren!
+Der Hausknecht ſpringt in die Hoͤh'.
+Voruͤber, ihr Roͤßlein, voruͤber,
+Dem Lammwirth iſt gar ſo weh!
+
+
+
+[205/0221]
+Der Kanonier.
+(Mit einer Zeichnung.)
+
+Auf der Erde begegneten ſich die Schaaren des Himmels
+Und der Hoͤllen; es kommt eben zur foͤrmlichen Schlacht.
+Vorn am Huͤgel ſteht ein Teufel bei der Kanone;
+Sein ſtets rauchender Schwanz dient ihm als Lunte dabei.
+(Etwas phantaſtiſch geformt iſt der Feuerſchlund, Fluͤgel
+des Drachen,
+Statt der Raͤder, ſtehn huͤben und druͤben empor:
+Denn man braucht dies Geſchuͤtz zuweilen uͤber den Wolken
+Bei Blokaden, da fliegt es durch die hoͤlliſche Kunſt.)
+Aber der Kerl iſt feige; denn waͤhrend langſam der
+Schweif ſich
+Nach dem Zuͤndloch bewegt, haͤlt er die Ohren ſich zu,
+Seitwaͤrts uͤber die Achſel nur ſchielend, jetzo die Augen
+Feſt zudruͤckend: Tupf! folgt der entſetzliche Knall.
+
+
+
+[206/0222]
+Charis und Penia.
+A.
+
+Seht doch den Schlaͤfer dort in's Gras geſtreckt!
+Es iſt des Gauklers Sohn, der ſchoͤne Knabe,
+Den geſtern wir ſo lieblich tanzen ſahn.
+Fuͤr jezt das bunte Jaͤckchen abgeworfen,
+Den Schatten ſuchend vor der Mittagsſchwuͤle,
+Warf er ſich in des Wirthes Garten, faul.
+Hier unter den Syringenbuſch.
+
+B.
+
+Frei, losgebunden ruht ein jedes Glied;
+Nur bei den Knoͤcheln ſchmiegen ſich die Fuͤße,
+Das rothe Paar der Stiefeln, um einander,
+Dem Bluͤthenknopfe des Granatbaums gleich,
+Der eben aufzubrechen Willens iſt;
+Es ſcheinen ſeine Fuͤße wie zum Tanz
+In jedem Augenblicke ſich zu oͤffnen.
+
+C.
+
+Es iſt, als athmen ſie im Schlafe ſelbſt
+Den holden Geiſt des Tanzes! Ja gewiß,
+Er traͤumt Muſik zu hoͤren.
+
+A.
+
+Aber ſeht,
+Wie ruͤhrend ſpricht aus dieſen fremden Zuͤgen
+Jezt offne, reine Menſchlichkeit ſich aus!
+
+
+
+[207/0223]
+Bajazzo's rohe Stimme iſt entfernt,
+Die Peitſche, die zum Scherze, doch empfindlich,
+Den Kleinen traf, der ſich zum Lachen zwang.
+
+
+B.
+
+Ich weck' ihn auf! und ſtuͤrzt er auch im Traum
+Von ſeinem Seil, er faͤllt in's weiche Gras.
+
+Knabe im Schlaf.
+
+No! No! per Dio santο! Mein iſt die Wurſt,
+Du Immeldonnerwetter!
+
+Die Freunde.
+
+Ach ſo! Das war's!
+Nun, das iſt luſtig!
+
+C.
+
+Er erwacht und hebt
+Den Kopf; verſtoͤrt, beſchaͤmt ſchaut er uns an.
+
+B.
+
+Komm, guter Junge, dort an unſern Tiſch!
+So recht — nur munter!
+Magſt du denn Wurſt?
+
+Knabe.
+
+Si, si, cari Signori!
+Gern, das ik freß'.
+
+A.
+
+O Charis! O Penia!
+Wie ſeyd ihr einzig, wenn ihr euch umarmt!
+
+
+[208/0224]
+An meinen Vetter.
+Lieber Vetter! Er iſt eine
+Von den freundlichen Naturen,
+Die ich Sommerweſten nenne.
+Denn ſie haben wirklich etwas
+Sonniges in ihrem Weſen.
+Es ſind weltliche Beamte,
+Rechnungsraͤthe, Reviſoren,
+Oder Cameralverwalter,
+Auch wohl manchmal Herrn vom Handel,
+Aber meiſt vom aͤltern Schlage,
+Keinesweges Petitmaitres,
+Haben manchmal huͤbſche Baͤuche,
+Und ihr Vaterland iſt Schwaben.
+
+Neulich auf der Reiſe traf ich
+Auch mit einer Sommerweſte
+In der Poſt zu Beſigheim
+Eben zu Mittag zuſammen.
+Und wir ſpeisten eine Suppe,
+Darin rothe Krebſe ſchwammen,
+Rindfleiſch mit franzoͤ'ſchem Senfe,
+Dazu liebliche Radieschen,
+Dann Gemuͤſe, und ſo weiter;
+Schwazten von der neu'ſten Zeitung,
+Und daß es an manchen Orten
+Geſtern ſtark gewittert habe.
+
+
+
+[209/0225]
+Druͤber zieht der wackre Herr ein
+Silbern Buͤchslein aus der Taſche,
+Sich die Zaͤhne auszuſtochern;
+Endlich ſtopft er ſich zum ſchwarzen
+Kaffee ſeine Meerſchaumpfeife,
+Dampft und discurrirt und ſchaut in¬
+mittelſt einmal nach den Pferden.
+
+Und ich ſah ihm ſo von hinten
+Nach und dachte: Ach, daß dieſe
+Lieben, hellen Sommerweſten,
+Die bequemen, angenehmen,
+Endlich doch auch ſterben muͤſſen!
+
+
+Moͤrike, Gedichte. 14
+
+[210/0226]
+Gute Lehre
+In unſers Pfarrers Garten,
+Es faͤllt ein warmes Regelein,
+Wie duften da die Blumen,
+Die Apfelbluͤth' ſo fein!
+
+Im Haͤuſelein da druͤben
+Ein Bauer veſpert wohlgemuth,
+Hat's Fenſterlein halb offen,
+Das Luͤftlein thaͤt ihm gut.
+
+Ei, ſpricht er bei ſich ſelbſten,
+Ein Sonntagsſtraͤuschen haͤtt' ich gern,
+Auf morgen in die Predigt,
+Tulipanen oder Stern.
+
+Ein Voͤglein hat's vernommen,
+Das denkt: dir ſoll geholfen ſeyn;
+Thaͤt ſchnell ein Bluͤmlein holen,
+Und bringt's im Schnaͤbelein.
+
+Ei, lachte da mein Peter!
+Hat flugs ſein Fenſter zugemacht,
+Hat's Voͤgelein gefangen
+Und in den Kaͤfig bracht.
+
+
+
+[211/0227]
+Ach, muß das Voͤglein trauern!
+Und war auch von der Stunde krank;
+Sind feine Kerl die Bauern,
+Die geben Stank fuͤr Dank!
+
+
+14 *
+
+[212/0228]
+Reſtauration
+nach Durchleſung eines Manuſcripts mit Gedichten.
+
+Das ſuͤße Zeug ohne Saft und Kraft!
+Es hat mir all mein Gedaͤrm erſchlafft.
+Es roch, ich will des Henkers ſeyn,
+Wie lauter welke Roſen und Camille-Bluͤmlein.
+Mir ward ganz uͤbel, mauſerig, dumm,
+Ich ſah mich ſchnell nach was Tuͤchtigem um,
+Lief in den Garten hinter'm Haus,
+Zog einen herzhaften Rettig aus,
+Fraß ihn auch auf bis auf den Schwanz,
+Da war ich wieder friſch und geneſen ganz.
+
+
+
+[213/0229]
+Zur Warnung.
+Einmal nach einer luſtigen Nacht
+War ich am Morgen ſeltſam aufgewacht:
+Durſt — Waſſerſcheu — ungleich Gebluͤt,
+Dabei geruͤhrt und weichlich im Gemuͤth,
+Beinah poetiſch, ja, ich bat die Muſe um ein Lied;
+Sie, mit verſtelltem Pathos, ſpottet' mein,
+Gab mir den ſchnoͤden Bafel ein:
+
+„Es ſchlagt eine Nachtigall
+Am Waſſerfall;
+Und ein Vogel ebenfalls,
+Der ſchreibt ſich Wendehals,
+Johann Jakob Wendehals;
+Der thut tanzen
+Bei den Pflanzen
+Obbemeldten Waſſerfalls —“
+
+So ging es fort: mir wurde immer baͤnger;
+Jezt ſprang ich auf — zum Wein; der war denn auch
+mein Retter.
+— Merkt's euch, ihr thraͤnenreichen Saͤnger,
+Im Katzenjammer ruft man keine Goͤtter!
+
+
+
+[214/0230]
+Alles mit Maas.
+Mancherlei ſind der Gaben, die guͤtige Goͤtter den Menſchen
+Zum Genuſſe verliehn und fuͤr die taͤgliche Nothdurft.
+Aber vor jeglichem Ding begehr' ich gebratenen Schweinsfuß.
+Meine Frau Wirthin, die merkt's, nun hab' ich alle Tag'
+Schweinsfuͤß'.
+Oefters ahnt' mir im Geiſt: jezt iſt kein einziger
+Schweinsfuß
+In der Stadt mehr zu finden: Was krieg' ich zu Mit¬
+tage? Schweinsfuͤß'!
+Spraͤche der Koͤnig nun gleich zu ſeinem Koch: Schaff'
+mir Schweinsfuͤß'!
+Gnade der Himmel dem Mann! denn nirgend mehr wan¬
+delt ein Schweinsfuß.
+Und ich ſagte zur Wirthin zulezt: Nun laßt mir die
+Schweinsfuͤß'!
+Denn er ſchmeckt mir nicht mehr wie ſonſt, der braͤun¬
+liche Schweinsfuß.
+Aber ſie denkt, aus Zartgefuͤhl nur verbaͤt' ich die Schweins¬
+fuͤß',
+Laͤchelnd bringet ſie mir auch heute gebratenen Schweins¬
+fuß —
+Ei ſo hole der Teufel auf ewig die hoͤlliſchen Schweinsfuͤß'!
+
+
+
+[215/0231]
+Kalter Streich.
+A.
+
+Ich will mich ſelber juſt nicht ruͤhmen;
+Doch darf ich ſagen: Es iſt ſo im Geiſt
+Von „Stunden der Andacht.“
+
+B.
+
+Ja? Und wie heißt —
+
+A.
+
+Der Titel? „Amor und Hymen;
+Eine chriſtliche Gabe fuͤr beide Geſchlechter,
+Beſonders fuͤr gebildete Toͤchter.“
+
+B.
+
+Pfui Teufel!
+
+A.
+
+Was? Mein Werk? Sind Sie bei Verſtand?
+So eben meldete ſich der achthundertſte Praͤnumerant!
+
+B.
+
+Ich glaub's; die lieben Eltern gegenwaͤrtig
+Sind ſelber ungemein davon charmirt,
+Wenn bei der ſuͤßen Jugend allzeit' fertig
+Amor dem Hymen praͤnumerirt.
+
+
+
+[216/0232]
+Falſche Manier.
+Ach, ich merke, Freund, du moͤchteſt
+Gern pikant dein ſuͤß Gedicht;
+Aber in der Pfeffermuͤhle
+Mahlt man keinen Zucker nicht.
+
+
+Schul-Schmäcklein.
+Ei ja! es iſt ein vortrefflicher Mann,
+Wir laſſen ihn billig ungerupft;
+Aber ſeinen Verſen merkt man an,
+Daß der Verfaſſer Lateiniſch kann
+Und ſchnupft.
+
+
+
+[217/0233]
+Auf die Proſa eines Beamten.
+A.
+
+Welch ein Gedankendrang in den Perioden! ein wahrer
+Stilus infarctus, von dem Quinctilian nichts gewußt!
+
+B.
+
+Ganz wurſtartig, auf Ehre! Die Schrift iſt ein einzig
+farcimen,
+Und der Zipfel guckt hinten und vorne heraus.
+
+
+
+[218/0234]
+Bei Gelegenheit eines Kinderſpielzeugs,
+vorſtellend:
+Hanswurſt an der Sandmühle.
+Hanswurſt.
+
+Schauen's gefaͤlligſt, meine Lieben,
+Ein huͤbſch Geſchaͤft wird hier betrieben.
+Geht wohl einem Muͤller im ganzen Land
+Sein Metier ſo luſtig aus der Hand?
+Zwar das bekenn' ich frank und frei,
+Beſonderer Segen iſt nicht dabei:
+Sand gießt man ein, Sand kommt heraus;
+Man daͤchte faſt, hier waͤr' ein Narr zu Haus.
+Sobald ich uͤbrigens inſoweit fertig bin,
+Hab' ich etwas wirklich Gemeinnuͤtziges im Sinn.
+
+Ein Bürger.
+
+Was denn, Hans?
+
+Hanswurſt.
+
+Ein neues Augenpulver.
+
+Zweiter Bürger.
+
+Aus Streuſand, Kerl? o weh!
+
+Hanswurſt.
+
+Ein herrlich Volksmittel.
+
+Erſter Bürger.
+
+Volksmittel? Ich verſteh'
+Spitzbub! Schlagt ihm den Schaͤdel ein!
+
+
+[219/0235]
+Hanswurſt.
+
+Ihr Herrn, da muß ein Irrthum ſeyn.
+
+Beide Bürger.
+
+Hundsfott! dich hat die Regierung im Sold!
+
+Hanswurſt.
+
+Ich will des Teufels ſeyn, ich weiß nicht, was ihr wollt.
+Huͤlfe! zu Huͤlfe!
+
+Andere.
+
+Was gibt's?
+
+Erſter und Zweiter.
+
+Da! Sand will man uns in die Augen ſtreu'n!
+Der Polignac ſteckt dahinter!
+
+Andere.
+
+Seyd geſcheidt.
+Der Narr hatt' euch zum Beſten, gute Leut'!
+Ihr kennt ihn ja, es iſt der Alte.
+
+Hanswurſt.
+
+Gleich beißen und kratzen! Gott verdamm's!
+Hab' doch tauſend Farben an Hoſen und Wamms,
+Zum Zeichen, daß ich's mit keiner halte!
+Wenn ich meinen Purzelbaum machen kann,
+Was ficht die Politik mich an?
+
+Ein Bürger.
+
+Ich glaub's ihm gern; der Sand iſt nur ſo nebenher.
+
+Hanswurſt.
+
+Mein Seel! treibt ihr mein Rad, ich mahl' euch lotterleer!
+
+
+[220/0236]
+Erſter Bürger.
+
+Der Tagdieb!
+
+Hanswurſt.
+
+Was, du Schuft?
+Gott der Herr ſchlaͤgt am luſtigen Sommertage
+Seinen bunten Reifen in die Luft, —
+Was guckſt du ſcheel, wenn ich den meinen ſchlage?
+Der eine nuzt ſo wenig wie der ander',
+Aber Kinder und Narren ſehen's gern.
+Ich bin nicht Bonapart' und bin nicht Alexander,
+Und hab' doch meinen Sparr'n ſo gut wie dieſe Herrn.
+— Was fuͤhrt ihr uͤberhaupt ſo hohen Ton
+Und ſchaͤmt euch ſchier, mich auch nur zu belachen?
+Ich ſah die ganze wuͤrdige Nation
+Schon viel poſſierlichere Spruͤnge machen!
+
+Aus jezt — wem ſein Kopf lieb iſt!
+
+
+
+[221/0237]
+Hülf' in der Noth.
+Ein rechter Freund erſcheint uns in der Noth
+Zu rechter Zeit und ſicher wie der Tod.
+Doch offen, Beſter, ſag' ich dir,
+Du haſt eine ganz verwuͤnſchte Manier!
+Du trockneſt mir den Jammerſchweiß,
+Und machſt mir doch die Hoͤlle heiß,
+Du bringſt das ganze juͤngſte Gericht
+Mit dir; — bei Gott, ſo meint' ich's nicht!
+
+
+
+[222/0238]
+Selbſtgeſtändniſs.
+Ich bin meiner Mutter einzig Kind,
+Und weil die andern ausblieben ſind,
+Was weiß ich wie viel, die Sechs oder Sieben,
+So iſt eben Alles an mir haͤngen blieben;
+Ich hab' muͤſſen die Liebe, die Treue, die Guͤte
+Fuͤr ein ganz halb Dutzend allein aufeſſen,
+Ich will's mein Lebtag nicht vergeſſen.
+Es haͤtte mir aber noch wohl moͤgen frommen,
+Haͤtt' ich nur auch Schlaͤg' fuͤr Sechſe bekommen.
+
+
+
+[223/0239]
+Bei einer Trauung.
+Vor lauter hochadligen Zeugen
+Copulirt man ihrer Zwei;
+Die Orgel haͤngt voll Geigen,
+Der Himmel nicht, mein' Treu!
+O weh', ſie weint ja graͤulich,
+Er macht ein Geſicht abſcheulich!
+Denn leider, freilich, freilich
+Keine Lieb' iſt nicht dabei.
+
+
+
+[224/0240]
+Meines Vetters Brautfahrt.
+Ach, wie wird er ſich freun, die liebe Braut zu begruͤßen!
+— Aber wo bleibt er ſo lang? Sagt ihm, die Kutſche
+ſey da!
+Droben liegt er im Bett, verdrießlich, und lieſet in Schellers
+Lexikon! als ich ihn ſchalt, rief er halb grimmig:
+„Nun ja,
+Gebt mir andere Struͤmpf'! die haben Loͤcher — ach freilich
+Eine Frau muß in's Haus, die mich von Fuß auf
+kurirt!“
+
+
+[225/0241]
+An einen Prediger.
+Lieber! ganz im Vertrauen geſagt: Es buhlt mit dem
+Ehrgeiz
+Deine Andacht: Du traͤgſt Hoͤrnlein, und Satanas
+lacht.
+
+
+Moͤrike, Gedichte. 15
+
+[226/0242]
+Paſtor an ſeine Zuhörer.
+Gefall' ich euch nicht, ei ſo bleibt doch zu Haus,
+Oder geht zu einem Andern!
+Der zieht euch die Zaͤhn' mit dem Stiefelknecht aus;
+Wir ſind noch von den Galantern.
+
+
+Paſtoral-Erfahrung.
+Meine guten Bauern freuen mich ſehr;
+Eine „ſcharfe Predigt“ iſt ihr Begehr.
+Und wenn man mir es nicht verdenkt,
+Sag' ich, wie das zuſammenhaͤngt.
+Sonnabend, wohl nach Elfe ſpat,
+Im Garten ſtehlen ſie mir den Salat;
+In der Morgenkirch' mit guter Ruh'
+Erwarten ſie den Eſſig dazu;
+Der Predigt Schluß fein linde ſey:
+Sie wollen gern auch Oel dabei.
+
+
+
+[227/0243]
+Neutheologiſche Kanzelberedtſamkeit.
+A.
+
+Der bibliſche Text iſt gar nicht ſchlecht,
+Nur ſing' ich nach eigenen Noten.
+
+B. bei Seite.
+
+Ja, unterſucht nur ſeine Kanzel recht:
+Sie hat einen doppelten Boden!
+
+Lückenbüſser.
+„Hochehrwuͤrdiger Herr“, ſo haͤtt' ich gerne geſchrieben,
+Aber die Ehre ſchien mir faſt und die Wuͤrde zu hoch;
+Euch verdroß indeß mein P. P.; doch ſetz ich es wieder
+Ueber den Brief; denkt Euch pater peccavi dabei.
+
+
+15 *
+
+[228/0244]
+An —
+Laß doch dein Dichten! haſt ja Geld;
+Tropf! brauch's, die Poeſie lebendig zu betreiben!
+Was gilt's? dich freut das Schoͤnſte in der Welt
+Nur halb, vor lauter Angſt, du muͤſſeſt es beſchreiben.
+
+
+Auskunft.
+Dumme Tadler und Lober auf beiden Seiten! Doch darum
+Hat mir mein Schoͤpfer den Kopf zwiſchen die Ohren
+geſezt.
+
+
+
+[229/0245]
+Abſchied.
+Unangeklopft ein Herr tritt Abends bei mir ein:
+„Ich habe die Ehr', Ihr Recenſent zu ſeyn.“
+Sofort nimmt er das Licht in die Hand,
+Beſieht lang meinen Schatten an der Wand,
+Ruͤckt nah und fern: „Nun, lieber junger Mann,
+Sehn Sie doch gefaͤlligſt 'mal Ihre Naſ' ſo von der Seite an!
+Sie geben zu, daß das ein Auswuchs is.“
+— Das? Alle Wetter — gewiß!
+Ei Haſen! ich dachte nicht,
+All mein Lebtage nicht,
+Daß ich ſo eine Welts-Naſe fuͤhrt' im Geſicht!!
+
+Der Mann ſprach noch Zerſchiednes hin und her,
+Ich weiß, auf meine Ehre, nicht mehr;
+Meinte vielleicht, ich ſollt' ihm beichten.
+Zulezt ſtand er auf; ich that ihm leuchten.
+Wie wir nun an der Treppe ſind,
+Da geb' ich ihm, ganz froh geſinnt,
+Einen kleinen Tritt
+Nur ſo von hinten auf's Geſaͤße mit —
+Alle Hagel! ward das ein Gerumpel,
+Ein Gepurzel, ein Gehumpel!
+Dergleichen hab' ich nie geſehn,
+All mein Lebtage nicht geſehn
+Einen Menſchen ſo raſch die Trepp' hinab gehn!
+
+
+
+[230/0246]
+Tout comme chez nous.
+Erſte Henne.
+
+Nur Einen Dotter hat doch ſonſt ein Ei,
+Das meine hier hat ihrer zwei!
+
+Andere Henne.
+
+Ach, Frau Gevatter, ich bitte Sie!
+Das gibt wahrhaftig ein Genie.
+
+Dritte Henne.
+
+Ja wohl, Natur treibt gern ſo loſes Spiel,
+Hat manchmal einen Sparren zu viel.
+
+Der Hahn halblaut.
+
+Ich glaub', der Wind blaͤst wo anders her:
+Die legt ſchon Jahr und Tag nicht mehr.
+Kikeriki!
+
+
+
+[231/0247]
+Peregrina.
+I.
+Der Spiegel dieſer treuen, braunen Augen
+Iſt wie von innerm Gold ein Widerſchein;
+Tief aus dem Buſen ſcheint er's anzuſaugen,
+Dort mag ſolch Gold in heil'gem Gram gedeih'n.
+In dieſe Nacht des Blickes mich zu tauchen,
+Unwiſſend Kind, du ſelber laͤdſt mich ein,
+Willſt, ich ſoll kecklich mich und dich entzuͤnden,
+Reichſt laͤchelnd mir den Tod im Kelch der Suͤnden!
+
+II.
+Aufgeſchmuͤckt iſt der Freudenſaal.
+Lichterhell, bunt, in laulicher Sommernacht
+Stehet das offene Gartengezelte;
+Saͤulengleich ſteigen,
+Reichlich durchwirket mit Laubwerk,
+Die ſtolzen Leiber
+Sechs gezaͤhmter, rieſiger Schlangen,
+Tragend und ſtuͤtzend das
+Leichtgegitterte Dach.
+
+Aber die Braut noch wartet beſcheiden
+In dem Kaͤmmerlein ihres Hauſes;
+Endlich bewegt ſich der Zug der Hochzeit,
+
+
+
+[232/0248]
+Fackeln tragend,
+Feierlich ſtumm.
+Und in der Mitte,
+Mich an der rechten Hand,
+Schwarzgekleidet geht einfach die Braut,
+Schoͤngefaltet ein Scharlachtuch
+Liegt um den zierlichen Kopf geſchlagen;
+Laͤchelnd geht ſie dahin;
+Das Mahl ſchon duftet.
+
+Spaͤter im Laͤrmen des Feſts
+Stahlen wir ſeitwaͤrts uns Beide
+Weg, nach den Schatten des Gartens wandelnd,
+Wo im Gebuͤſche die Roſen brannten,
+Wo der Mondſtrahl um Lilien zuckte,
+Wo die Baͤume vom Nachtthau troffen.
+
+Und nun ſtrich ſie mir, ſtilleſtehend,
+Seltſamen Blicks mit dem Finger die Schlaͤfe,
+Jaͤhlings verſank ich in tiefen Schlummer,
+Aber geſtaͤrkt vom Wunderſchlafe
+Bin ich erwacht zu gluͤckſeligen Tagen,
+Fuͤhrte die ſeltſame Braut in mein Haus ein.
+
+
+III.
+Ein Irrſal kam in die Mondſcheingaͤrten
+Einer einſt heiligen Liebe.
+Schaudernd entdeckt' ich verjaͤhrten Betrug.
+
+
+
+[233/0249]
+Und mit weinendem Blick, doch grauſam,
+Hieß ich das ſchlanke,
+Zauberhafte Maͤdchen
+Ferne gehen von mir.
+Ach, ihre hohe Stirn,
+Drin ein ſchoͤner, ſuͤndhafter Wahnſinn
+Aus dem dunkelen Auge blickte,
+War geſenkt, denn ſie liebte mich;
+Aber ſie zog mit Schweigen
+Fort in die graue,
+Stille Welt hinaus.
+
+Von der Zeit an
+Kamen mir Traͤume voll ſchoͤner Truͤbe,
+Wie geſponnen auf Nebelgrund;
+Wußte nimmer, wie mir geſchah,
+War nur ſchmachtend ſeliger Krankheit voll.
+
+Oft in den Traͤumen zog ſich ein Vorhang
+Finſter und groß in's Unendliche
+Zwiſchen mich und die dunkle Welt;
+Hinter ihm ahnt' ich ein Haideland,
+Hinter ihm hoͤrt' ich's wie Nachtwind ſauſen;
+Auch die Falten des Vorhangs
+Fingen bald an, ſich im Sturme zu regen:
+Gleich einer Ahnung ſtrich er dahinten,
+Ruhig blieb ich und bange doch:
+Immer leiſer wurde der Haideſturm —
+Siehe! da kam's.
+
+
+
+[234/0250]
+Aus einer Spalte des Vorhangs guckte
+Ploͤtzlich der Kopf des Zaubermaͤdchens,
+Lieblich war er und doch ſo beaͤngſtend.
+Sollt' ich die Hand ihr nicht geben
+In ihre liebe Hand?
+Bat denn ihr Auge nicht,
+Sagend: da bin ich wieder
+Hergekommen aus weiter Welt?
+
+
+IV.
+Warum, Geliebte, denk' ich dein
+Auf Einmal mit viel tauſend Thraͤnen,
+Und kann gar nicht zufrieden ſeyn,
+Und will die Bruſt in alle Ferne dehnen?
+
+Ach, geſtern in den hellen Kinderſaal
+Beim Flimmer zierlich aufgeſteckter Kerzen,
+Wo ich mein ſelbſt vergaß in Laͤrm und Scherzen,
+Tratſt du, o Bildniß mitleid-ſchoͤner Qual;
+Es war dein Geiſt, er ſezte ſich an's Mahl,
+Wir ſaßen fremd mit ſtumm verhaltnen Schmerzen,
+Zulezt brach ich in lautes Schluchzen aus,
+Und Hand in Hand verließen wir das Haus.
+
+
+V.
+Die Liebe, ſagt man, ſteht am Pfahl gebunden,
+Geht endlich arm, verlaſſen, unbeſchuht,
+Dies edle Haupt hat nicht mehr, wo es ruht,
+Mit ihren Thraͤnen nezt ſie bittre Wunden.
+
+
+
+[235/0251]
+Ach, Peregrinen hab' ich ſo gefunden!
+Schoͤn war ihr Wahnſinn, ihrer Wange Gluth,
+Noch ſcherzend in der Fruͤhlingsſtuͤrme Wuth,
+Und wilde Kraͤnze in das Haar gewunden.
+
+Wie? ſolche Schoͤnheit konnteſt du verlaſſen?
+So kehrt nun doppelt ſchoͤn das alte Gluͤck!
+O komm', in dieſe Arme dich zu faſſen!
+
+Doch weh'! o weh'! was ſoll mir dieſer Blick?
+Sie kuͤßt mich zwiſchen Lieben, zwiſchen Haſſen,
+Sie kehrt ſich ab — und kehrt mir nie zuruͤck.
+
+
+
+[236/0252]
+Um Mitternacht.
+Bedaͤchtig ſtieg die Nacht an's Land,
+Lehnt traͤumend an der Berge Wand,
+Ihr Auge ſieht die goldne Wage nun
+Der Zeit in gleichen Schalen ſtille ruhn,
+Und kecker rauſchen die Quellen hervor,
+Sie ſingen der Mutter, der Nacht, in's Ohr
+Vom Tage,
+Vom heute geweſenen Tage.
+
+Das uralt alte Schlummerlied,
+Sie achtet's nicht, ſie iſt es muͤd';
+Ihr klingt des Himmels Blaͤue ſuͤßer noch,
+Der fluͤcht'gen Stunden gleichgeſchwungnes Joch.
+Doch immer behalten die Quellen das Wort,
+Es ſingen die Waſſer im Schlafe noch fort
+Vom Tage,
+Vom heute geweſenen Tage.
+
+
+
+[0253]
+
+[0254]
+
+[0255]
+
